@@ -1,0 +1,1120 @@
+employee_id,first_name,last_name,job_title,level,email,dob,phone,address,join_date
+06308201,Jaka,Nababan,Construction Assistant,8,jaka.nababan@gdn-commerce.com,1978-12-06,+62839285740452,"Jl. Gatot Soebroto No. 67, Ngada, JK 01997",2019-03-31
+06309989,Sandi,Harjono,Advertising Developer,9,sandi.harjono@gdn-commerce.com,1971-01-25,+62880647256935,"Apt. 159 Jl. Rasuna Said No. 14, Palembang, SB 93904",2019-03-07
+06309053,Qorri,Nurdiansyah,Education Consultant,6,qorri.nurdiansyah@gdn-commerce.com,1990-07-24,+62874047552859,"Apt. 664 Jl. Juanda No. 42, Hulu Sungai Selatan, GO 62873",2018-08-21
+06308843,Yudhistira,Zulfikri,Chief Consulting Engineer,13,yudhistira.zulfikri@gdn-commerce.com,1988-12-23,+62885680677166,"Suite 653 Jl. Hayamwuruk No. 27, Maybrat, BB 13282",2018-03-17
+06300791,Bagus,Nugraha,Healthcare Engineer,12,bagus.nugraha@gdn-commerce.com,1995-01-18,+62852897071626,"Suite 725 Jl. Gatot Soebroto No. 62, Melawi, RI 97258",2017-10-02
+06300666,Nisa,Oktara,Global Developer,13,nisa.oktara@gdn-commerce.com,1996-07-19,+62894396525366,"Jl. Juanda No. 14, Aceh Barat Daya, KB 85509",2016-03-25
+06309683,Okta,Listyawan,Investor Real-Estate Manager,12,okta.listyawan@gdn-commerce.com,1976-07-13,+62862244161518,"Jl. Hayamwuruk No. 27, Pidie Jaya, KS 34152",2020-04-23
+06300458,Sandi,Ismail,Healthcare Coordinator,6,sandi.ismail@gdn-commerce.com,1982-07-04,+62852260499868,"Suite 424 Jl. Kartini No. 98, Manado, ST 04271",2017-12-13
+06309729,Deni,Setiawan,Dynamic Mining Administrator,9,deni.setiawan@gdn-commerce.com,1977-02-06,+62874336070490,"Jl. Gatot Soebroto No. 26, Sumedang, BA 60094",2018-12-27
+06309724,Nina,Gozali,International Technician,10,nina.gozali@gdn-commerce.com,1985-03-25,+62888227666272,"Jl. Kartini No. 52, Pekalongan, KR 39383",2019-01-05
+06302154,Choirul,Gozali,Design Associate,9,choirul.gozali@gdn-commerce.com,2002-06-14,+62855825331489,"Jl. Juanda No. 67, Yogyakarta, NT 31198",2019-09-20
+06308714,Agus,Waluyo,District Marketing Strategist,5,agus.waluyo@gdn-commerce.com,2002-10-22,+62850605347576,"Jl. Hayamwuruk No. 18, Halmahera Barat, SM 33543",2019-05-06
+06300971,Rosa,Wijaya,District Banking Supervisor,11,rosa.wijaya@gdn-commerce.com,1977-06-13,+62842444722081,"Jl. Gajahmada No. 48, Pasaman Barat, GO 05185",2019-08-31
+06302100,Setya,Prawira,Design Technician,6,setya.prawira@gdn-commerce.com,1979-06-20,+62857220646265,"Suite 228 Jl. Gatot Soebroto No. 66, Barito Utara, PB 57489",2018-03-28
+06301836,Lely,Suryatama,Corporate IT Strategist,8,lely.suryatama@gdn-commerce.com,1993-08-15,+62830906277803,"Suite 602 Jl. Gatot Soebroto No. 40, Konawe Utara, BA 33176",2018-09-28
+06304408,Wira,Waluyo,Hospitality Coordinator,8,wira.waluyo@gdn-commerce.com,1973-02-17,+62884465862073,"Jl. Rasuna Said No. 52, Bojonegoro, SS 71744",2018-05-23
+06306518,Bayu,Linggar,Retail Director,6,bayu.linggar@gdn-commerce.com,1991-10-22,+62842419008031,"Apt. 529 Jl. MH. Thamrin No. 63, Tanjung Jabung Barat, GO 30062",2018-09-22
+06301970,Kiki,Oktara,Direct Agent,13,kiki.oktara@gdn-commerce.com,1990-04-25,+62816423740996,"Apt. 136 Jl. Gatot Soebroto No. 69, Tanah Bumbu, SA 17723",2018-02-08
+06307006,Yoga,Budiman,Regional Sales Associate,8,yoga.budiman@gdn-commerce.com,1985-05-15,+62870376571081,"Jl. Kartini No. 13, Sumedang, KT 06320",2016-09-01
+06303310,Heru,Triwijaya,Construction Facilitator,12,heru.triwijaya@gdn-commerce.com,1977-03-06,+62843208568822,"Jl. Ahmad Yani No. 58, Buru, JA 25216",2017-06-28
+06305295,Vivi,Gunardi,Direct Accounting Administrator,8,vivi.gunardi@gdn-commerce.com,1973-05-07,+62812946377352,"Apt. 859 Jl. Kartini No. 54, Sumedang, JA 18106",2020-02-05
+06306690,Chandra,Mahendra,Retail Specialist,10,chandra.mahendra@gdn-commerce.com,1984-08-24,+62873725434662,"Jl. Ahmad Yani No. 28, Kendal, JK 47847",2019-06-06
+06302457,Dea,Sapta,Education Representative,5,dea.sapta@gdn-commerce.com,1988-08-06,+62837941937533,"Jl. MH. Thamrin No. 53, Baru, NU 68713",2017-08-10
+06307411,Edwin,Jayadinata,Senior Government Officer,13,edwin.jayadinata@gdn-commerce.com,1990-05-29,+62898517045336,"Jl. Ahmad Yani No. 48, Bungo, JA 53660",2019-09-03
+06309916,Niko,Waluyo,Legal Representative,8,niko.waluyo@gdn-commerce.com,1992-04-18,+62890901492067,"Suite 289 Jl. Juanda No. 96, Kepulauan Meranti, GO 21154",2019-01-19
+06304441,Yanuar,Fauzi,Construction Administrator,5,yanuar.fauzi@gdn-commerce.com,1973-10-02,+62820824705939,"Jl. Juanda No. 83, Luwu, NT 60746",2020-10-06
+06303389,Topan,Ilham,District Accounting Technician,7,topan.ilham@gdn-commerce.com,1975-06-18,+62844834277624,"Jl. Gatot Soebroto No. 24, Asmat, JA 08409",2016-06-02
+06304013,Rosa,Ilham,Administration Consultant,11,rosa.ilham@gdn-commerce.com,1982-05-26,+62837010224454,"Jl. Kartini No. 53, Dogiyai, JT 20875",2018-06-20
+06303821,Qorri,Erlangga,Retail Developer,8,qorri.erlangga@gdn-commerce.com,1980-10-30,+62890203794017,"Jl. Kartini No. 49, Sumedang, BB 00983",2017-08-11
+06308801,Pradipta,Hermawan,Direct Retail Consultant,11,pradipta.hermawan@gdn-commerce.com,1985-02-01,+62849719450667,"Jl. Ahmad Yani No. 58, Pangkal Pinang, KT 49680",2016-06-28
+06307702,Zaenal,Ferdian,Community-Services Officer,6,zaenal.ferdian@gdn-commerce.com,1980-08-15,+62826633903647,"Jl. Hayamwuruk No. 20, Asmat, SG 84518",2019-11-11
+06300795,Udin,Ginanjar,Construction Agent,13,udin.ginanjar@gdn-commerce.com,1973-12-06,+62886348858993,"Jl. Juanda No. 10, Pangandaran, BT 95573",2018-01-19
+06306048,Khrisna,Ginting,Senior Specialist,7,khrisna.ginting@gdn-commerce.com,1988-01-17,+62855546999550,"Jl. Gatot Soebroto No. 46, Pemalang, MU 32684",2019-11-18
+06309988,Gugun,Alamsyah,Central Sales Agent,13,gugun.alamsyah@gdn-commerce.com,1970-12-12,+62876009544656,"Apt. 485 Jl. Diponegoro No. 90, Kotawaringin Barat, BA 32011",2018-07-07
+06301510,Yudhistira,Dwiantoro,Regional Hospitality Consultant,9,yudhistira.dwiantoro@gdn-commerce.com,1988-09-15,+62846941348334,"Apt. 210 Jl. Diponegoro No. 96, Barru, AC 31653",2018-11-10
+06309992,Iwan,Jayadinata,Accounting Supervisor,6,iwan.jayadinata@gdn-commerce.com,1989-03-14,+62868826119885,"Suite 229 Jl. Gatot Soebroto No. 67, Kediri, SG 50288",2020-08-26
+06301591,Lely,Ikhsan,Future Retail Developer,11,lely.ikhsan@gdn-commerce.com,1972-04-20,+62835352304219,"Apt. 569 Jl. Rasuna Said No. 47, Buru Selatan, JK 18599",2019-10-04
+06308166,Tito,Indrajaya,Corporate Marketing Analyst,5,tito.indrajaya@gdn-commerce.com,2003-09-18,+62873075721157,"Apt. 137 Jl. Kartini No. 28, Manggarai, KI 94107",2016-02-17
+06301767,Edi,Adriansyah,Customer Developer,10,edi.adriansyah@gdn-commerce.com,1998-11-09,+62878972282647,"Apt. 953 Jl. Ahmad Yani No. 57, Cilegon, JK 84366",2017-07-21
+06304846,Lely,Abdullah,Hospitality Coordinator,9,lely.abdullah@gdn-commerce.com,1990-10-14,+62860198244781,"Suite 374 Jl. Jend. Sudirman No. 76, Banjar, NU 08076",2017-12-25
+06308855,Dion,Kurniawan,Healthcare Architect,9,dion.kurniawan@gdn-commerce.com,1972-10-14,+62870301499094,"Apt. 820 Jl. MH. Thamrin No. 78, Wonosobo, SR 11372",2021-05-06
+06300862,Liana,Kusuma,Central Administrator,7,liana.kusuma@gdn-commerce.com,1990-11-11,+62850046271220,"Jl. Gatot Soebroto No. 77, Nias Barat, SL 78089",2020-12-01
+06303005,Okta,Nainggolan,Future Planner,6,okta.nainggolan@gdn-commerce.com,1996-11-01,+62856079380206,"Suite 138 Jl. Jend. Sudirman No. 65, Kapuas Hulu, KR 50071",2019-12-02
+06309445,Chandra,Harjono,Senior Hospitality Architect,12,chandra.harjono@gdn-commerce.com,1985-09-17,+62855244960381,"Apt. 643 Jl. Diponegoro No. 34, Jakarta Utara, SN 71673",2018-09-22
+06304218,Jaya,Budiman,Central Representative,6,jaya.budiman@gdn-commerce.com,1996-05-14,+62814685822866,"Jl. Jend. Sudirman No. 65, Tana Toraja, KU 71608",2020-06-29
+06304423,Aji,Januar,Administration Supervisor,4,aji.januar@gdn-commerce.com,1998-04-18,+62873082905968,"Jl. Gajahmada No. 35, Manggarai Timur, JB 68695",2018-06-24
+06307080,Bagus,Hadiwijaya,Central Banking Liaison,12,bagus.hadiwijaya@gdn-commerce.com,1985-02-27,+62875794509449,"Apt. 263 Jl. Kartini No. 75, Kudus, KA 35890",2017-08-13
+06304659,Umar,Indragiri,Sales Architect,6,umar.indragiri@gdn-commerce.com,1974-02-16,+62818236627396,"Apt. 843 Jl. Rasuna Said No. 94, Sungai Penuh, JT 08899",2016-11-20
+06306662,Muhammad,Wardhana,Global Mining Representative,7,muhammad.wardhana@gdn-commerce.com,1970-12-13,+62827453946689,"Jl. Gatot Soebroto No. 81, Sidenreng Rappang, KB 76684",2016-07-03
+06300224,Khrisna,Zaenal,National Marketing Director,6,khrisna.zaenal@gdn-commerce.com,1989-04-24,+62847231753782,"Jl. Rasuna Said No. 62, Sumba Timur, PB 82788",2016-07-27
+06302129,David,Oktavian,District Analyst,13,david.oktavian@gdn-commerce.com,1978-02-03,+62839743880497,"Suite 785 Jl. Gajahmada No. 40, Gunungsitoli, KB 23314",2019-07-22
+06306764,Toni,Suryatama,Accounting Orchestrator,9,toni.suryatama@gdn-commerce.com,1991-01-03,+62857780035308,"Jl. Jend. Sudirman No. 22, Flores Timur, BA 13098",2016-07-30
+06304886,Anita,Hartanto,Direct Advertising Executive,13,anita.hartanto@gdn-commerce.com,1972-06-18,+62897078373521,"Suite 337 Jl. Hayamwuruk No. 50, Pegunungan Bintang, LA 70916",2017-03-17
+06305360,Topan,Darmawan,Legacy Executive,10,topan.darmawan@gdn-commerce.com,1970-01-16,+62830686796409,"Jl. Ahmad Yani No. 57, Rote Ndao, KB 63315",2018-02-19
+06300568,Hengky,Mahendra,Hospitality Executive,7,hengky.mahendra@gdn-commerce.com,1995-02-13,+62858105471584,"Suite 709 Jl. Jend. Sudirman No. 69, Bolaang Mongondow, NB 18026",2017-08-27
+06305264,Kiki,Handaru,Healthcare Consultant,12,kiki.handaru@gdn-commerce.com,1975-12-12,+62853760871130,"Apt. 176 Jl. Gajahmada No. 71, Gayo Lues, ML 76841",2018-03-04
+06302543,David,Dwiantoro,Design Planner,5,david.dwiantoro@gdn-commerce.com,1980-02-19,+62840976500229,"Jl. Diponegoro No. 97, Tarakan, MA 96210",2016-01-07
+06307165,Arif,Indrajaya,Future Marketing Consultant,10,arif.indrajaya@gdn-commerce.com,1991-06-10,+62849205349135,"Suite 465 Jl. Rasuna Said No. 36, Sigi, KA 88447",2017-03-29
+06308067,Bagus,Wicaksono,Legacy Real-Estate Specialist,11,bagus.wicaksono@gdn-commerce.com,1970-05-01,+62893273626219,"Jl. Ahmad Yani No. 68, Surabaya, ST 86499",2021-06-02
+06301177,Kemal,Yudhiswara,Human Consultant,12,kemal.yudhiswara@gdn-commerce.com,1972-02-19,+62834648025161,"Apt. 598 Jl. Hayamwuruk No. 55, Pagar Alam, PA 92494",2021-05-15
+06309328,Yahya,Jayakusuma,Internal Mining Analyst,12,yahya.jayakusuma@gdn-commerce.com,1987-09-19,+62849992063064,"Apt. 409 Jl. Ahmad Yani No. 86, Buru Selatan, NT 82145",2017-03-17
+06308193,Bambang,Waluyo,Senior Designer,12,bambang.waluyo@gdn-commerce.com,1986-07-18,+62825513353220,"Jl. Gatot Soebroto No. 38, Singkawang, KB 23798",2019-05-05
+06300175,Pradipta,Gunardi,Lead Executive,6,pradipta.gunardi@gdn-commerce.com,2001-12-14,+62838489402154,"Apt. 649 Jl. Kartini No. 41, Sabu Raijua, JB 96592",2016-01-16
+06306517,Muhammad,Rusmana,Marketing Engineer,10,muhammad.rusmana@gdn-commerce.com,1980-09-30,+62888351180470,"Suite 473 Jl. Jend. Sudirman No. 82, Hulu Sungai Utara, SG 96639",2020-06-08
+06306631,Lely,Kurnianto,Retail Planner,12,lely.kurnianto@gdn-commerce.com,1997-03-15,+62890538357703,"Jl. Gatot Soebroto No. 38, Temanggung, JW 46662",2016-09-24
+06308703,Arif,Suryatama,Hospitality Director,7,arif.suryatama@gdn-commerce.com,1970-05-12,+62844280797775,"Apt. 121 Jl. Hayamwuruk No. 53, Indragiri Hilir, PB 30904",2021-07-30
+06301752,Rosa,Budiono,Direct Producer,4,rosa.budiono@gdn-commerce.com,1970-04-03,+62827687099771,"Jl. Juanda No. 51, Bener Meriah, NU 41111",2019-05-07
+06307310,Qorri,Umbara,Lead Marketing Strategist,12,qorri.umbara@gdn-commerce.com,1971-04-10,+62894795058820,"Suite 864 Jl. Ahmad Yani No. 21, Luwu, JW 93226",2018-07-14
+06309729,Rudi,Winardi,Banking Liaison,10,rudi.winardi@gdn-commerce.com,1983-06-18,+62882955147501,"Jl. Gajahmada No. 94, Kuantan Singingi, NT 43265",2020-12-10
+06308620,Yudi,Gunardi,Future Hospitality Producer,12,yudi.gunardi@gdn-commerce.com,1980-01-01,+62883641314238,"Suite 893 Jl. MH. Thamrin No. 80, Tapin, SM 44385",2021-10-26
+06308504,Raditya,Hendrawinata,Internal Mining Assistant,11,raditya.hendrawinata@gdn-commerce.com,1984-01-07,+62843995259100,"Suite 675 Jl. Ahmad Yani No. 25, Karanganyar, GO 69657",2019-05-28
+06301383,Topan,Gunajaya,Principal Advertising Architect,8,topan.gunajaya@gdn-commerce.com,1990-07-10,+62876365141007,"Jl. Jend. Sudirman No. 26, Balangan, ST 23786",2019-07-20
+06305837,Oki,Hendrawinata,Customer Healthcare Administrator,6,oki.hendrawinata@gdn-commerce.com,1994-05-01,+62832203719245,"Apt. 105 Jl. Juanda No. 22, Pariaman, KA 15721",2018-05-18
+06309608,Lidya,Virgiawan,District Administration Engineer,4,lidya.virgiawan@gdn-commerce.com,1993-03-19,+62853071697492,"Suite 663 Jl. Rasuna Said No. 50, Sabu Raijua, SU 76765",2018-11-02
+06305452,Edwin,Rianto,Real-Estate Specialist,10,edwin.rianto@gdn-commerce.com,1981-01-06,+62831846535455,"Jl. Kartini No. 12, Paser, SM 00591",2019-08-05
+06308179,Desi,Ardianto,Administration Orchestrator,12,desi.ardianto@gdn-commerce.com,1980-05-11,+62860579222702,"Suite 551 Jl. Gajahmada No. 90, Hulu Sungai Utara, SA 44795",2018-06-20
+06300819,Agus,Januar,Administration Designer,12,agus.januar@gdn-commerce.com,1997-01-29,+62873175476033,"Jl. Diponegoro No. 42, Murung Raya, GO 30481",2017-02-09
+06306682,Jaka,Oktara,Hospitality Executive,8,jaka.oktara@gdn-commerce.com,2003-10-30,+62849051092448,"Jl. Kartini No. 53, Timor Tengah Utara, BE 42087",2018-09-23
+06303670,Budi,Febriansyah,Farming Agent,12,budi.febriansyah@gdn-commerce.com,1975-05-16,+62890546262876,"Suite 807 Jl. Hayamwuruk No. 59, Demak, KB 76988",2020-05-18
+06303693,Ferdian,Wardhana,Administration Assistant,7,ferdian.wardhana@gdn-commerce.com,1984-08-02,+62851537216401,"Jl. Gajahmada No. 18, Bungo, SN 50458",2021-08-03
+06304053,Wisnu,Daniawan,Consulting Director,7,wisnu.daniawan@gdn-commerce.com,1983-08-07,+62838198316766,"Suite 211 Jl. Hayamwuruk No. 49, Musi Rawas, NB 64946",2021-01-01
+06303749,Heri,Sugiarto,District Developer,6,heri.sugiarto@gdn-commerce.com,1994-08-14,+62876356138478,"Apt. 266 Jl. Gajahmada No. 79, Lampung Tengah, ST 14913",2021-10-21
+06300462,Iwan,Alamsyah,Real-Estate Supervisor,13,iwan.alamsyah@gdn-commerce.com,1991-03-17,+62855421967854,"Suite 250 Jl. Hayamwuruk No. 80, Labuhan Batu Selatan, ML 73760",2020-04-26
+06305043,Jaka,Yudhiswara,Senior Marketing Administrator,5,jaka.yudhiswara@gdn-commerce.com,1982-05-19,+62845324126430,"Jl. Diponegoro No. 81, Kapuas, JK 57065",2016-02-20
+06307685,Rahmat,Nurdiansyah,Product Government Designer,4,rahmat.nurdiansyah@gdn-commerce.com,1998-12-31,+62829002788551,"Suite 545 Jl. Jend. Sudirman No. 36, Waropen, SR 84009",2016-09-08
+06308255,Prily,Suhendra,Customer Education Executive,5,prily.suhendra@gdn-commerce.com,1975-01-12,+62824398223519,"Jl. MH. Thamrin No. 36, Bandung Barat, RI 31846",2019-02-11
+06307692,Andi,Indragiri,Design Specialist,7,andi.indragiri@gdn-commerce.com,1990-10-26,+62874073687390,"Jl. Juanda No. 56, Lima Puluh Kota, GO 10464",2019-04-05
+06304253,David,Firmansyah,Direct Officer,4,david.firmansyah@gdn-commerce.com,1985-10-23,+62862860230630,"Suite 406 Jl. Jend. Sudirman No. 30, Pasaman Barat, JI 10095",2016-08-23
+06303803,Aditya,Fauzi,Internal Construction Producer,13,aditya.fauzi@gdn-commerce.com,1972-10-10,+62862886135079,"Suite 799 Jl. MH. Thamrin No. 57, Manggarai Barat, NU 81588",2021-08-12
+06306089,Qomar,Indrajaya,Product Producer,6,qomar.indrajaya@gdn-commerce.com,1973-06-19,+62849164627853,"Suite 370 Jl. Jend. Sudirman No. 36, Morowali, NB 74806",2018-04-28
+06304457,Yudhistira,Gondokusumo,Global Consultant,10,yudhistira.gondokusumo@gdn-commerce.com,1996-08-27,+62893492138889,"Apt. 534 Jl. Gatot Soebroto No. 48, Tojo Una-una, SS 78337",2019-12-02
+06303647,Dimas,Yudhanto,Advertising Specialist,6,dimas.yudhanto@gdn-commerce.com,1990-04-18,+62890963066496,"Apt. 428 Jl. Juanda No. 62, Purworejo, JT 47224",2017-12-31
+06301559,Toni,Qodir,Construction Manager,10,toni.qodir@gdn-commerce.com,1992-09-11,+62818035271968,"Suite 735 Jl. Jend. Sudirman No. 60, Pesisir Barat, MA 88599",2017-05-16
+06303817,Endang,Januar,International Supervisor,11,endang.januar@gdn-commerce.com,2000-10-14,+62861075474427,"Jl. Rasuna Said No. 96, Maros, KU 79386",2017-03-30
+06307716,Rosa,Hendrawinata,Government Specialist,7,rosa.hendrawinata@gdn-commerce.com,1974-12-13,+62862622849889,"Suite 867 Jl. Rasuna Said No. 51, Banyumas, KA 01159",2018-03-01
+06303254,Liana,Hermawan,Manufacturing Designer,10,liana.hermawan@gdn-commerce.com,1982-03-26,+62867413724002,"Suite 798 Jl. Gatot Soebroto No. 78, Tasikmalaya, PB 59093",2018-08-13
+06300012,Oki,Zulfikara,Education Liaison,4,oki.zulfikara@gdn-commerce.com,2003-07-09,+62896995192440,"Jl. Juanda No. 39, Kutai Kartanegara, SN 46889",2020-11-28
+06304638,Devi,Aristianto,Hospitality Coordinator,4,devi.aristianto@gdn-commerce.com,1996-11-29,+62894744378746,"Apt. 580 Jl. MH. Thamrin No. 18, Sabu Raijua, SL 09984",2017-05-04
+06300296,Dina,Prawira,International Banking Director,11,dina.prawira@gdn-commerce.com,1981-12-21,+62849728394964,"Jl. Rasuna Said No. 69, Palembang, JW 76411",2019-03-26
+06300436,Bagas,Bintara,National Advertising Liaison,8,bagas.bintara@gdn-commerce.com,2002-06-20,+62850009666888,"Jl. Kartini No. 92, Batu Bara, KR 09618",2021-04-17
+06303928,Tiara,Rianto,Direct Real-Estate Director,6,tiara.rianto@gdn-commerce.com,1989-02-05,+62815014842046,"Jl. Kartini No. 19, Semarang, JK 60693",2017-06-08
+06300910,Choirul,Lesmana,Lead Representative,7,choirul.lesmana@gdn-commerce.com,1997-03-08,+62899930221240,"Apt. 539 Jl. Ahmad Yani No. 82, Bantaeng, SM 30497",2021-03-01
+06307131,Rudi,Rustam,Product Administration Consultant,11,rudi.rustam@gdn-commerce.com,1983-01-14,+62830008657708,"Suite 236 Jl. Gajahmada No. 62, Teluk Bintuni, PB 14982",2017-05-13
+06309993,Gita,Fachri,Administration Engineer,11,gita.fachri@gdn-commerce.com,1978-06-04,+62849593209088,"Jl. Juanda No. 86, Solok, JK 05436",2020-02-26
+06308007,Fika,Harjono,Real-Estate Agent,10,fika.harjono@gdn-commerce.com,1999-12-16,+62871748825002,"Jl. Hayamwuruk No. 84, Labuhan Batu Selatan, KS 03822",2021-09-29
+06309829,Andi,Riansyah,Manufacturing Designer,5,andi.riansyah@gdn-commerce.com,2000-01-23,+62855368525299,"Suite 741 Jl. Rasuna Said No. 28, Palangka Raya, NU 14347",2016-02-05
+06302676,Wendy,Basri,District Construction Architect,5,wendy.basri@gdn-commerce.com,1989-12-10,+62831096323923,"Suite 430 Jl. MH. Thamrin No. 30, Mojokerto, KA 97657",2019-10-08
+06306613,Ruslan,Hartono,IT Administrator,7,ruslan.hartono@gdn-commerce.com,1995-10-27,+62884999341175,"Jl. MH. Thamrin No. 15, Sampang, ML 57965",2018-08-05
+06309416,Yahya,Haryanto,Design Assistant,5,yahya.haryanto@gdn-commerce.com,1984-12-19,+62841362470282,"Jl. MH. Thamrin No. 88, Cimahi, SN 55995",2019-10-11
+06302627,Sigit,Dwiantoro,Advertising Orchestrator,5,sigit.dwiantoro@gdn-commerce.com,1984-03-19,+62896615286114,"Jl. Jend. Sudirman No. 99, Mataram, KS 43005",2017-10-24
+06301196,Jaka,Abdullah,Chief Sales Producer,8,jaka.abdullah@gdn-commerce.com,1989-01-14,+62861883346945,"Jl. Gatot Soebroto No. 28, Seram Bagian Timur, NT 95700",2017-09-24
+06301336,Rosa,Hendrawinata,Advertising Supervisor,10,rosa.hendrawinata@gdn-commerce.com,1976-04-03,+62838521715508,"Apt. 311 Jl. Diponegoro No. 39, Merangin, SL 83954",2018-12-01
+06304344,Umar,Listiyono,International Accounting Analyst,7,umar.listiyono@gdn-commerce.com,1984-08-19,+62842130559504,"Suite 882 Jl. Jend. Sudirman No. 53, Palangka Raya, KA 39952",2017-04-28
+06304452,Liana,Winarta,Advertising Supervisor,8,liana.winarta@gdn-commerce.com,1983-09-11,+62888778993545,"Suite 479 Jl. Kartini No. 20, Aceh Besar, PA 88652",2019-11-09
+06307343,Wahyu,Kurniadi,Lead Technology Liaison,9,wahyu.kurniadi@gdn-commerce.com,1989-01-15,+62893095202117,"Suite 739 Jl. Hayamwuruk No. 89, Mojokerto, KB 97502",2021-05-19
+06309007,Adi,Marzuki,Construction Designer,11,adi.marzuki@gdn-commerce.com,1989-06-23,+62879770154905,"Apt. 493 Jl. Gatot Soebroto No. 42, Barito Timur, SN 95310",2021-02-01
+06304926,Lely,Hartanto,Banking Coordinator,4,lely.hartanto@gdn-commerce.com,1998-02-08,+62854706296671,"Jl. Kartini No. 10, Aceh Timur, KS 31488",2020-02-22
+06304995,Mahesa,Febriansyah,Farming Coordinator,12,mahesa.febriansyah@gdn-commerce.com,1997-09-07,+62868187776342,"Jl. Gajahmada No. 32, Bantaeng, GO 00992",2018-01-01
+06301088,Pradipta,Cahyono,Regional Agent,11,pradipta.cahyono@gdn-commerce.com,1997-09-21,+62842478860607,"Apt. 981 Jl. Hayamwuruk No. 62, Ogan Komering Ulu Timur, PP 47794",2021-02-25
+06301227,Kartika,Armansyah,Future Agent,8,kartika.armansyah@gdn-commerce.com,1985-09-02,+62813635282429,"Jl. Kartini No. 87, Banda Aceh, SG 94603",2020-11-11
+06305120,Choirul,Erik,Dynamic Developer,9,choirul.erik@gdn-commerce.com,2003-04-10,+62898382453299,"Suite 948 Jl. Juanda No. 73, Kayong Utara, KR 98097",2019-12-23
+06309445,Dea,Ginting,Legacy Manufacturing Designer,5,dea.ginting@gdn-commerce.com,1978-12-28,+62845090264537,"Apt. 823 Jl. Kartini No. 21, Lombok Timur, KA 35714",2021-09-24
+06301818,Popi,Winardi,Real-Estate Orchestrator,8,popi.winardi@gdn-commerce.com,1970-02-19,+62863458914284,"Apt. 537 Jl. Diponegoro No. 88, Gorontalo, PB 22634",2019-03-28
+06306476,Aji,Winarta,Investor Associate,8,aji.winarta@gdn-commerce.com,2000-12-30,+62858239557751,"Suite 590 Jl. Rasuna Said No. 81, Luwu, SA 49025",2016-05-29
+06308466,Rahmat,Zulfikri,Lead Specialist,6,rahmat.zulfikri@gdn-commerce.com,1991-02-13,+62877530332863,"Suite 848 Jl. Hayamwuruk No. 63, Way Kanan, SB 52517",2020-03-07
+06305889,Sigit,Kurniawan,Future Marketing Director,11,sigit.kurniawan@gdn-commerce.com,1975-08-03,+62814175636569,"Apt. 171 Jl. Diponegoro No. 96, Cilacap, KR 21088",2021-08-04
+06303777,Pradipta,Januar,Central Education Associate,12,pradipta.januar@gdn-commerce.com,1971-06-15,+62853427542675,"Suite 973 Jl. Gajahmada No. 95, Kediri, SB 46654",2020-09-08
+06305528,Victor,Indrajaya,Future Design Analyst,8,victor.indrajaya@gdn-commerce.com,1993-09-18,+62895329786840,"Jl. Juanda No. 41, Labuhan Batu Utara, BA 63249",2017-01-06
+06302849,Umar,Wicaksono,Regional Retail Assistant,11,umar.wicaksono@gdn-commerce.com,2001-03-06,+62882265860978,"Suite 210 Jl. Jend. Sudirman No. 21, Baubau, RI 10471",2017-03-21
+06305124,Umar,Atmadja,Marketing Planner,5,umar.atmadja@gdn-commerce.com,1982-03-01,+62824142247142,"Apt. 615 Jl. Jend. Sudirman No. 50, Kapuas Hulu, BE 73031",2019-04-21
+06301450,Raditya,Lesmana,Legacy Consulting Architect,5,raditya.lesmana@gdn-commerce.com,1975-02-02,+62831089567123,"Jl. Juanda No. 96, Bima, SS 84619",2021-06-07
+06301759,Popi,Qodir,Principal Technology Executive,6,popi.qodir@gdn-commerce.com,1981-03-23,+62883698982312,"Jl. Rasuna Said No. 80, Manggarai Barat, YO 21616",2019-08-08
+06306531,Sigit,Atmadja,Corporate Farming Specialist,13,sigit.atmadja@gdn-commerce.com,2003-03-08,+62866331833432,"Suite 850 Jl. Rasuna Said No. 21, Karawang, KA 52290",2020-12-11
+06304000,Yudha,Pradipta,Banking Architect,8,yudha.pradipta@gdn-commerce.com,1983-12-11,+62866334010364,"Suite 558 Jl. Hayamwuruk No. 74, Medan, JB 32773",2019-02-27
+06301947,Hamdan,Jayakusuma,Advertising Designer,10,hamdan.jayakusuma@gdn-commerce.com,1976-04-08,+62834108266765,"Jl. Gajahmada No. 69, Lampung Selatan, SG 11873",2019-10-26
+06307468,Pradipta,Ongky,Government Engineer,4,pradipta.ongky@gdn-commerce.com,1984-04-19,+62852580128963,"Jl. Gajahmada No. 42, Toba Samosir, SG 41871",2019-08-09
+06300547,Nina,Yudhistira,Advertising Architect,5,nina.yudhistira@gdn-commerce.com,1977-01-08,+62846529109838,"Jl. Hayamwuruk No. 10, Magelang, YO 11575",2017-02-03
+06307546,Iwan,Firmansyah,Technology Designer,8,iwan.firmansyah@gdn-commerce.com,1983-03-21,+62851158868150,"Suite 154 Jl. Gajahmada No. 45, Ogan Komering Ulu Timur, SM 99271",2020-12-06
+06307938,Budi,Mahendra,District Legal Associate,10,budi.mahendra@gdn-commerce.com,1990-11-11,+62859199255680,"Jl. Jend. Sudirman No. 92, Ngada, JW 19065",2021-06-18
+06304660,Edwin,Yulianto,District Administration Producer,10,edwin.yulianto@gdn-commerce.com,1985-10-19,+62824112951655,"Apt. 126 Jl. Diponegoro No. 16, Maluku Barat Daya, BB 14442",2017-06-21
+06300563,Tito,Gondokusumo,Healthcare Director,11,tito.gondokusumo@gdn-commerce.com,2001-06-24,+62899016444665,"Apt. 233 Jl. Ahmad Yani No. 86, Lima Puluh Kota, ST 31474",2017-12-25
+06309775,Lidya,Listiyono,Corporate Developer,12,lidya.listiyono@gdn-commerce.com,1988-08-19,+62852135903575,"Apt. 819 Jl. Hayamwuruk No. 37, Kepulauan Sula, NT 18150",2019-10-18
+06305657,Niko,Rianto,Design Agent,6,niko.rianto@gdn-commerce.com,1996-12-13,+62889782110700,"Jl. Diponegoro No. 37, Tapanuli Selatan, GO 34224",2016-02-28
+06302662,Heri,Oktavian,Central Officer,13,heri.oktavian@gdn-commerce.com,1970-09-01,+62843747637720,"Suite 280 Jl. Gatot Soebroto No. 95, Enrekang, JB 34374",2021-06-01
+06308162,Salim,Kusuma,Accounting Orchestrator,7,salim.kusuma@gdn-commerce.com,1999-06-19,+62825056041599,"Jl. Juanda No. 58, Padangsidimpuan, KT 56846",2020-04-08
+06305085,Tri,Pradipta,Human Retail Liaison,7,tri.pradipta@gdn-commerce.com,1995-04-22,+62854898015425,"Jl. Jend. Sudirman No. 48, Lampung Timur, SR 88357",2020-02-11
+06305805,Unang,Sapta,Hospitality Planner,9,unang.sapta@gdn-commerce.com,1974-06-19,+62839794464107,"Apt. 760 Jl. Rasuna Said No. 86, Pidie, JW 25304",2016-02-13
+06308156,Kiki,Nababan,Real-Estate Orchestrator,7,kiki.nababan@gdn-commerce.com,1971-06-21,+62887037788848,"Suite 913 Jl. Ahmad Yani No. 46, Bintan, ST 34574",2020-04-23
+06302013,Olivia,Ferianto,Global Designer,13,olivia.ferianto@gdn-commerce.com,1982-04-13,+62861731435061,"Jl. Hayamwuruk No. 80, Kudus, JA 52665",2016-08-31
+06308448,Toni,Hermawan,Administration Engineer,9,toni.hermawan@gdn-commerce.com,1977-11-15,+62819805154176,"Suite 621 Jl. Hayamwuruk No. 98, Seluma, PA 50321",2019-07-03
+06302031,Fika,Ikhsan,Technology Manager,10,fika.ikhsan@gdn-commerce.com,1977-07-01,+62852263699491,"Jl. Kartini No. 93, Jombang, BA 42720",2020-03-23
+06308385,Wisnu,Gunardi,Advertising Representative,9,wisnu.gunardi@gdn-commerce.com,1995-08-14,+62814030446510,"Suite 263 Jl. MH. Thamrin No. 44, Situbondo, BA 30554",2021-10-16
+06305731,Rosa,Febriansyah,Retail Manager,10,rosa.febriansyah@gdn-commerce.com,1980-12-28,+62837612853670,"Apt. 398 Jl. Ahmad Yani No. 17, Sampang, SS 14921",2021-10-05
+06308908,Heni,Fachri,Principal Associate,10,heni.fachri@gdn-commerce.com,1988-05-26,+62832731805546,"Apt. 832 Jl. Gajahmada No. 97, Sigi, SM 21412",2016-10-02
+06304698,Endang,Darmawan,Community-Services Liaison,13,endang.darmawan@gdn-commerce.com,1998-11-02,+62830526165073,"Jl. Juanda No. 95, Kepulauan Anambas, SG 62275",2019-10-05
+06304745,Dea,Adriansyah,Investor Marketing Orchestrator,13,dea.adriansyah@gdn-commerce.com,1987-02-24,+62873532927814,"Apt. 290 Jl. Juanda No. 43, Puncak, KI 22367",2016-07-29
+06307234,Tito,Riansyah,Administration Facilitator,9,tito.riansyah@gdn-commerce.com,1989-01-10,+62855412557415,"Suite 506 Jl. Rasuna Said No. 94, Aceh Selatan, BT 06241",2021-04-03
+06304966,Wira,Atmadja,Direct Retail Supervisor,7,wira.atmadja@gdn-commerce.com,1993-10-10,+62866885327535,"Suite 585 Jl. Gatot Soebroto No. 68, Batam, AC 47732",2021-01-13
+06307962,Vira,Tjahjadi,Future Government Agent,6,vira.tjahjadi@gdn-commerce.com,1973-12-19,+62843956532479,"Apt. 474 Jl. Jend. Sudirman No. 35, Bengkayang, NB 01530",2016-09-05
+06305758,Adi,Dwiantoro,Product Community-Services Administrator,5,adi.dwiantoro@gdn-commerce.com,1994-09-04,+62854747113618,"Jl. Juanda No. 97, Cirebon, KB 82340",2019-02-25
+06306843,Mahesa,Suryatama,Customer Sales Assistant,12,mahesa.suryatama@gdn-commerce.com,1983-07-11,+62825657121900,"Jl. MH. Thamrin No. 61, Gorontalo, SU 80855",2018-11-23
+06309939,Dion,Komarudin,Community-Services Executive,7,dion.komarudin@gdn-commerce.com,1980-07-31,+62866225037943,"Apt. 299 Jl. Diponegoro No. 70, Solok Selatan, RI 52773",2016-09-15
+06300357,Okta,Gozali,Dynamic Planner,5,okta.gozali@gdn-commerce.com,1986-04-29,+62896689551449,"Apt. 295 Jl. Kartini No. 91, Aceh Tamiang, YO 86362",2019-08-10
+06302227,Kartini,Hartanto,Global Executive,7,kartini.hartanto@gdn-commerce.com,1998-04-03,+62810845690212,"Jl. Jend. Sudirman No. 68, Pesisir Barat, BE 37402",2020-03-26
+06300788,Arya,Thamrin,Legacy Producer,10,arya.thamrin@gdn-commerce.com,1976-08-03,+62873880162039,"Apt. 649 Jl. Jend. Sudirman No. 85, Siak, KA 74682",2021-06-06
+06301925,Iman,Hendrawinata,Human Technology Coordinator,4,iman.hendrawinata@gdn-commerce.com,1990-08-14,+62846363046538,"Apt. 808 Jl. Gajahmada No. 39, Mamuju, SM 03072",2020-12-07
+06301661,Kartika,Wardhana,Chief Officer,6,kartika.wardhana@gdn-commerce.com,1978-01-08,+62862598092728,"Jl. Gatot Soebroto No. 86, Wajo, PA 98496",2017-11-28
+06302924,Desi,Alamsyah,Mining Assistant,11,desi.alamsyah@gdn-commerce.com,2002-09-13,+62881600821498,"Apt. 108 Jl. Diponegoro No. 61, Puncak Jaya, JK 35395",2018-05-29
+06306751,Qomar,Kusumawardhana,National Architect,12,qomar.kusumawardhana@gdn-commerce.com,2002-03-09,+62847653869807,"Jl. Hayamwuruk No. 92, Pakpak Bharat, YO 05108",2020-06-20
+06301642,Prima,Wicaksono,Forward Hospitality Designer,10,prima.wicaksono@gdn-commerce.com,1977-08-18,+62843996792957,"Jl. Rasuna Said No. 37, Maybrat, PB 71916",2020-03-13
+06307489,Valentinus,Fachriawan,Investor Real-Estate Liaison,10,valentinus.fachriawan@gdn-commerce.com,1977-05-23,+62868570185280,"Apt. 219 Jl. Rasuna Said No. 71, Kapuas Hulu, MA 19569",2020-05-31
+06307210,Qorri,Pribadi,Legacy IT Supervisor,10,qorri.pribadi@gdn-commerce.com,1982-10-15,+62849978392266,"Suite 261 Jl. Diponegoro No. 71, Timor Tengah Utara, RI 62539",2017-07-09
+06308374,Lidya,Umbara,Legacy Healthcare Supervisor,9,lidya.umbara@gdn-commerce.com,1982-10-18,+62878777428662,"Jl. Rasuna Said No. 55, Padang Panjang, PA 76782",2018-02-19
+06300826,Lisa,Gozali,Manufacturing Facilitator,12,lisa.gozali@gdn-commerce.com,1988-08-21,+62871057555357,"Apt. 648 Jl. Gajahmada No. 60, Banjar Baru, SA 00125",2019-07-25
+06307561,Liana,Febriansyah,District Associate,13,liana.febriansyah@gdn-commerce.com,1999-10-05,+62883382130365,"Apt. 873 Jl. Diponegoro No. 78, Dharmasraya, KR 24202",2019-12-09
+06303590,Bayu,Lazuardi,Central Producer,13,bayu.lazuardi@gdn-commerce.com,1994-04-18,+62836685488341,"Apt. 175 Jl. Gajahmada No. 46, Bintan, NT 37645",2017-04-28
+06307824,Qomar,Ardianto,Farming Analyst,10,qomar.ardianto@gdn-commerce.com,1999-10-14,+62824450839135,"Jl. Gatot Soebroto No. 68, Labuhan Batu, BE 79484",2019-08-12
+06308248,David,Idris,Legacy Design Architect,6,david.idris@gdn-commerce.com,1986-03-28,+62813589647445,"Jl. Jend. Sudirman No. 60, Aceh Tamiang, JT 01031",2019-10-29
+06307480,Edi,Kurnianto,Education Consultant,12,edi.kurnianto@gdn-commerce.com,1978-06-09,+62863141673395,"Jl. Gatot Soebroto No. 50, Nias, SG 08018",2016-04-24
+06304622,Victor,Djunaedi,Administration Officer,8,victor.djunaedi@gdn-commerce.com,1983-10-21,+62810547829490,"Suite 672 Jl. Gajahmada No. 26, Tabanan, PB 67077",2019-03-06
+06309213,Budi,Jayadinata,Farming Orchestrator,4,budi.jayadinata@gdn-commerce.com,1983-05-29,+62824742043199,"Jl. Juanda No. 92, Rokan Hulu, JK 22856",2017-03-10
+06305544,Tri,Komarudin,Internal Consulting Director,4,tri.komarudin@gdn-commerce.com,1995-11-21,+62857985052559,"Suite 684 Jl. Ahmad Yani No. 51, Ogan Komering Ulu Timur, MA 92929",2017-08-18
+06303334,Danang,Rusli,Investor Coordinator,11,danang.rusli@gdn-commerce.com,1989-03-11,+62860502470851,"Apt. 835 Jl. Kartini No. 31, Kepulauan Seribu, NT 79389",2021-01-02
+06306083,Komar,Budiman,Global Farming Coordinator,8,komar.budiman@gdn-commerce.com,1974-05-07,+62837421384065,"Jl. MH. Thamrin No. 75, Medan, GO 33987",2016-02-15
+06309272,Indah,Listyawan,Human Accounting Producer,11,indah.listyawan@gdn-commerce.com,1974-01-16,+62875746735911,"Jl. Diponegoro No. 46, Yahukimo, SA 80856",2018-01-22
+06306392,Heru,Hartanto,International Agent,13,heru.hartanto@gdn-commerce.com,1996-04-16,+62821827932249,"Jl. Hayamwuruk No. 42, Intan Jaya, SS 69007",2018-01-28
+06308472,Wisnu,Cahyadi,IT Administrator,11,wisnu.cahyadi@gdn-commerce.com,1993-03-22,+62847389253602,"Apt. 252 Jl. Jend. Sudirman No. 21, Mimika, JW 76693",2017-04-08
+06302796,Okta,Ilham,Customer Planner,13,okta.ilham@gdn-commerce.com,1996-02-15,+62854166585029,"Jl. Ahmad Yani No. 40, Padang Panjang, BT 52564",2020-03-23
+06302284,Agus,Ferdian,Banking Specialist,7,agus.ferdian@gdn-commerce.com,2000-05-01,+62833373910173,"Apt. 974 Jl. Ahmad Yani No. 91, Sorong Selatan, RI 04632",2017-12-03
+06303357,Adi,Bintara,Construction Administrator,9,adi.bintara@gdn-commerce.com,1994-04-30,+62872950788178,"Jl. MH. Thamrin No. 87, Tana Tidung, KI 10974",2016-06-15
+06309359,Toni,Wirawan,Real-Estate Engineer,5,toni.wirawan@gdn-commerce.com,2003-11-28,+62862688891594,"Jl. Ahmad Yani No. 48, Mamberamo Raya, KI 16311",2018-12-23
+06308244,Heri,Utama,Investor Strategist,5,heri.utama@gdn-commerce.com,1995-06-09,+62880827717252,"Jl. Kartini No. 47, Kerinci, MA 01049",2021-03-26
+06307648,Ruslan,Wardhana,Dynamic Community-Services Manager,8,ruslan.wardhana@gdn-commerce.com,1974-11-28,+62846099720794,"Jl. Gajahmada No. 31, Kayong Utara, NT 21930",2021-09-21
+06301592,Hamdan,Iswanto,Hospitality Consultant,5,hamdan.iswanto@gdn-commerce.com,1981-08-18,+62819450613730,"Jl. Juanda No. 66, Bima, BT 29529",2018-06-10
+06307091,Martin,Riyadi,Senior Design Strategist,9,martin.riyadi@gdn-commerce.com,2003-07-20,+62879879497109,"Apt. 357 Jl. Gajahmada No. 42, Minahasa, RI 40191",2017-06-17
+06307691,Iman,Daniawan,Product Technology Strategist,8,iman.daniawan@gdn-commerce.com,1976-02-10,+62829294164527,"Jl. Kartini No. 37, Indragiri Hilir, PB 57873",2016-06-12
+06306843,Bima,Ferianto,Regional Hospitality Associate,4,bima.ferianto@gdn-commerce.com,1994-07-07,+62871633885243,"Jl. Jend. Sudirman No. 81, Toli-toli, SS 63692",2016-02-01
+06305669,Wahyu,Wardhana,Healthcare Administrator,10,wahyu.wardhana@gdn-commerce.com,1982-02-27,+62830935338725,"Suite 671 Jl. Ahmad Yani No. 98, Manado, PB 09375",2016-04-13
+06301200,Danang,Yulianto,Dynamic Technician,7,danang.yulianto@gdn-commerce.com,1991-06-08,+62826316928181,"Apt. 434 Jl. Ahmad Yani No. 61, Tidore Kepulauan, KI 80651",2016-12-27
+06302700,Prima,Santoso,Marketing Liaison,12,prima.santoso@gdn-commerce.com,1987-10-23,+62860480021720,"Suite 636 Jl. Jend. Sudirman No. 84, Wonogiri, PP 55515",2017-09-08
+06303166,Bambang,Wardhana,Corporate Associate,13,bambang.wardhana@gdn-commerce.com,1990-10-24,+62836228557242,"Jl. Juanda No. 84, Toba Samosir, SU 29034",2020-03-06
+06302124,Nisa,Listiyono,Central Analyst,13,nisa.listiyono@gdn-commerce.com,1998-03-02,+62811769996326,"Jl. Ahmad Yani No. 55, Bangka Tengah, MU 29992",2021-04-01
+06306467,Prily,Bimantara,Community-Services Designer,5,prily.bimantara@gdn-commerce.com,2001-04-03,+62884340521905,"Jl. Ahmad Yani No. 62, Batang, SL 82856",2019-04-10
+06308830,Yudhistira,Darmawan,Dynamic Healthcare Orchestrator,5,yudhistira.darmawan@gdn-commerce.com,1986-03-27,+62896971544257,"Apt. 481 Jl. MH. Thamrin No. 90, Semarang, SN 76479",2020-04-14
+06303373,Rahmat,Saragih,Chief Construction Specialist,6,rahmat.saragih@gdn-commerce.com,1994-09-18,+62815615974877,"Apt. 275 Jl. Hayamwuruk No. 82, Gunung Kidul, LA 85357",2021-05-06
+06306908,Endang,Jayadinata,Consulting Specialist,11,endang.jayadinata@gdn-commerce.com,2002-09-14,+62878648871811,"Jl. Gatot Soebroto No. 80, Batang, NB 06981",2017-08-21
+06308321,Jaka,Bimantara,Direct Representative,11,jaka.bimantara@gdn-commerce.com,1986-06-04,+62822447556240,"Jl. Diponegoro No. 34, Lanny Jaya, KA 14098",2017-06-30
+06302910,Budi,Jayadinata,Chief Technology Supervisor,6,budi.jayadinata@gdn-commerce.com,1979-12-17,+62823323818548,"Suite 157 Jl. Gajahmada No. 19, Gorontalo, SM 22382",2016-05-06
+06304120,Slamet,Jayadinata,Legacy Specialist,12,slamet.jayadinata@gdn-commerce.com,1996-05-04,+62859027015087,"Jl. Jend. Sudirman No. 96, Lombok Barat, BE 03389",2016-01-19
+06302090,Jaya,Wijaya,Lead Design Facilitator,4,jaya.wijaya@gdn-commerce.com,1992-04-17,+62815038554996,"Apt. 244 Jl. Rasuna Said No. 44, Jayapura, KS 16612",2018-04-22
+06301997,Bayu,Gondokusumo,Advertising Representative,4,bayu.gondokusumo@gdn-commerce.com,1970-09-08,+62838477065505,"Jl. Gatot Soebroto No. 62, Ponorogo, KU 74956",2020-04-26
+06306381,Anita,Hadiwijaya,Customer Advertising Strategist,7,anita.hadiwijaya@gdn-commerce.com,2001-02-02,+62876344381655,"Jl. Kartini No. 70, Gunungsitoli, NB 36198",2016-10-01
+06308148,Aan,Rustam,Marketing Planner,6,aan.rustam@gdn-commerce.com,2001-10-05,+62873100236106,"Jl. Jend. Sudirman No. 32, Boalemo, SN 43205",2020-05-12
+06304186,Yossi,Cahyono,Marketing Administrator,8,yossi.cahyono@gdn-commerce.com,1993-09-25,+62828716191949,"Jl. Hayamwuruk No. 73, Wonogiri, MU 30495",2021-09-20
+06305908,Roni,Rusli,National Analyst,12,roni.rusli@gdn-commerce.com,1995-02-17,+62859133335995,"Apt. 384 Jl. Diponegoro No. 27, Banjar, PB 58533",2021-07-13
+06304035,Iwan,Kurniawan,Corporate Community-Services Engineer,13,iwan.kurniawan@gdn-commerce.com,1994-04-09,+62858743856600,"Jl. Hayamwuruk No. 96, Banjarmasin, GO 05993",2016-03-31
+06304300,Lidya,Qodir,Real-Estate Developer,11,lidya.qodir@gdn-commerce.com,1979-08-22,+62855155332630,"Jl. Gatot Soebroto No. 11, Lima Puluh Kota, NB 55629",2016-12-31
+06309913,Niko,Setiawan,Corporate Consulting Planner,13,niko.setiawan@gdn-commerce.com,1974-01-04,+62894782733902,"Jl. Kartini No. 24, Wonosobo, NT 02394",2017-11-10
+06306409,Unang,Ferdian,Central Producer,12,unang.ferdian@gdn-commerce.com,1975-10-03,+62869093541465,"Suite 748 Jl. Rasuna Said No. 89, Pelalawan, MU 11317",2019-08-04
+06309651,Wawan,Armansyah,Administration Assistant,5,wawan.armansyah@gdn-commerce.com,1992-08-15,+62851249396070,"Jl. Hayamwuruk No. 47, Aceh Tengah, KA 76865",2019-04-17
+06307157,Vicky,Cahyadi,Farming Developer,10,vicky.cahyadi@gdn-commerce.com,1972-03-14,+62869950174728,"Jl. Gajahmada No. 45, Lingga, KT 70572",2018-12-12
+06308528,Ahmad,Dinata,Administration Architect,12,ahmad.dinata@gdn-commerce.com,1974-09-06,+62880970826039,"Jl. Gajahmada No. 15, Simeulue, BA 46302",2020-08-05
+06309671,Niko,Sugianto,Healthcare Associate,12,niko.sugianto@gdn-commerce.com,1971-10-09,+62818914713335,"Jl. Rasuna Said No. 72, Lima Puluh Kota, SA 41319",2016-01-26
+06303979,Anton,Lesmana,Corporate Manager,12,anton.lesmana@gdn-commerce.com,1994-11-16,+62853781458616,"Suite 973 Jl. MH. Thamrin No. 75, Tomohon, RI 28095",2017-04-14
+06300796,Slamet,Umbara,Internal Mining Planner,12,slamet.umbara@gdn-commerce.com,2002-04-09,+62875092465861,"Suite 693 Jl. Gatot Soebroto No. 80, Lingga, ML 42873",2018-10-23
+06309641,Edwin,Mahendra,Forward Accounting Liaison,10,edwin.mahendra@gdn-commerce.com,2001-11-21,+62842043424779,"Jl. Gatot Soebroto No. 11, Pakpak Bharat, JB 85351",2016-05-08
+06309082,Lia,Budiman,Product Technology Developer,5,lia.budiman@gdn-commerce.com,1989-09-03,+62898839338110,"Apt. 817 Jl. MH. Thamrin No. 26, Aceh Tenggara, PB 24925",2016-04-04
+06303334,Aditya,Jayadi,Advertising Director,8,aditya.jayadi@gdn-commerce.com,1986-03-11,+62829381464284,"Jl. Juanda No. 26, Luwu Timur, JK 73190",2021-03-22
+06308933,Jaka,Bintara,Community-Services Assistant,11,jaka.bintara@gdn-commerce.com,1971-07-04,+62884686012686,"Suite 930 Jl. Gatot Soebroto No. 59, Kotamobagu, AC 63504",2021-06-23
+06308319,Popi,Zulfikara,Administration Director,12,popi.zulfikara@gdn-commerce.com,2001-11-04,+62888785442612,"Jl. Gatot Soebroto No. 25, Bombana, SL 94161",2021-05-02
+06306929,Qomar,Marzuki,Direct Retail Supervisor,11,qomar.marzuki@gdn-commerce.com,1993-03-13,+62847937253729,"Jl. Kartini No. 25, Bombana, ML 51036",2020-10-02
+06301947,Vicky,Mahendra,Consulting Assistant,6,vicky.mahendra@gdn-commerce.com,1999-05-23,+62838353483946,"Apt. 292 Jl. Jend. Sudirman No. 13, Jembrana, JW 33565",2018-05-10
+06305283,Okta,Hadiwijaya,Customer Marketing Associate,6,okta.hadiwijaya@gdn-commerce.com,1998-01-03,+62819400556472,"Apt. 628 Jl. Ahmad Yani No. 39, Mamuju, KS 35148",2017-03-24
+06301551,Yanuar,Setiawan,Global Consulting Engineer,6,yanuar.setiawan@gdn-commerce.com,1983-09-15,+62844174836850,"Jl. Hayamwuruk No. 76, Tanah Datar, MU 30600",2017-10-04
+06303343,Topan,Candrawijaya,Forward Farming Strategist,8,topan.candrawijaya@gdn-commerce.com,1992-01-09,+62837098109048,"Jl. Gajahmada No. 38, Indragiri Hulu, JT 80664",2018-04-09
+06300663,Aulia,Komarudin,Community-Services Liaison,13,aulia.komarudin@gdn-commerce.com,1992-07-29,+62860589109649,"Jl. Hayamwuruk No. 24, Agam, BE 92882",2019-12-09
+06302821,Sigit,Pradhana,Global Liaison,7,sigit.pradhana@gdn-commerce.com,1979-02-27,+62823249325428,"Suite 683 Jl. Diponegoro No. 37, Jember, JK 36369",2021-01-10
+06302796,Nisa,Waluyo,Investor Sales Coordinator,5,nisa.waluyo@gdn-commerce.com,1981-04-20,+62823495769486,"Jl. Rasuna Said No. 41, Muara Enim, NU 92114",2020-01-24
+06305599,Qorri,Bimantara,Marketing Agent,6,qorri.bimantara@gdn-commerce.com,1989-06-26,+62842642774773,"Apt. 861 Jl. Juanda No. 77, Sorong Selatan, JB 73729",2021-05-15
+06307711,Wendy,Nugraha,Community-Services Assistant,11,wendy.nugraha@gdn-commerce.com,2001-12-05,+62835535538473,"Jl. Kartini No. 22, Raja Ampat, PA 12606",2019-08-05
+06301280,Yahya,Pradhana,Internal Marketing Executive,5,yahya.pradhana@gdn-commerce.com,1979-04-25,+62855076507829,"Apt. 176 Jl. Gatot Soebroto No. 28, Pringsewu, PB 12400",2018-10-03
+06309687,Noval,Maheswara,Internal Construction Representative,13,noval.maheswara@gdn-commerce.com,1981-06-21,+62860710743773,"Jl. Diponegoro No. 12, Majalengka, ST 40648",2016-07-15
+06306991,Vira,Hendrawinata,Advertising Director,9,vira.hendrawinata@gdn-commerce.com,2002-01-28,+62864306747488,"Jl. Ahmad Yani No. 55, Minahasa Selatan, SG 65677",2017-01-30
+06304544,Galih,Pradhana,Corporate Liaison,9,galih.pradhana@gdn-commerce.com,1973-05-09,+62873625911367,"Apt. 962 Jl. Jend. Sudirman No. 97, Mandailing Natal, SL 83651",2016-08-05
+06308320,Popi,Dwiantoro,IT Supervisor,10,popi.dwiantoro@gdn-commerce.com,1987-10-21,+62811201881662,"Apt. 177 Jl. Gatot Soebroto No. 31, Badung, SR 38722",2016-05-24
+06304986,Yudi,Cahyono,Legal Facilitator,11,yudi.cahyono@gdn-commerce.com,1988-07-10,+62879695473388,"Apt. 920 Jl. Kartini No. 37, Ende, SM 34865",2017-01-20
+06306559,Bima,Rianto,Mining Strategist,6,bima.rianto@gdn-commerce.com,1994-06-16,+62835151139614,"Suite 124 Jl. Rasuna Said No. 72, Palangka Raya, SR 38709",2017-10-10
+06303703,Zaenal,Kurniadi,Future Retail Coordinator,5,zaenal.kurniadi@gdn-commerce.com,1987-03-14,+62888797837482,"Apt. 747 Jl. Diponegoro No. 50, Seruyan, PB 97059",2020-02-11
+06305081,Bambang,Pahlevi,National Design Liaison,9,bambang.pahlevi@gdn-commerce.com,1989-10-08,+62898209963308,"Jl. Gatot Soebroto No. 66, Ogan Komering Ulu Timur, SM 19640",2016-04-30
+06300490,Chandra,Cahyono,Direct Advertising Representative,10,chandra.cahyono@gdn-commerce.com,1993-07-18,+62848006311599,"Apt. 529 Jl. Hayamwuruk No. 40, Manggarai Barat, LA 55854",2019-07-09
+06307330,Putri,Indragiri,Manufacturing Associate,4,putri.indragiri@gdn-commerce.com,1972-10-29,+62868054450221,"Apt. 941 Jl. Gajahmada No. 50, Sumbawa, LA 50317",2019-01-25
+06302312,Sigit,Setiawan,Legacy Assistant,6,sigit.setiawan@gdn-commerce.com,1979-09-13,+62827293249025,"Jl. Jend. Sudirman No. 64, Metro, SR 41808",2020-12-02
+06308124,Indra,Rudianto,Accounting Engineer,12,indra.rudianto@gdn-commerce.com,1991-06-17,+62849636923469,"Apt. 715 Jl. Gatot Soebroto No. 36, Wonosobo, SR 59524",2017-07-14
+06300599,Dimas,Nugraha,Legacy Manager,12,dimas.nugraha@gdn-commerce.com,1973-06-08,+62899403390680,"Suite 409 Jl. Jend. Sudirman No. 10, Wonosobo, JB 40951",2020-07-17
+06307995,Effendi,Wijanarko,Future Education Developer,8,effendi.wijanarko@gdn-commerce.com,1976-08-26,+62810945279156,"Suite 635 Jl. Jend. Sudirman No. 75, Jember, SU 90228",2017-09-08
+06304132,Wira,Dinata,Consulting Strategist,13,wira.dinata@gdn-commerce.com,1974-01-08,+62836264355220,"Jl. Kartini No. 10, Manggarai Barat, SL 88735",2020-04-07
+06303827,Slamet,Nurdiansyah,Corporate Banking Analyst,11,slamet.nurdiansyah@gdn-commerce.com,1994-08-13,+62824720946896,"Suite 175 Jl. Juanda No. 98, Ketapang, PB 80835",2016-06-17
+06305212,Yoga,Cahyono,Investor Government Planner,7,yoga.cahyono@gdn-commerce.com,1986-12-30,+62816341116386,"Jl. Gajahmada No. 85, Batam, BE 46265",2018-06-27
+06307309,Gita,Fachri,Internal Marketing Planner,7,gita.fachri@gdn-commerce.com,1988-10-07,+62846248174983,"Jl. Hayamwuruk No. 92, Nagekeo, BE 24130",2017-03-23
+06305543,Gugun,Zulkarnain,IT Consultant,7,gugun.zulkarnain@gdn-commerce.com,1978-08-14,+62855510985949,"Jl. Gatot Soebroto No. 72, Bangka, SA 33537",2021-09-20
+06303814,Bagus,Ginanjar,Corporate Marketing Facilitator,6,bagus.ginanjar@gdn-commerce.com,1974-06-06,+62898594612766,"Jl. MH. Thamrin No. 13, Hulu Sungai Tengah, KI 47924",2019-01-21
+06305202,Devi,Fachri,Customer Producer,10,devi.fachri@gdn-commerce.com,1972-01-03,+62877828962100,"Suite 759 Jl. MH. Thamrin No. 98, Buton Utara, BE 46754",2016-08-19
+06308704,Pandu,Ferdian,Global Manager,7,pandu.ferdian@gdn-commerce.com,1980-05-04,+62832818800411,"Apt. 275 Jl. Kartini No. 90, Mojokerto, SU 96146",2021-12-21
+06304925,Qomar,Idris,Technology Administrator,7,qomar.idris@gdn-commerce.com,1993-09-07,+62871415564972,"Jl. Diponegoro No. 23, Batang Hari, SG 79623",2018-03-23
+06302243,Derry,Kusumawardhana,Legal Engineer,4,derry.kusumawardhana@gdn-commerce.com,1999-03-02,+62887873425887,"Suite 660 Jl. Diponegoro No. 46, Aceh Selatan, BE 60987",2020-05-05
+06305713,Aan,Abdullah,Customer Technician,12,aan.abdullah@gdn-commerce.com,1982-12-11,+62884809815361,"Jl. Hayamwuruk No. 36, Muna, JW 61740",2017-02-28
+06308187,Vanya,Virgiawan,Product Facilitator,5,vanya.virgiawan@gdn-commerce.com,1985-07-12,+62812878463638,"Apt. 686 Jl. Gajahmada No. 48, Natuna, ST 65829",2016-05-04
+06305092,Bima,Adriansyah,Direct Assistant,12,bima.adriansyah@gdn-commerce.com,1976-05-16,+62884646703630,"Jl. Rasuna Said No. 51, Kuantan Singingi, SR 92496",2018-01-19
+06304247,Popi,Sugianto,Global Government Director,13,popi.sugianto@gdn-commerce.com,1999-07-21,+62879104124022,"Suite 396 Jl. Jend. Sudirman No. 68, Gunung Mas, YO 34616",2016-09-27
+06302462,Niko,Listyawan,Investor Community-Services Orchestrator,6,niko.listyawan@gdn-commerce.com,1976-01-02,+62830011580903,"Jl. Ahmad Yani No. 73, Merangin, KT 06894",2016-01-05
+06309870,Rahmat,Febriansyah,Lead Hospitality Planner,9,rahmat.febriansyah@gdn-commerce.com,1991-11-18,+62815389703913,"Suite 914 Jl. Jend. Sudirman No. 53, Seram Bagian Timur, KS 36384",2019-02-13
+06306679,Hengky,Oktavian,Mining Representative,11,hengky.oktavian@gdn-commerce.com,1996-06-15,+62828830791796,"Suite 833 Jl. Rasuna Said No. 99, Banyuwangi, SB 30359",2021-09-27
+06308043,Komar,Jayadi,Direct Specialist,12,komar.jayadi@gdn-commerce.com,1974-10-05,+62846125043458,"Jl. Rasuna Said No. 11, Kepulauan Selayar, GO 98832",2021-09-28
+06306373,Bagus,Ardianto,Regional Officer,11,bagus.ardianto@gdn-commerce.com,1977-11-04,+62869792814487,"Jl. Diponegoro No. 19, Bengkulu Selatan, SG 29424",2016-01-15
+06300233,Liana,Wijaya,Direct Mining Planner,7,liana.wijaya@gdn-commerce.com,1977-07-19,+62819611821276,"Apt. 646 Jl. Rasuna Said No. 30, Pesisir Barat, JA 06756",2018-01-26
+06309500,Wendy,Mardiansyah,Internal Real-Estate Supervisor,6,wendy.mardiansyah@gdn-commerce.com,1992-07-21,+62854699120905,"Apt. 328 Jl. Ahmad Yani No. 80, Gunungsitoli, BA 46952",2016-05-19
+06304972,Erika,Listyawan,Government Officer,10,erika.listyawan@gdn-commerce.com,1986-06-12,+62819302692629,"Suite 485 Jl. MH. Thamrin No. 64, Bandung Barat, NU 90559",2016-05-10
+06305198,Jaka,Triwijaya,Manufacturing Coordinator,4,jaka.triwijaya@gdn-commerce.com,2003-03-27,+62819596087760,"Jl. Diponegoro No. 63, Tojo Una-una, KA 64590",2018-10-13
+06309882,Aulia,Gunardi,International Legal Liaison,13,aulia.gunardi@gdn-commerce.com,1998-10-13,+62836827296510,"Suite 622 Jl. Juanda No. 57, Ende, GO 79350",2020-01-12
+06308157,Galih,Hartanto,Marketing Orchestrator,4,galih.hartanto@gdn-commerce.com,1985-04-06,+62893773632687,"Jl. Jend. Sudirman No. 16, Pegunungan Bintang, PP 27273",2018-06-01
+06304349,Iwan,Hendrawinata,Investor IT Supervisor,12,iwan.hendrawinata@gdn-commerce.com,1998-01-16,+62840526751108,"Apt. 242 Jl. Hayamwuruk No. 75, Penajam Paser Utara, SL 05592",2020-05-16
+06306754,Nina,Waluyo,Human Supervisor,12,nina.waluyo@gdn-commerce.com,1972-09-03,+62860801858925,"Jl. Gatot Soebroto No. 28, Lampung Barat, NT 85377",2020-10-20
+06300128,Valentinus,Hartono,International Engineer,13,valentinus.hartono@gdn-commerce.com,1998-08-23,+62822885758758,"Suite 723 Jl. Gatot Soebroto No. 76, Jayapura, BA 96184",2016-10-10
+06302945,Komar,Zulkarnain,Principal Advertising Facilitator,11,komar.zulkarnain@gdn-commerce.com,1991-06-03,+62830675982737,"Jl. Ahmad Yani No. 31, Kepulauan Aru, KU 51992",2018-02-10
+06307619,Mahesa,Nasrudin,Banking Analyst,8,mahesa.nasrudin@gdn-commerce.com,1978-01-23,+62820712367207,"Jl. Gajahmada No. 35, Padang Lawas Utara, KU 91594",2021-09-17
+06300926,Lia,Ikhsan,IT Supervisor,9,lia.ikhsan@gdn-commerce.com,1999-04-24,+62893799261198,"Jl. Juanda No. 86, Binjai, LA 40254",2021-03-04
+06304378,Endang,Oktara,Principal Developer,7,endang.oktara@gdn-commerce.com,1989-07-04,+62885098860743,"Apt. 251 Jl. MH. Thamrin No. 33, Halmahera Tengah, PP 92953",2017-04-28
+06309368,Arya,Setiawan,Accounting Strategist,11,arya.setiawan@gdn-commerce.com,1979-04-25,+62891772205320,"Jl. MH. Thamrin No. 75, Banjarnegara, SG 39386",2017-09-06
+06303490,Bagas,Nugraha,Hospitality Representative,12,bagas.nugraha@gdn-commerce.com,1982-11-12,+62882735716983,"Suite 277 Jl. Kartini No. 63, Sinjai, KS 04847",2018-02-10
+06300720,Agus,Riyadi,Principal Advertising Representative,4,agus.riyadi@gdn-commerce.com,1975-11-18,+62851592854485,"Apt. 511 Jl. Hayamwuruk No. 26, Tabanan, BA 12212",2021-10-19
+06303037,Galih,Zaini,Legacy Community-Services Designer,12,galih.zaini@gdn-commerce.com,1980-03-05,+62811107449755,"Jl. Juanda No. 11, Lebak, JW 96643",2016-04-20
+06305338,Bagas,Fauzi,Internal Manufacturing Agent,9,bagas.fauzi@gdn-commerce.com,1979-01-29,+62849790052194,"Apt. 129 Jl. Ahmad Yani No. 90, Pakpak Bharat, SG 99941",2021-03-24
+06306442,Tito,Kusuma,Chief Real-Estate Officer,10,tito.kusuma@gdn-commerce.com,1970-05-30,+62848401968042,"Jl. Diponegoro No. 38, Kaur, KU 51089",2019-12-22
+06302558,David,Winardi,Regional Administration Administrator,13,david.winardi@gdn-commerce.com,1992-09-01,+62824571747512,"Suite 944 Jl. MH. Thamrin No. 97, Tanah Datar, MU 40343",2017-06-27
+06306473,Kemal,Fachriawan,Legacy Technology Supervisor,11,kemal.fachriawan@gdn-commerce.com,1974-04-13,+62850005039070,"Jl. Kartini No. 28, Depok, NT 41319",2017-08-30
+06303912,Aditya,Pahlevi,Community-Services Consultant,9,aditya.pahlevi@gdn-commerce.com,1976-09-06,+62827134092986,"Suite 804 Jl. MH. Thamrin No. 51, Kubu Raya, JT 87490",2017-03-04
+06303566,Umar,Satria,Principal Legal Engineer,9,umar.satria@gdn-commerce.com,1998-02-20,+62881423433556,"Jl. Gatot Soebroto No. 24, Takalar, BB 30440",2020-04-11
+06308041,Deni,Gunardi,Healthcare Designer,6,deni.gunardi@gdn-commerce.com,2002-12-16,+62883688567275,"Suite 704 Jl. Kartini No. 88, Bolaang Mongondow Selatan, ML 99625",2017-04-04
+06304668,Indra,Mahendra,Customer Farming Director,11,indra.mahendra@gdn-commerce.com,1987-10-15,+62817139156713,"Jl. Kartini No. 37, Klungkung, YO 59602",2019-05-10
+06300711,Andi,Kusuma,IT Administrator,4,andi.kusuma@gdn-commerce.com,1998-11-22,+62839699349260,"Suite 382 Jl. Rasuna Said No. 37, Sumba Tengah, KT 50168",2019-02-09
+06307341,Olivia,Lesmana,Dynamic Marketing Supervisor,8,olivia.lesmana@gdn-commerce.com,1982-08-07,+62880544131267,"Apt. 811 Jl. Gajahmada No. 65, Puncak Jaya, PP 23644",2021-09-22
+06306766,Sigit,Haryanto,Principal Technician,6,sigit.haryanto@gdn-commerce.com,1987-11-05,+62895119020549,"Suite 777 Jl. Juanda No. 94, Teluk Bintuni, SS 00793",2017-05-06
+06305205,Aan,Adriansyah,Healthcare Executive,4,aan.adriansyah@gdn-commerce.com,1987-02-05,+62883104475003,"Suite 195 Jl. Rasuna Said No. 28, Bulukumba, KR 69670",2017-12-22
+06309942,Kiki,Jayadi,Internal Healthcare Planner,7,kiki.jayadi@gdn-commerce.com,1980-07-02,+62868722848332,"Jl. Diponegoro No. 66, Jakarta Selatan, JT 55790",2017-01-13
+06300347,Wira,Dzulfikar,Mining Producer,5,wira.dzulfikar@gdn-commerce.com,1990-06-30,+62840473934553,"Jl. Diponegoro No. 99, Teluk Wondama, MU 07697",2018-01-10
+06302885,Wisnu,Qodir,Construction Designer,9,wisnu.qodir@gdn-commerce.com,1975-11-23,+62843940273351,"Jl. Hayamwuruk No. 36, Tanah Laut, NU 46048",2019-10-21
+06307338,Yossi,Sugianto,Legal Supervisor,5,yossi.sugianto@gdn-commerce.com,1996-03-05,+62847643818205,"Jl. Jend. Sudirman No. 16, Jayapura, SR 25538",2016-05-20
+06302841,Valentinus,Darmadi,Banking Director,9,valentinus.darmadi@gdn-commerce.com,1996-10-02,+62897593822816,"Suite 395 Jl. Gatot Soebroto No. 50, Lanny Jaya, RI 95129",2019-09-24
+06304772,Arif,Gunardi,Central Advertising Administrator,6,arif.gunardi@gdn-commerce.com,1995-03-31,+62877903586573,"Jl. Rasuna Said No. 19, Pesisir Selatan, BT 42088",2016-03-13
+06303156,Olivia,Jayadi,Internal Consultant,11,olivia.jayadi@gdn-commerce.com,1989-05-11,+62815681314520,"Jl. Kartini No. 29, Kotamobagu, JA 56855",2018-07-19
+06301186,Erika,Prawira,Marketing Manager,12,erika.prawira@gdn-commerce.com,1973-04-21,+62880335241468,"Jl. Hayamwuruk No. 70, Tolikara, ML 00143",2019-10-15
+06301430,Edwin,Ikhsan,Central Healthcare Liaison,9,edwin.ikhsan@gdn-commerce.com,1973-03-17,+62843789402616,"Jl. Jend. Sudirman No. 29, Sukabumi, SS 06822",2017-09-03
+06303464,Aji,Hermawan,Corporate Advertising Associate,11,aji.hermawan@gdn-commerce.com,1977-09-03,+62863220036584,"Suite 351 Jl. Gajahmada No. 45, Bone Bolango, KT 98889",2018-10-13
+06305024,Iwan,Gautama,Investor Banking Officer,4,iwan.gautama@gdn-commerce.com,1976-10-22,+62810054219405,"Apt. 550 Jl. Hayamwuruk No. 43, Aceh Utara, KB 09879",2018-05-05
+06301973,Wahyu,Nainggolan,Community-Services Producer,9,wahyu.nainggolan@gdn-commerce.com,1972-07-10,+62823666221401,"Jl. Kartini No. 12, Merangin, JI 68654",2016-12-06
+06304230,Deni,Wijanarko,Chief Associate,10,deni.wijanarko@gdn-commerce.com,1988-12-02,+62831582948550,"Suite 561 Jl. Hayamwuruk No. 76, Banjarmasin, BT 88471",2017-02-24
+06309636,Dina,Rudianto,Investor Facilitator,11,dina.rudianto@gdn-commerce.com,1984-04-07,+62854254410727,"Jl. Gajahmada No. 69, Ende, AC 07657",2021-04-01
+06304441,Bambang,Wirawan,Direct Construction Coordinator,8,bambang.wirawan@gdn-commerce.com,1999-09-07,+62867593314851,"Jl. Gatot Soebroto No. 93, Kepulauan Seribu, BB 26308",2019-08-07
+06303354,Anita,Ferianto,Accounting Producer,5,anita.ferianto@gdn-commerce.com,1973-01-14,+62871831258861,"Apt. 970 Jl. Kartini No. 77, Palu, SB 71619",2016-12-24
+06300837,Yossi,Pribadi,Mining Representative,4,yossi.pribadi@gdn-commerce.com,2001-02-21,+62820479129475,"Jl. Diponegoro No. 24, Flores Timur, PP 17919",2019-12-08
+06304435,Zaenal,Harjono,Regional Supervisor,10,zaenal.harjono@gdn-commerce.com,1981-05-04,+62853226293128,"Suite 260 Jl. Juanda No. 11, Langsa, ST 95917",2019-06-25
+06303595,Vira,Nasrudin,Human Planner,6,vira.nasrudin@gdn-commerce.com,1988-01-26,+62852439288546,"Suite 756 Jl. Gajahmada No. 72, Bondowoso, GO 37092",2016-05-29
+06307646,Lisa,Tjahjadi,Principal Mining Supervisor,13,lisa.tjahjadi@gdn-commerce.com,1997-09-28,+62866488137578,"Jl. MH. Thamrin No. 97, Purwakarta, KU 27532",2016-01-16
+06307912,Imam,Mahendra,Legal Strategist,7,imam.mahendra@gdn-commerce.com,1990-06-01,+62832077503851,"Apt. 758 Jl. Ahmad Yani No. 27, Musi Banyuasin, LA 51129",2019-12-04
+06307114,Merry,Dinata,Internal Administration Facilitator,7,merry.dinata@gdn-commerce.com,1974-05-15,+62892069477225,"Jl. Juanda No. 17, Malang, PP 25072",2021-05-03
+06301258,Wahyu,Winardi,Education Assistant,6,wahyu.winardi@gdn-commerce.com,1981-07-10,+62898614568392,"Apt. 498 Jl. Ahmad Yani No. 74, Sambas, JA 72102",2018-09-15
+06304706,Sandi,Ilham,Legal Manager,13,sandi.ilham@gdn-commerce.com,1973-02-05,+62853440211972,"Suite 734 Jl. Diponegoro No. 84, Gorontalo, SN 96265",2019-11-18
+06308362,Pradipta,Fachriawan,Marketing Administrator,12,pradipta.fachriawan@gdn-commerce.com,1996-03-02,+62823082781475,"Jl. Kartini No. 10, Rokan Hulu, SG 64566",2017-07-08
+06304120,Endang,Thamrin,Marketing Director,8,endang.thamrin@gdn-commerce.com,2000-10-18,+62831978080356,"Jl. Hayamwuruk No. 80, Sleman, NU 92410",2019-03-01
+06300114,Olivia,Rusmana,Healthcare Strategist,7,olivia.rusmana@gdn-commerce.com,1990-07-28,+62829833215884,"Jl. Diponegoro No. 63, Kolaka Utara, KA 78682",2017-02-27
+06300935,Ruslan,Hadiwijaya,Central Government Agent,11,ruslan.hadiwijaya@gdn-commerce.com,1991-01-19,+62813211076865,"Suite 848 Jl. Kartini No. 91, Jakarta Barat, KS 54995",2018-03-02
+06307260,Umar,Yudhiswara,National Officer,8,umar.yudhiswara@gdn-commerce.com,1977-07-20,+62895835577886,"Jl. Diponegoro No. 43, Bangkalan, SS 98399",2019-11-08
+06305040,Khrisna,Febriansyah,Internal Design Engineer,5,khrisna.febriansyah@gdn-commerce.com,1983-05-13,+62847405500551,"Jl. Gajahmada No. 85, Wonosobo, KS 37413",2021-01-30
+06301540,Kartini,Sanjaya,Future Technology Specialist,4,kartini.sanjaya@gdn-commerce.com,1992-09-29,+62828541943341,"Jl. MH. Thamrin No. 43, Samarinda, PP 78749",2021-09-05
+06300029,Unang,Erik,Legacy Marketing Director,7,unang.erik@gdn-commerce.com,1996-02-24,+62823498342480,"Jl. Jend. Sudirman No. 82, Pangkajene Dan Kepulauan, SL 66454",2017-04-11
+06304097,Niko,Wijanarko,National Administration Planner,12,niko.wijanarko@gdn-commerce.com,2002-05-01,+62875377734369,"Jl. Kartini No. 41, Bandung, MA 87883",2018-04-19
+06301116,Jaka,Wirawan,Healthcare Orchestrator,6,jaka.wirawan@gdn-commerce.com,1980-12-01,+62843453480210,"Jl. Gatot Soebroto No. 54, Tanah Bumbu, KT 71030",2021-02-19
+06308838,Prily,Santoso,Chief Real-Estate Engineer,9,prily.santoso@gdn-commerce.com,1980-09-11,+62876108008580,"Jl. Jend. Sudirman No. 97, Trenggalek, BT 30200",2018-05-04
+06308974,Iwan,Cahyadi,Principal IT Associate,12,iwan.cahyadi@gdn-commerce.com,1981-11-29,+62877147256717,"Suite 782 Jl. Juanda No. 88, Pegunungan Bintang, SG 96469",2017-12-19
+06306380,Salim,Gunajaya,Central Mining Associate,9,salim.gunajaya@gdn-commerce.com,1993-06-25,+62839039590068,"Jl. Hayamwuruk No. 30, Nias Selatan, GO 01262",2019-10-22
+06305729,Heni,Yudhistira,Technology Supervisor,5,heni.yudhistira@gdn-commerce.com,1986-08-31,+62895127744296,"Jl. Diponegoro No. 97, Bandar Lampung, ML 01368",2017-08-31
+06302322,Muhammad,Ardianto,Retail Analyst,9,muhammad.ardianto@gdn-commerce.com,1982-09-22,+62888425354277,"Apt. 394 Jl. Gajahmada No. 47, Aceh Singkil, SL 49557",2020-10-30
+06305678,Ahmad,Oktara,Consulting Developer,13,ahmad.oktara@gdn-commerce.com,1995-08-27,+62861793528111,"Jl. Hayamwuruk No. 23, Bengkulu, BE 98871",2020-10-18
+06304191,Jaka,Umbara,Customer Consulting Coordinator,13,jaka.umbara@gdn-commerce.com,1971-05-08,+62872683742403,"Jl. Kartini No. 91, Padang Pariaman, KA 61639",2016-02-19
+06304080,Vicky,Armansyah,Hospitality Director,6,vicky.armansyah@gdn-commerce.com,2001-12-09,+62830379008099,"Apt. 615 Jl. Gatot Soebroto No. 79, Baubau, BT 94434",2017-02-10
+06305906,Agus,Dwiantoro,Internal Banking Representative,7,agus.dwiantoro@gdn-commerce.com,1978-06-29,+62857608761505,"Jl. Gatot Soebroto No. 64, Ogan Komering Ulu Selatan, KU 33908",2017-04-19
+06306440,David,Rusli,Product Officer,7,david.rusli@gdn-commerce.com,1997-12-12,+62822196304204,"Apt. 950 Jl. Gatot Soebroto No. 59, Tangerang, JA 91229",2020-12-25
+06302165,Gugun,Indrajaya,Investor Design Liaison,5,gugun.indrajaya@gdn-commerce.com,1993-05-06,+62890615101970,"Jl. Rasuna Said No. 84, Ngada, SM 23388",2019-05-14
+06307456,Yossi,Oktavian,Advertising Supervisor,6,yossi.oktavian@gdn-commerce.com,1975-07-05,+62882719173753,"Jl. Ahmad Yani No. 83, Jakarta Selatan, SL 34679",2017-09-12
+06302801,Putri,Abdullah,Lead Technology Orchestrator,7,putri.abdullah@gdn-commerce.com,1996-02-06,+62812537468809,"Jl. Diponegoro No. 10, Barru, SA 53818",2018-08-26
+06306790,Edi,Pahlevi,Lead Healthcare Technician,4,edi.pahlevi@gdn-commerce.com,2002-07-18,+62864144292269,"Apt. 731 Jl. Jend. Sudirman No. 60, Nias Utara, BA 30059",2017-01-23
+06302790,Yahya,Indragiri,Sales Designer,9,yahya.indragiri@gdn-commerce.com,1972-03-05,+62840878642131,"Jl. Ahmad Yani No. 71, Batang Hari, SL 07487",2021-11-08
+06308563,Iwan,Kurniadi,Regional Construction Producer,4,iwan.kurniadi@gdn-commerce.com,1999-10-25,+62824154468886,"Suite 703 Jl. Ahmad Yani No. 80, Kulon Progo, BE 21451",2021-09-09
+06307986,Danang,Yulianto,International Accounting Consultant,13,danang.yulianto@gdn-commerce.com,1982-05-31,+62848553057810,"Jl. Rasuna Said No. 43, Ketapang, KA 62804",2017-04-22
+06302288,Edwin,Wijanarko,Principal Sales Coordinator,4,edwin.wijanarko@gdn-commerce.com,1980-11-05,+62810230971578,"Apt. 955 Jl. Rasuna Said No. 89, Tulungagung, SR 07038",2020-12-20
+06301350,Jaka,Iswanto,Manufacturing Specialist,4,jaka.iswanto@gdn-commerce.com,1980-10-03,+62815647387693,"Jl. Gajahmada No. 98, Tanah Datar, SL 63361",2020-06-17
+06308417,Derry,Bimantara,Customer Specialist,10,derry.bimantara@gdn-commerce.com,1989-08-21,+62885679498175,"Suite 421 Jl. Kartini No. 22, Halmahera Selatan, NT 33282",2021-06-18
+06303816,Bagas,Kurniawan,Healthcare Engineer,5,bagas.kurniawan@gdn-commerce.com,1986-12-05,+62889530570272,"Apt. 761 Jl. Gajahmada No. 40, Lanny Jaya, PB 68409",2017-07-27
+06301584,Adi,Tjahjadi,Education Liaison,9,adi.tjahjadi@gdn-commerce.com,1980-04-14,+62844963694081,"Apt. 210 Jl. Diponegoro No. 88, Karimun, JI 42878",2019-11-04
+06308407,Derry,Budiono,Design Administrator,9,derry.budiono@gdn-commerce.com,1996-10-09,+62845506008980,"Jl. Jend. Sudirman No. 28, Bengkulu Tengah, KU 95238",2019-07-25
+06300494,Vira,Sugiarto,IT Orchestrator,13,vira.sugiarto@gdn-commerce.com,2002-03-20,+62884449136503,"Jl. Jend. Sudirman No. 27, Kepulauan Meranti, BA 22741",2017-06-07
+06309220,Endang,Sanjaya,Marketing Technician,6,endang.sanjaya@gdn-commerce.com,1985-09-17,+62818160147569,"Apt. 753 Jl. Juanda No. 80, Bengkulu Selatan, BB 15431",2020-02-15
+06309229,Mahesa,Maheswara,Real-Estate Engineer,11,mahesa.maheswara@gdn-commerce.com,1970-10-15,+62855036577497,"Apt. 794 Jl. Jend. Sudirman No. 33, Tangerang Selatan, SG 33599",2020-12-15
+06309243,Anton,Kurniadi,Direct Architect,6,anton.kurniadi@gdn-commerce.com,1970-02-13,+62813509726883,"Jl. Jend. Sudirman No. 38, Tulangbawang, AC 26846",2021-01-23
+06301166,Yossi,Ardianto,Lead Design Consultant,7,yossi.ardianto@gdn-commerce.com,1992-04-01,+62851432303130,"Apt. 311 Jl. Juanda No. 96, Sigi, KB 01238",2016-01-25
+06304942,Yahya,Unggul,District Banking Specialist,9,yahya.unggul@gdn-commerce.com,1981-08-17,+62865281225341,"Jl. Gajahmada No. 49, Wonosobo, KU 93990",2016-08-27
+06308303,Komar,Firmansyah,Chief Liaison,8,komar.firmansyah@gdn-commerce.com,2000-08-26,+62822516787692,"Jl. Diponegoro No. 33, Barito Selatan, JI 07785",2019-03-06
+06300711,Kartini,Hartanto,Dynamic Supervisor,11,kartini.hartanto@gdn-commerce.com,1977-07-03,+62869205592370,"Suite 959 Jl. Gatot Soebroto No. 73, Jakarta Barat, SS 65180",2018-08-08
+06301509,Pradipta,Ikhsan,Customer Director,6,pradipta.ikhsan@gdn-commerce.com,1987-03-25,+62810854480193,"Apt. 295 Jl. Hayamwuruk No. 25, Pohuwato, KS 64893",2020-04-15
+06304452,Yudhistira,Indrajaya,Direct Coordinator,6,yudhistira.indrajaya@gdn-commerce.com,1976-10-04,+62817251175540,"Apt. 593 Jl. MH. Thamrin No. 77, Jembrana, SL 61405",2019-10-14
+06304859,Vicky,Iswanto,Administration Facilitator,10,vicky.iswanto@gdn-commerce.com,2001-12-15,+62862361606392,"Apt. 107 Jl. Diponegoro No. 80, Sampang, BE 61944",2018-12-20
+06303642,Aji,Fachriawan,Central Government Specialist,6,aji.fachriawan@gdn-commerce.com,1997-02-10,+62812533633552,"Suite 674 Jl. Gajahmada No. 18, Seram Bagian Timur, KT 40500",2018-05-12
+06303206,Diah,Ciputra,Legal Administrator,11,diah.ciputra@gdn-commerce.com,1995-01-03,+62820306453090,"Suite 183 Jl. Ahmad Yani No. 82, Lampung Barat, BT 76609",2020-11-14
+06305137,Toni,Armansyah,Real-Estate Agent,8,toni.armansyah@gdn-commerce.com,1980-05-25,+62888980446337,"Jl. Hayamwuruk No. 50, Bontang, PA 21274",2020-12-15
+06303324,Edwin,Indrajaya,Design Facilitator,11,edwin.indrajaya@gdn-commerce.com,1998-03-14,+62824440797273,"Jl. Jend. Sudirman No. 66, Bengkulu Selatan, KA 31381",2017-07-20
+06307668,Anton,Taslim,Central Architect,11,anton.taslim@gdn-commerce.com,1973-11-01,+62829313215805,"Jl. Diponegoro No. 78, Bulukumba, SS 16164",2017-05-30
+06306339,Toni,Iswanto,Real-Estate Consultant,6,toni.iswanto@gdn-commerce.com,2003-10-19,+62815537103709,"Suite 941 Jl. Juanda No. 71, Batu Bara, NT 57081",2021-02-26
+06308315,Tiara,Yudhistira,Government Facilitator,10,tiara.yudhistira@gdn-commerce.com,1970-01-30,+62894119981174,"Jl. Jend. Sudirman No. 62, Minahasa Tenggara, SR 02775",2019-10-15
+06304551,Dion,Jayakusuma,International Design Orchestrator,11,dion.jayakusuma@gdn-commerce.com,1987-11-13,+62862776593559,"Suite 213 Jl. Diponegoro No. 25, Lampung Tengah, SL 24365",2016-08-09
+06309629,Budi,Marzuki,Principal Construction Administrator,10,budi.marzuki@gdn-commerce.com,1980-09-30,+62891372385096,"Suite 263 Jl. Gajahmada No. 80, Donggala, SN 17314",2021-11-25
+06300177,Dina,Haryanto,Internal Manager,9,dina.haryanto@gdn-commerce.com,1992-09-25,+62828431517598,"Jl. Jend. Sudirman No. 90, Berau, JI 85235",2021-06-05
+06300076,Komar,Ikhsan,Customer Community-Services Coordinator,11,komar.ikhsan@gdn-commerce.com,1983-08-03,+62823378311425,"Jl. Hayamwuruk No. 31, Kotawaringin Barat, KB 98228",2020-08-27
+06308846,Ferdian,Gunardi,Product IT Officer,10,ferdian.gunardi@gdn-commerce.com,1979-08-23,+62891312753485,"Jl. Rasuna Said No. 97, Bogor, SS 34859",2020-11-10
+06303728,Budi,Saputra,Direct Hospitality Planner,12,budi.saputra@gdn-commerce.com,1991-08-28,+62883951990085,"Apt. 301 Jl. MH. Thamrin No. 23, Mimika, JK 81354",2017-02-28
+06300327,Heru,Wicaksono,Manufacturing Orchestrator,11,heru.wicaksono@gdn-commerce.com,1976-04-05,+62863802781674,"Suite 921 Jl. Rasuna Said No. 86, Katingan, KI 11603",2018-06-08
+06308562,Aan,Ferdian,Investor Banking Architect,9,aan.ferdian@gdn-commerce.com,1970-09-26,+62888613765961,"Apt. 564 Jl. Rasuna Said No. 22, Labuhan Batu, JT 99181",2018-09-17
+06300453,Muhammad,Basri,Lead Engineer,12,muhammad.basri@gdn-commerce.com,1990-09-01,+62823708631653,"Jl. Hayamwuruk No. 82, Ogan Komering Ulu Timur, BT 64954",2020-12-20
+06300372,Dimas,Wijaya,Community-Services Specialist,9,dimas.wijaya@gdn-commerce.com,2003-08-05,+62863749623428,"Suite 836 Jl. MH. Thamrin No. 19, Ogan Komering Ulu, JK 75903",2018-04-25
+06301177,Heru,Ilham,Marketing Specialist,6,heru.ilham@gdn-commerce.com,1982-07-28,+62899399133515,"Jl. Gajahmada No. 52, Kapuas Hulu, PP 55899",2021-04-25
+06302130,Edwin,Januar,Government Producer,8,edwin.januar@gdn-commerce.com,1981-03-30,+62815902405148,"Jl. Gajahmada No. 91, Belitung Timur, SR 52967",2017-06-14
+06301905,Qorri,Santoso,District Associate,10,qorri.santoso@gdn-commerce.com,1994-07-07,+62892638941496,"Suite 825 Jl. Jend. Sudirman No. 12, Nias Barat, BT 58797",2016-10-03
+06304096,Udin,Zulfikara,Principal Consulting Analyst,4,udin.zulfikara@gdn-commerce.com,1970-06-15,+62840780902327,"Apt. 842 Jl. Gajahmada No. 85, Jember, JK 51426",2021-04-07
+06307047,Diah,Hartono,Internal Advertising Assistant,6,diah.hartono@gdn-commerce.com,1998-05-31,+62835216582560,"Jl. Kartini No. 20, Jakarta Barat, NB 81499",2018-06-14
+06304448,Yudi,Qodir,Dynamic Administration Agent,12,yudi.qodir@gdn-commerce.com,1982-09-02,+62811666059434,"Apt. 436 Jl. Juanda No. 22, Lebong, YO 64880",2018-11-22
+06304275,Deni,Ciputra,IT Architect,8,deni.ciputra@gdn-commerce.com,1973-03-27,+62876646464592,"Jl. Gatot Soebroto No. 47, Padang Panjang, BE 48671",2021-04-16
+06308307,Budi,Gautama,Marketing Coordinator,9,budi.gautama@gdn-commerce.com,1999-11-07,+62857694583007,"Jl. Gatot Soebroto No. 58, Pemalang, AC 05276",2020-11-06
+06300467,Yudhistira,Satria,Chief Liaison,11,yudhistira.satria@gdn-commerce.com,1980-07-30,+62883059006201,"Jl. Ahmad Yani No. 33, Binjai, BT 81979",2019-10-30
+06302529,David,Rudianto,Corporate Construction Executive,11,david.rudianto@gdn-commerce.com,1972-06-06,+62827598720028,"Jl. Ahmad Yani No. 52, Kendal, AC 31984",2016-02-07
+06308129,Endang,Darmawan,Principal Consultant,12,endang.darmawan@gdn-commerce.com,1987-08-29,+62822516936294,"Jl. Juanda No. 61, Bolaang Mongondow Utara, BA 08251",2016-05-21
+06301288,Vira,Kusumawardhana,Product Director,4,vira.kusumawardhana@gdn-commerce.com,1992-12-01,+62811330624484,"Jl. Gajahmada No. 12, Mataram, KI 11404",2021-03-21
+06309552,Qorri,Rusmana,Banking Developer,10,qorri.rusmana@gdn-commerce.com,2001-04-24,+62881766838548,"Jl. Gatot Soebroto No. 49, Tana Toraja, KA 76631",2018-03-16
+06301666,Bagus,Ginting,Lead Hospitality Coordinator,10,bagus.ginting@gdn-commerce.com,1997-09-18,+62862417280887,"Jl. Gatot Soebroto No. 93, Kubu Raya, KA 16406",2017-01-30
+06304009,Hamdan,Mardianto,Global Marketing Consultant,4,hamdan.mardianto@gdn-commerce.com,1979-11-01,+62867747970872,"Suite 376 Jl. Rasuna Said No. 26, Ketapang, SB 45902",2019-04-28
+06309761,Toni,Januar,Investor Associate,13,toni.januar@gdn-commerce.com,1983-03-04,+62843322269738,"Suite 381 Jl. Kartini No. 32, Wonogiri, ST 72847",2018-10-09
+06308867,Aditya,Hartanto,Dynamic Legal Representative,9,aditya.hartanto@gdn-commerce.com,1984-12-25,+62830936788025,"Suite 858 Jl. Rasuna Said No. 70, Demak, AC 25091",2017-07-31
+06309852,Anita,Ciputra,IT Analyst,13,anita.ciputra@gdn-commerce.com,1985-03-17,+62886257641948,"Jl. Rasuna Said No. 44, Hulu Sungai Tengah, BB 36276",2021-07-23
+06309709,Vicky,Febriansyah,Senior Hospitality Assistant,6,vicky.febriansyah@gdn-commerce.com,1986-06-28,+62852435303580,"Suite 187 Jl. Diponegoro No. 54, Siau Tagulandang Biaro, BB 95246",2021-07-20
+06309649,Citra,Ismail,Manufacturing Planner,5,citra.ismail@gdn-commerce.com,1977-11-17,+62846357141652,"Apt. 472 Jl. Juanda No. 66, Sikka, KU 48099",2020-07-15
+06306811,Anita,Firmansyah,Lead Community-Services Administrator,7,anita.firmansyah@gdn-commerce.com,1983-06-10,+62846364664752,"Apt. 169 Jl. Gatot Soebroto No. 92, Bangka Tengah, BT 56266",2021-05-23
+06307793,Jaka,Virgiawan,Customer Assistant,5,jaka.virgiawan@gdn-commerce.com,1980-09-04,+62825284770766,"Jl. Diponegoro No. 43, Kutai Kartanegara, JK 86924",2020-05-07
+06304273,Slamet,Darmawan,Product Marketing Liaison,6,slamet.darmawan@gdn-commerce.com,1986-12-01,+62859025192310,"Suite 578 Jl. Diponegoro No. 24, Padang Lawas Utara, GO 97717",2018-03-29
+06303236,Pradipta,Januar,Dynamic Producer,7,pradipta.januar@gdn-commerce.com,1972-09-24,+62815451723511,"Jl. MH. Thamrin No. 79, Indramayu, JW 71557",2017-01-30
+06300119,Topan,Novianto,Consulting Designer,13,topan.novianto@gdn-commerce.com,2002-11-18,+62896976844143,"Apt. 890 Jl. Juanda No. 69, Morowali, SG 68164",2017-11-20
+06306247,Tiara,Linggar,Technology Supervisor,12,tiara.linggar@gdn-commerce.com,1990-10-12,+62885678058833,"Suite 552 Jl. Hayamwuruk No. 52, Kepulauan Seribu, JW 86353",2021-08-12
+06306604,Victor,Jayakusuma,District IT Representative,13,victor.jayakusuma@gdn-commerce.com,1977-12-16,+62810735342882,"Suite 807 Jl. Rasuna Said No. 48, Gunung Mas, KR 86992",2021-06-10
+06309051,Yudi,Zulfikri,Human Engineer,10,yudi.zulfikri@gdn-commerce.com,1970-08-04,+62881511357342,"Suite 804 Jl. Gajahmada No. 76, Pakpak Bharat, MA 01364",2016-11-29
+06308930,Wisnu,Ferdian,Farming Liaison,5,wisnu.ferdian@gdn-commerce.com,1994-04-29,+62897115037304,"Jl. Jend. Sudirman No. 75, Melawi, NU 40340",2016-09-26
+06302064,Edwin,Umbara,Investor Education Assistant,11,edwin.umbara@gdn-commerce.com,2001-10-13,+62884593150026,"Jl. Juanda No. 26, Magelang, KT 60914",2019-10-12
+06307775,Aji,Listyawan,Human Planner,9,aji.listyawan@gdn-commerce.com,1972-01-26,+62898041949116,"Apt. 967 Jl. Rasuna Said No. 20, Seram Bagian Barat, NB 54939",2017-06-14
+06300763,Topan,Maulana,Accounting Representative,12,topan.maulana@gdn-commerce.com,1972-12-07,+62842899007605,"Suite 558 Jl. Gajahmada No. 83, Majene, JT 80173",2021-06-29
+06309187,Sandi,Yulianto,Global Manager,5,sandi.yulianto@gdn-commerce.com,1994-12-22,+62887613079610,"Jl. Hayamwuruk No. 15, Jembrana, SA 21719",2020-10-16
+06307147,Jaya,Saragih,Future Manufacturing Supervisor,7,jaya.saragih@gdn-commerce.com,1978-11-20,+62871802865954,"Jl. Juanda No. 23, Soppeng, BB 48697",2019-12-10
+06303914,Gugun,Oktara,Legal Assistant,6,gugun.oktara@gdn-commerce.com,1990-12-07,+62837804963460,"Jl. Jend. Sudirman No. 63, Mataram, JI 42165",2019-08-21
+06308971,Pandu,Ferianto,Legacy Engineer,12,pandu.ferianto@gdn-commerce.com,1972-03-29,+62869201736846,"Suite 452 Jl. Diponegoro No. 29, Halmahera Tengah, SS 32187",2021-05-11
+06300908,Lisa,Abdullah,Technology Specialist,11,lisa.abdullah@gdn-commerce.com,1990-11-19,+62846050320584,"Apt. 879 Jl. Gatot Soebroto No. 30, Keerom, SL 69612",2019-03-08
+06307240,Bagas,Dwiantoro,Chief Construction Producer,10,bagas.dwiantoro@gdn-commerce.com,1976-03-27,+62860734494180,"Jl. Juanda No. 76, Sambas, JK 33328",2021-04-29
+06301637,Yanuar,Indrajaya,Central Real-Estate Developer,7,yanuar.indrajaya@gdn-commerce.com,1991-10-12,+62897242848518,"Apt. 748 Jl. Rasuna Said No. 54, Manggarai Barat, SL 05606",2018-02-11
+06308620,Arif,Erik,Marketing Planner,13,arif.erik@gdn-commerce.com,1974-12-31,+62891686281677,"Apt. 699 Jl. Diponegoro No. 86, Balikpapan, SG 37632",2018-05-20
+06303351,Niko,Wicaksono,Chief Engineer,10,niko.wicaksono@gdn-commerce.com,1974-10-24,+62887662637100,"Jl. Hayamwuruk No. 17, Jakarta Barat, MA 89066",2021-07-11
+06306910,Victor,Yulianto,Corporate Planner,10,victor.yulianto@gdn-commerce.com,1988-11-13,+62837466630963,"Jl. Diponegoro No. 70, Simeulue, KB 31533",2019-04-07
+06303052,Lia,Tjahjadi,Advertising Executive,8,lia.tjahjadi@gdn-commerce.com,1973-02-23,+62817372523350,"Apt. 445 Jl. Ahmad Yani No. 57, Sukabumi, PP 23567",2017-05-22
+06309593,Wahyu,Januar,IT Supervisor,5,wahyu.januar@gdn-commerce.com,1975-12-28,+62852657345092,"Jl. Hayamwuruk No. 72, Banjarnegara, SS 59005",2016-02-21
+06305587,Vivi,Zaini,Community-Services Facilitator,8,vivi.zaini@gdn-commerce.com,1990-11-05,+62874308749769,"Apt. 320 Jl. Gajahmada No. 17, Deli Serdang, SA 64857",2017-05-30
+06308858,Galih,Erlangga,International Consulting Producer,11,galih.erlangga@gdn-commerce.com,1986-05-22,+62882588363541,"Jl. Hayamwuruk No. 10, Wajo, MA 27210",2020-01-07
+06302296,Danang,Cahyono,Central IT Engineer,10,danang.cahyono@gdn-commerce.com,1985-03-10,+62856771232371,"Jl. Gatot Soebroto No. 63, Labuhan Batu, SR 36195",2017-04-18
+06303504,Lely,Hermawan,Legal Executive,8,lely.hermawan@gdn-commerce.com,1972-10-09,+62852736517485,"Apt. 845 Jl. Jend. Sudirman No. 22, Nabire, SM 03089",2020-02-16
+06305604,Derry,Daniawan,Customer Analyst,7,derry.daniawan@gdn-commerce.com,1988-06-10,+62892918325711,"Jl. Juanda No. 49, Aceh Tengah, JK 62061",2016-08-24
+06302781,Iwan,Kusumawardhana,Manufacturing Supervisor,13,iwan.kusumawardhana@gdn-commerce.com,2003-11-28,+62877807908302,"Jl. Rasuna Said No. 45, Subulussalam, KB 06859",2019-02-02
+06309681,Lia,Yudhiswara,Manufacturing Agent,10,lia.yudhiswara@gdn-commerce.com,1976-07-16,+62871902758525,"Apt. 171 Jl. Ahmad Yani No. 54, Rokan Hilir, KB 64764",2016-09-26
+06301758,Heru,Budiman,International Planner,9,heru.budiman@gdn-commerce.com,1974-06-25,+62894919302194,"Jl. Kartini No. 80, Mappi, KB 55813",2020-12-29
+06300696,Bayu,Januar,Chief Liaison,12,bayu.januar@gdn-commerce.com,1979-05-03,+62845732659364,"Jl. Jend. Sudirman No. 25, Nias Utara, SL 68559",2017-08-08
+06307276,Khrisna,Utama,Construction Technician,12,khrisna.utama@gdn-commerce.com,1978-07-16,+62827357660696,"Suite 418 Jl. Hayamwuruk No. 94, Sabang, YO 34284",2021-10-19
+06305389,Vanya,Fachri,International Strategist,10,vanya.fachri@gdn-commerce.com,1977-12-09,+62839447639145,"Suite 921 Jl. Hayamwuruk No. 55, Tanggamus, BA 56243",2018-06-02
+06308000,David,Indrajaya,Senior Assistant,12,david.indrajaya@gdn-commerce.com,1973-07-03,+62898051918792,"Jl. Rasuna Said No. 64, Tangerang Selatan, SR 76642",2017-09-07
+06300560,Choirul,Kurnianto,Direct Education Orchestrator,11,choirul.kurnianto@gdn-commerce.com,1983-03-19,+62856391470725,"Suite 274 Jl. Ahmad Yani No. 94, Katingan, ML 29956",2016-02-26
+06306104,Nisa,Wicaksono,Legacy Representative,8,nisa.wicaksono@gdn-commerce.com,1981-10-02,+62836916839013,"Suite 509 Jl. Diponegoro No. 69, Nias Barat, JK 72945",2020-08-08
+06304462,Gugun,Lesmana,Customer Advertising Architect,6,gugun.lesmana@gdn-commerce.com,1990-03-10,+62875222105344,"Apt. 522 Jl. Hayamwuruk No. 73, Blora, KS 02197",2018-12-31
+06302348,Adi,Yudhiswara,District Community-Services Assistant,12,adi.yudhiswara@gdn-commerce.com,2000-05-18,+62859712132916,"Jl. Ahmad Yani No. 30, Supiori, NU 43068",2017-11-11
+06304460,Noval,Sapta,Dynamic Advertising Supervisor,5,noval.sapta@gdn-commerce.com,2001-06-17,+62828574297048,"Apt. 187 Jl. Gajahmada No. 13, Kutai Barat, BB 55149",2020-01-03
+06304716,Qomar,Atmadja,Investor Facilitator,8,qomar.atmadja@gdn-commerce.com,1993-08-12,+62835942010810,"Jl. Gajahmada No. 60, Kepulauan Sula, KU 07377",2020-12-16
+06303870,Udin,Gunardi,Investor Hospitality Associate,5,udin.gunardi@gdn-commerce.com,1982-04-13,+62886845095066,"Apt. 849 Jl. Gajahmada No. 70, Deiyai, KS 60451",2020-12-30
+06300725,Nina,Ikhsan,Internal Legal Coordinator,8,nina.ikhsan@gdn-commerce.com,2002-07-30,+62863864319048,"Suite 954 Jl. MH. Thamrin No. 66, Gunung Mas, PA 21299",2018-09-13
+06301603,Udin,Hadiwijaya,Forward Community-Services Orchestrator,7,udin.hadiwijaya@gdn-commerce.com,2002-03-31,+62833157759415,"Suite 496 Jl. MH. Thamrin No. 60, Bogor, KS 81420",2017-12-06
+06307936,Jaka,Cahyono,Hospitality Administrator,11,jaka.cahyono@gdn-commerce.com,2002-04-23,+62810425582696,"Jl. Hayamwuruk No. 34, Palembang, SS 15180",2020-05-19
+06300796,Ferdian,Pribadi,Real-Estate Designer,7,ferdian.pribadi@gdn-commerce.com,1998-02-12,+62817362887312,"Jl. Ahmad Yani No. 28, Palangka Raya, BB 72393",2019-05-17
+06309511,Yossi,Sugiarto,Forward Designer,12,yossi.sugiarto@gdn-commerce.com,1975-09-30,+62814528509684,"Apt. 925 Jl. Ahmad Yani No. 41, Halmahera Tengah, SL 87463",2021-07-04
+06302461,Derry,Zulkarnain,Forward Marketing Specialist,7,derry.zulkarnain@gdn-commerce.com,1995-09-26,+62875136430739,"Jl. Juanda No. 22, Kayong Utara, KR 99097",2018-05-05
+06308979,Yanuar,Triwijaya,Hospitality Planner,7,yanuar.triwijaya@gdn-commerce.com,1979-11-09,+62866384619084,"Suite 158 Jl. Ahmad Yani No. 35, Wajo, KS 59975",2020-01-30
+06308627,Rosa,Gozali,Healthcare Representative,9,rosa.gozali@gdn-commerce.com,2000-03-14,+62826041812088,"Jl. Kartini No. 50, Sinjai, SU 69946",2017-05-17
+06307070,Chandra,Kusuma,Corporate Manufacturing Analyst,6,chandra.kusuma@gdn-commerce.com,1992-06-08,+62857074400798,"Jl. Jend. Sudirman No. 80, Tanjung Jabung Timur, KT 56914",2020-05-04
+06308530,Vicky,Kurniawan,Technology Developer,9,vicky.kurniawan@gdn-commerce.com,1979-03-12,+62878211641374,"Jl. Rasuna Said No. 16, Jayawijaya, SN 19141",2018-08-29
+06309315,Danang,Idris,Future Healthcare Facilitator,4,danang.idris@gdn-commerce.com,1994-02-15,+62899396582672,"Jl. Jend. Sudirman No. 27, Mamberamo Tengah, KT 39612",2018-12-28
+06304757,Prily,Pahlevi,Senior Agent,9,prily.pahlevi@gdn-commerce.com,1988-09-05,+62872025553405,"Apt. 279 Jl. Diponegoro No. 51, Luwu, KB 93895",2020-03-18
+06300716,Salim,Zulfikara,Investor Farming Director,9,salim.zulfikara@gdn-commerce.com,1977-08-27,+62827158500902,"Suite 850 Jl. Rasuna Said No. 99, Luwu Timur, KI 47308",2020-01-04
+06306011,Bagus,Kurnianto,Investor Manufacturing Associate,12,bagus.kurnianto@gdn-commerce.com,2002-07-15,+62829512136781,"Jl. Juanda No. 15, Lamongan, GO 55774",2019-01-22
+06309439,Qomar,Waluyo,Forward Mining Orchestrator,7,qomar.waluyo@gdn-commerce.com,1972-03-09,+62817274164256,"Jl. Hayamwuruk No. 37, Pemalang, JK 78235",2021-11-03
+06302982,Qomar,Jayadi,Direct Agent,4,qomar.jayadi@gdn-commerce.com,1985-10-17,+62812697008716,"Jl. Kartini No. 35, Pasuruan, AC 50505",2016-02-20
+06308317,Dion,Handaru,Legacy Developer,9,dion.handaru@gdn-commerce.com,1979-03-12,+62812612896541,"Suite 453 Jl. Gajahmada No. 48, Gunung Kidul, BA 25578",2021-07-20
+06305390,Indah,Pahlevi,Human Administrator,13,indah.pahlevi@gdn-commerce.com,1990-11-22,+62847513752026,"Jl. Kartini No. 54, Buol, JI 79282",2020-08-01
+06307624,Deni,Prawira,Global Retail Representative,4,deni.prawira@gdn-commerce.com,1986-06-14,+62816250591457,"Apt. 192 Jl. Hayamwuruk No. 87, Tangerang, YO 67204",2017-10-03
+06309594,Heni,Harjono,Forward Mining Liaison,7,heni.harjono@gdn-commerce.com,1983-11-20,+62894340802835,"Suite 414 Jl. Jend. Sudirman No. 24, Tanah Laut, RI 21727",2019-11-13
+06300651,Hengky,Satria,Real-Estate Supervisor,11,hengky.satria@gdn-commerce.com,1977-03-29,+62895245658219,"Suite 188 Jl. Juanda No. 14, Lamandau, GO 74265",2020-09-08
+06308214,Deni,Nasrudin,Human Engineer,5,deni.nasrudin@gdn-commerce.com,1975-09-09,+62866227776140,"Suite 820 Jl. Juanda No. 16, Tana Toraja, NU 71386",2017-10-17
+06309654,Arya,Triwijaya,International Strategist,4,arya.triwijaya@gdn-commerce.com,1977-05-22,+62836431912819,"Jl. Diponegoro No. 13, Halmahera Utara, SS 23617",2018-01-01
+06301769,Andi,Prawira,IT Facilitator,4,andi.prawira@gdn-commerce.com,1981-11-26,+62832533534601,"Suite 150 Jl. Kartini No. 33, Morowali, JI 26561",2018-04-29
+06304510,Tri,Rusli,National Consulting Manager,13,tri.rusli@gdn-commerce.com,1972-09-28,+62834474323005,"Jl. MH. Thamrin No. 79, Batu, BE 99739",2018-08-20
+06302198,Galih,Winarta,Customer Farming Planner,10,galih.winarta@gdn-commerce.com,1970-11-05,+62830683796913,"Suite 125 Jl. Hayamwuruk No. 75, Donggala, YO 41194",2017-12-07
+06300575,Erika,Yudhiswara,Education Consultant,5,erika.yudhiswara@gdn-commerce.com,1972-09-03,+62829633901904,"Jl. Hayamwuruk No. 25, Karang Asem, KU 33087",2021-12-19
+06300649,Pandu,Mardiansyah,Global Mining Orchestrator,4,pandu.mardiansyah@gdn-commerce.com,1997-08-17,+62823110699465,"Apt. 281 Jl. MH. Thamrin No. 67, Mamuju Utara, AC 82849",2021-12-30
+06300188,Lely,Pribadi,National Construction Supervisor,8,lely.pribadi@gdn-commerce.com,1971-09-24,+62833816204833,"Jl. Kartini No. 15, Simalungun, RI 74828",2016-03-15
+06303326,Iwan,Madjid,Global Manufacturing Developer,13,iwan.madjid@gdn-commerce.com,1983-09-22,+62855448940318,"Apt. 822 Jl. Diponegoro No. 22, Pati, BA 01576",2016-10-30
+06301866,Aulia,Ongky,Administration Orchestrator,8,aulia.ongky@gdn-commerce.com,1995-05-09,+62875533170739,"Suite 313 Jl. Gajahmada No. 25, Gunungsitoli, MA 45056",2021-07-19
+06301422,Andi,Ginanjar,Central Manufacturing Administrator,4,andi.ginanjar@gdn-commerce.com,1989-07-31,+62822920655387,"Jl. Gajahmada No. 37, Pelalawan, NB 99122",2017-07-01
+06304492,Arif,Adriansyah,Community-Services Administrator,13,arif.adriansyah@gdn-commerce.com,1991-01-01,+62889597386552,"Jl. Gajahmada No. 24, Aceh Tenggara, KU 84577",2018-10-06
+06303767,Gugun,Rustam,Construction Designer,8,gugun.rustam@gdn-commerce.com,1974-06-07,+62839868734712,"Suite 833 Jl. Jend. Sudirman No. 90, Kepahiang, SG 85779",2020-01-24
+06305252,Prima,Satria,Future Producer,4,prima.satria@gdn-commerce.com,1995-10-12,+62822192649062,"Suite 662 Jl. Jend. Sudirman No. 97, Aceh Singkil, ST 35540",2019-04-06
+06303627,Toni,Nababan,Design Representative,11,toni.nababan@gdn-commerce.com,1984-12-03,+62841970306213,"Suite 226 Jl. Jend. Sudirman No. 52, Banyumas, SU 94810",2016-11-18
+06307430,Pradipta,Firmansyah,Manufacturing Coordinator,5,pradipta.firmansyah@gdn-commerce.com,1971-07-20,+62858259323922,"Jl. Gatot Soebroto No. 27, Muara Enim, NU 49617",2019-12-08
+06305624,Chandra,Cahyadi,Retail Coordinator,9,chandra.cahyadi@gdn-commerce.com,1991-09-29,+62883262330929,"Jl. Kartini No. 79, Tana Toraja, KI 60787",2020-11-15
+06302429,Andi,Kurniawan,Manufacturing Strategist,13,andi.kurniawan@gdn-commerce.com,1994-09-24,+62852620504472,"Jl. Rasuna Said No. 51, Tanah Datar, GO 99785",2018-07-06
+06303695,Tiara,Indragiri,IT Liaison,11,tiara.indragiri@gdn-commerce.com,1973-02-15,+62835990357649,"Apt. 509 Jl. Hayamwuruk No. 57, Demak, NB 67046",2018-11-12
+06301846,Gita,Alamsyah,Global Accounting Administrator,5,gita.alamsyah@gdn-commerce.com,1992-10-04,+62837370047191,"Jl. Ahmad Yani No. 53, Nagekeo, JI 32463",2019-04-23
+06307831,Indah,Jayakusuma,Consulting Supervisor,8,indah.jayakusuma@gdn-commerce.com,1984-06-17,+62852332103713,"Jl. Gatot Soebroto No. 14, Samosir, SL 93895",2021-01-21
+06307961,Udin,Hermawan,Future Associate,7,udin.hermawan@gdn-commerce.com,1998-12-08,+62862046086031,"Jl. Gajahmada No. 96, Sleman, NB 29872",2017-09-26
+06303742,Umar,Linggar,Internal IT Administrator,5,umar.linggar@gdn-commerce.com,2001-02-13,+62897576531703,"Jl. Kartini No. 70, Minahasa Utara, GO 58696",2019-05-27
+06301498,Victor,Budiman,Healthcare Executive,13,victor.budiman@gdn-commerce.com,1979-06-18,+62812331828456,"Jl. Jend. Sudirman No. 98, Aceh Selatan, JK 51137",2021-02-01
+06308066,Wira,Listiyono,Global Community-Services Technician,7,wira.listiyono@gdn-commerce.com,1982-06-24,+62842923105766,"Apt. 414 Jl. MH. Thamrin No. 29, Rembang, ML 20468",2020-12-18
+06300312,Anton,Abdullah,Global Assistant,7,anton.abdullah@gdn-commerce.com,1982-08-09,+62818131811108,"Jl. Gatot Soebroto No. 75, Bulungan, BB 63089",2021-04-25
+06305426,Bagas,Maheswara,Construction Specialist,5,bagas.maheswara@gdn-commerce.com,1973-06-28,+62830064366559,"Jl. Diponegoro No. 41, Bone, KB 62093",2019-06-02
+06307529,Derry,Budiman,National Government Engineer,7,derry.budiman@gdn-commerce.com,1978-02-09,+62861998270993,"Apt. 412 Jl. Juanda No. 97, Prabumulih, KI 02222",2021-04-13
+06304043,Lidya,Hadiwijaya,Customer Real-Estate Executive,12,lidya.hadiwijaya@gdn-commerce.com,1993-04-07,+62852491535104,"Apt. 147 Jl. Gajahmada No. 79, Sumba Barat, JB 96167",2021-06-24
+06301552,Khrisna,Darmadi,Investor Advertising Liaison,12,khrisna.darmadi@gdn-commerce.com,1993-06-11,+62874012914346,"Jl. Gatot Soebroto No. 66, Gunung Kidul, SA 10083",2016-12-21
+06306414,Yahya,Nababan,Dynamic Administrator,5,yahya.nababan@gdn-commerce.com,2000-10-29,+62896774326964,"Jl. Gatot Soebroto No. 91, Enrekang, PP 87838",2020-11-12
+06307901,Vicky,Erik,Lead Director,5,vicky.erik@gdn-commerce.com,1992-04-08,+62895627137881,"Jl. Jend. Sudirman No. 59, Pinrang, SN 67534",2021-10-03
+06306601,Endang,Abdullah,International Education Director,5,endang.abdullah@gdn-commerce.com,1975-10-16,+62898261940125,"Suite 701 Jl. Gajahmada No. 45, Kutai Barat, KI 99369",2019-05-20
+06309229,Yossi,Thamrin,Government Facilitator,9,yossi.thamrin@gdn-commerce.com,1999-06-29,+62851094623605,"Suite 394 Jl. Juanda No. 42, Seluma, NU 37635",2021-02-20
+06307133,Edwin,Gondokusumo,Global IT Developer,10,edwin.gondokusumo@gdn-commerce.com,2003-08-19,+62816675960244,"Jl. Juanda No. 21, Rembang, JW 51482",2020-10-18
+06303724,Lia,Novianto,Community-Services Associate,6,lia.novianto@gdn-commerce.com,1992-06-18,+62839093864142,"Jl. Diponegoro No. 73, Tanjung Balai, JB 00825",2021-11-17
+06302627,Nisa,Yudhistira,Real-Estate Developer,11,nisa.yudhistira@gdn-commerce.com,1992-10-23,+62839784994757,"Jl. Kartini No. 74, Mukomuko, PB 78343",2020-12-03
+06303124,Arif,Listyawan,Retail Designer,12,arif.listyawan@gdn-commerce.com,1996-02-07,+62830998228361,"Suite 711 Jl. Gajahmada No. 13, Mamasa, SS 83050",2018-01-22
+06305733,Choirul,Utama,Legal Director,6,choirul.utama@gdn-commerce.com,1978-11-12,+62832753651365,"Apt. 714 Jl. Jend. Sudirman No. 85, Buton, ML 76683",2019-09-03
+06300691,Sandi,Suryatama,Healthcare Orchestrator,7,sandi.suryatama@gdn-commerce.com,1990-04-29,+62878525673760,"Jl. MH. Thamrin No. 79, Bolaang Mongondow Timur, ML 13911",2018-03-01
+06300883,Indra,Basri,Sales Director,12,indra.basri@gdn-commerce.com,1981-08-05,+62853160371929,"Suite 225 Jl. Jend. Sudirman No. 74, Belitung Timur, PB 53158",2019-07-13
+06306883,Budi,Kurniawan,Principal Facilitator,7,budi.kurniawan@gdn-commerce.com,1992-11-04,+62840926570086,"Suite 611 Jl. Kartini No. 57, Polewali Mandar, BB 02103",2016-02-17
+06303378,Erika,Rudianto,Education Executive,13,erika.rudianto@gdn-commerce.com,1978-10-18,+62897504787644,"Suite 576 Jl. Rasuna Said No. 92, Minahasa Selatan, JT 08193",2019-01-01
+06303929,Desi,Ardianto,Human Director,13,desi.ardianto@gdn-commerce.com,1980-01-09,+62891240879399,"Apt. 285 Jl. Diponegoro No. 14, Kampar, SM 84780",2019-08-02
+06306979,Putri,Abdullah,Hospitality Coordinator,9,putri.abdullah@gdn-commerce.com,1974-11-13,+62814997385630,"Jl. Hayamwuruk No. 96, Balangan, PP 83478",2018-04-18
+06307561,Dea,Riyadi,Investor IT Supervisor,9,dea.riyadi@gdn-commerce.com,1980-05-19,+62812602247070,"Suite 235 Jl. Kartini No. 90, Hulu Sungai Utara, KB 40853",2020-09-12
+06309391,Yahya,Dwiantoro,Customer Healthcare Manager,5,yahya.dwiantoro@gdn-commerce.com,2000-09-03,+62883612437972,"Suite 649 Jl. Diponegoro No. 37, Tana Toraja, JT 18557",2020-08-06
+06305986,Victor,Unggul,Design Associate,10,victor.unggul@gdn-commerce.com,2000-09-25,+62897411098604,"Jl. Diponegoro No. 72, Kepulauan Sangihe, KA 75928",2019-05-29
+06304152,Lisa,Sapta,Sales Manager,10,lisa.sapta@gdn-commerce.com,1991-05-28,+62899133601037,"Suite 504 Jl. Gatot Soebroto No. 49, Maluku Tenggara, KS 21864",2018-02-14
+06308982,Roni,Ismail,Internal Administration Architect,4,roni.ismail@gdn-commerce.com,1998-02-05,+62887572732987,"Jl. Jend. Sudirman No. 68, Lahat, KS 45672",2017-12-26
+06304648,Wisnu,Hadiwijaya,Accounting Executive,8,wisnu.hadiwijaya@gdn-commerce.com,1974-06-03,+62812970981989,"Suite 483 Jl. Gajahmada No. 77, Jombang, MU 22307",2021-10-17
+06302528,Nisa,Indragiri,Product Legal Engineer,8,nisa.indragiri@gdn-commerce.com,1994-02-06,+62834407710504,"Jl. Diponegoro No. 41, Tanggamus, JK 86206",2021-07-12
+06308382,Popi,Rusmana,Investor Technician,4,popi.rusmana@gdn-commerce.com,1970-07-27,+62811576154036,"Apt. 263 Jl. Jend. Sudirman No. 20, Bungo, KT 71163",2020-05-29
+06304908,Yudhistira,Nainggolan,Sales Associate,13,yudhistira.nainggolan@gdn-commerce.com,2003-11-30,+62841835602852,"Jl. Gatot Soebroto No. 86, Pasaman Barat, JK 62237",2016-08-20
+06307787,Prily,Sugianto,Design Technician,9,prily.sugianto@gdn-commerce.com,1986-03-13,+62817995457311,"Jl. Jend. Sudirman No. 83, Situbondo, YO 64783",2018-03-23
+06306193,Mahesa,Linggar,Administration Designer,4,mahesa.linggar@gdn-commerce.com,1993-03-04,+62881697853008,"Apt. 548 Jl. Juanda No. 84, Donggala, MA 16275",2019-05-19
+06305636,Chandra,Marzuki,Marketing Technician,4,chandra.marzuki@gdn-commerce.com,1970-01-20,+62868056132624,"Suite 972 Jl. Juanda No. 28, Sumba Tengah, BB 53990",2019-08-26
+06300410,Andi,Komarudin,Dynamic Healthcare Officer,5,andi.komarudin@gdn-commerce.com,1988-10-25,+62842410472375,"Suite 365 Jl. Kartini No. 23, Lanny Jaya, SR 89954",2016-02-21
+06300289,Endang,Zulfikri,Direct Marketing Agent,10,endang.zulfikri@gdn-commerce.com,1991-11-04,+62895640454580,"Jl. Rasuna Said No. 24, Kendal, GO 63429",2019-03-22
+06305842,Anita,Pahlevi,Lead Mining Manager,7,anita.pahlevi@gdn-commerce.com,1987-12-03,+62827759877249,"Suite 124 Jl. Gajahmada No. 76, Lumajang, KA 54971",2019-07-13
+06300304,Vira,Saputra,Farming Officer,8,vira.saputra@gdn-commerce.com,2002-12-07,+62887941820381,"Suite 841 Jl. Gajahmada No. 12, Banyumas, KT 49978",2018-05-21
+06303073,Okta,Linggar,Community-Services Coordinator,9,okta.linggar@gdn-commerce.com,1983-04-11,+62866133493293,"Jl. Rasuna Said No. 12, Cianjur, KR 53906",2021-10-24
+06301287,Ahmad,Jayadi,Legal Executive,13,ahmad.jayadi@gdn-commerce.com,1972-01-16,+62847121455854,"Apt. 136 Jl. Hayamwuruk No. 48, Musi Rawas, SN 03525",2016-11-30
+06307770,Jaka,Indragiri,Forward Hospitality Agent,11,jaka.indragiri@gdn-commerce.com,1994-02-13,+62884800323582,"Apt. 820 Jl. MH. Thamrin No. 93, Cirebon, KR 12574",2021-08-15
+06304600,Pradipta,Bimantara,Global Consultant,12,pradipta.bimantara@gdn-commerce.com,1981-04-29,+62836759320462,"Jl. Gajahmada No. 65, Lamongan, SN 98540",2018-04-04
+06301656,Bagus,Fachriawan,Marketing Orchestrator,11,bagus.fachriawan@gdn-commerce.com,1991-03-21,+62863030066809,"Apt. 460 Jl. Gatot Soebroto No. 37, Pekalongan, KI 28319",2021-03-11
+06306436,Dion,Jayakusuma,Chief Developer,10,dion.jayakusuma@gdn-commerce.com,1974-09-03,+62868949676579,"Apt. 540 Jl. MH. Thamrin No. 13, Bangka Barat, NB 40536",2021-03-15
+06308267,Victor,Ferdian,Legacy Accounting Architect,5,victor.ferdian@gdn-commerce.com,1994-11-22,+62845072827326,"Apt. 834 Jl. Gajahmada No. 23, Flores Timur, ST 10803",2020-08-21
+06304579,Lisa,Oktavian,Corporate Advertising Planner,7,lisa.oktavian@gdn-commerce.com,1980-08-18,+62879115114589,"Jl. Jend. Sudirman No. 69, Situbondo, SU 72972",2016-06-07
+06303409,Chandra,Wicaksono,Global Healthcare Analyst,6,chandra.wicaksono@gdn-commerce.com,1988-08-01,+62823201390047,"Suite 842 Jl. Juanda No. 28, Bekasi, NT 37855",2016-11-11
+06309490,Heri,Kusuma,Customer Technician,8,heri.kusuma@gdn-commerce.com,1972-01-24,+62865905427188,"Suite 689 Jl. Gajahmada No. 48, Minahasa Utara, SA 24539",2018-02-16
+06309877,Heru,Aristianto,Advertising Supervisor,11,heru.aristianto@gdn-commerce.com,1994-08-16,+62876710330999,"Apt. 243 Jl. Gatot Soebroto No. 74, Hulu Sungai Utara, KA 91088",2018-12-13
+06308300,Olivia,Listyawan,Central Education Architect,5,olivia.listyawan@gdn-commerce.com,1976-03-09,+62895289924731,"Apt. 134 Jl. Diponegoro No. 62, Pelalawan, RI 81435",2020-09-09
+06304501,David,Wicaksono,Global Hospitality Analyst,11,david.wicaksono@gdn-commerce.com,1976-04-17,+62885824585079,"Suite 507 Jl. Diponegoro No. 86, Kulon Progo, JK 29240",2021-05-14
+06300455,Topan,Ardianto,Education Agent,12,topan.ardianto@gdn-commerce.com,1995-01-10,+62862097589145,"Jl. Rasuna Said No. 92, Madiun, SU 51025",2017-05-18
+06306582,Heru,Ikhsan,Regional Education Agent,7,heru.ikhsan@gdn-commerce.com,1971-11-12,+62817222968570,"Jl. Juanda No. 29, Lubuklinggau, SB 85519",2020-08-18
+06305375,Vira,Junaedi,Central Advertising Agent,9,vira.junaedi@gdn-commerce.com,1991-06-24,+62811327126671,"Jl. Hayamwuruk No. 64, Lampung Tengah, MU 40190",2019-01-01
+06302457,Ahmad,Hadiwijaya,Banking Strategist,8,ahmad.hadiwijaya@gdn-commerce.com,1986-11-16,+62822281862989,"Suite 377 Jl. MH. Thamrin No. 82, Sumbawa Barat, KI 52944",2016-06-29
+06309689,Qomar,Djunaedi,Lead Designer,8,qomar.djunaedi@gdn-commerce.com,1992-01-01,+62874361372573,"Apt. 870 Jl. MH. Thamrin No. 17, Hulu Sungai Utara, BA 61675",2017-07-25
+06302911,Prily,Winarta,Banking Planner,6,prily.winarta@gdn-commerce.com,1975-07-25,+62890017937217,"Jl. Diponegoro No. 87, Muaro Jambi, SR 56742",2018-09-22
+06305725,Chandra,Pribadi,Corporate Administration Architect,10,chandra.pribadi@gdn-commerce.com,1993-04-24,+62859478881366,"Apt. 864 Jl. Juanda No. 93, Surabaya, NB 53927",2020-10-12
+06301354,Galih,Ferdian,National Design Liaison,7,galih.ferdian@gdn-commerce.com,2001-09-09,+62821152765208,"Suite 198 Jl. Kartini No. 22, Majene, JW 01110",2019-05-18
+06301359,Citra,Mardiansyah,Customer Associate,8,citra.mardiansyah@gdn-commerce.com,1996-08-26,+62841696673187,"Jl. Diponegoro No. 28, Paser, NB 47643",2018-04-26
+06304120,Anton,Indragiri,Legal Consultant,9,anton.indragiri@gdn-commerce.com,1983-07-11,+62884095286398,"Jl. MH. Thamrin No. 97, Balangan, PB 40032",2018-06-16
+06302525,Yoga,Triwijaya,Farming Developer,8,yoga.triwijaya@gdn-commerce.com,1997-10-12,+62865402272292,"Jl. Juanda No. 26, Depok, ML 54333",2020-01-16
+06304026,Nisa,Jayadinata,Government Agent,4,nisa.jayadinata@gdn-commerce.com,1994-09-24,+62895682937910,"Apt. 728 Jl. Gatot Soebroto No. 76, Tangerang, PA 35869",2021-10-28
+06300135,Pandu,Gozali,International Banking Director,7,pandu.gozali@gdn-commerce.com,1987-03-20,+62813459541907,"Jl. Gatot Soebroto No. 70, Klaten, JT 04818",2020-12-13
+06301699,David,Nasrudin,Direct Education Consultant,6,david.nasrudin@gdn-commerce.com,1999-05-07,+62880954004131,"Suite 899 Jl. Hayamwuruk No. 69, Bulungan, BT 03735",2020-11-27
+06302572,Yahya,Dinata,Legacy Design Developer,6,yahya.dinata@gdn-commerce.com,1982-01-16,+62870446744836,"Suite 389 Jl. MH. Thamrin No. 23, Jayapura, YO 01315",2016-09-17
+06306279,Derry,Satria,International Accounting Administrator,11,derry.satria@gdn-commerce.com,2002-07-03,+62850818996410,"Suite 934 Jl. Rasuna Said No. 69, Buton, GO 42162",2018-03-31
+06302228,Wira,Andrianto,Construction Consultant,12,wira.andrianto@gdn-commerce.com,2003-09-16,+62874978153484,"Apt. 698 Jl. Gajahmada No. 81, Sumba Barat, BA 75394",2016-01-31
+06304227,Pandu,Erik,Lead Consulting Facilitator,11,pandu.erik@gdn-commerce.com,1978-10-09,+62838049235137,"Jl. Diponegoro No. 90, Deli Serdang, JA 86876",2020-05-22
+06304285,Pandu,Taslim,Administration Liaison,10,pandu.taslim@gdn-commerce.com,1971-03-29,+62856038060564,"Jl. Kartini No. 25, Sukabumi, SS 59860",2018-01-02
+06300102,Anita,Setiawan,Banking Architect,5,anita.setiawan@gdn-commerce.com,1976-08-31,+62882831326128,"Jl. Diponegoro No. 54, Situbondo, KR 34318",2018-04-16
+06303658,Nisa,Bimantara,Technology Consultant,9,nisa.bimantara@gdn-commerce.com,1985-08-12,+62864913816307,"Apt. 578 Jl. Jend. Sudirman No. 93, Tanggamus, SR 68211",2017-05-02
+06308728,Putri,Setiawan,Marketing Orchestrator,11,putri.setiawan@gdn-commerce.com,1993-06-14,+62826442200099,"Jl. Gajahmada No. 19, Jember, KR 29187",2017-03-06
+06308493,Tri,Hartanto,Legal Executive,5,tri.hartanto@gdn-commerce.com,1976-04-24,+62821987318783,"Apt. 820 Jl. Juanda No. 18, Intan Jaya, MU 54119",2021-01-22
+06301019,Udin,Jayadinata,Principal Architect,8,udin.jayadinata@gdn-commerce.com,1987-09-01,+62818514187339,"Suite 524 Jl. Hayamwuruk No. 61, Jakarta Selatan, AC 35230",2020-03-08
+06301035,Citra,Cahyono,Chief IT Supervisor,5,citra.cahyono@gdn-commerce.com,1975-03-23,+62860393519137,"Jl. Hayamwuruk No. 21, Pati, ST 99371",2020-04-04
+06305417,Heni,Wicaksono,Hospitality Planner,4,heni.wicaksono@gdn-commerce.com,1974-02-05,+62887265269154,"Jl. Gatot Soebroto No. 39, Kuantan Singingi, LA 28360",2019-09-11
+06303640,Bagus,Gozali,Government Strategist,5,bagus.gozali@gdn-commerce.com,1978-06-12,+62837796396542,"Apt. 718 Jl. Diponegoro No. 54, Banjarnegara, JW 50715",2016-03-17
+06308278,Wisnu,Hendrawinata,Customer Marketing Supervisor,6,wisnu.hendrawinata@gdn-commerce.com,1988-01-17,+62825254287048,"Suite 755 Jl. Diponegoro No. 82, Cianjur, BT 74050",2020-08-30
+06306405,Martin,Utama,Product Administration Executive,12,martin.utama@gdn-commerce.com,1971-12-17,+62839122433847,"Jl. Ahmad Yani No. 47, Bantaeng, PP 75259",2021-02-24
+06306814,Oki,Utama,Advertising Architect,10,oki.utama@gdn-commerce.com,1990-02-18,+62814682277391,"Apt. 579 Jl. Gatot Soebroto No. 18, Bandung, NU 79330",2021-06-29
+06307752,Choirul,Wirawan,Global IT Developer,6,choirul.wirawan@gdn-commerce.com,1980-12-28,+62894113444469,"Jl. Jend. Sudirman No. 64, Semarang, BB 01010",2018-04-04
+06306563,Yudi,Wicaksono,Direct Design Designer,12,yudi.wicaksono@gdn-commerce.com,2000-03-14,+62880633875475,"Suite 903 Jl. Diponegoro No. 14, Sambas, SG 98635",2017-07-22
+06305276,Diah,Waluyo,Future Consulting Consultant,7,diah.waluyo@gdn-commerce.com,1988-06-05,+62832590279212,"Apt. 824 Jl. Jend. Sudirman No. 47, Kepulauan Sangihe, ST 14574",2021-11-14
+06308326,Arya,Ginanjar,Central Administrator,10,arya.ginanjar@gdn-commerce.com,1997-10-11,+62888757854115,"Apt. 285 Jl. Diponegoro No. 21, Berau, SR 21761",2018-05-12
+06302922,Pradipta,Lesmana,District Strategist,5,pradipta.lesmana@gdn-commerce.com,1999-04-17,+62840587590601,"Jl. Jend. Sudirman No. 95, Subang, YO 53174",2019-05-01
+06303471,Zaenal,Cahyono,Marketing Specialist,8,zaenal.cahyono@gdn-commerce.com,1998-04-13,+62896239665807,"Suite 764 Jl. Gatot Soebroto No. 55, Mamasa, PA 00040",2020-05-10
+06300243,Bambang,Basri,Community-Services Agent,8,bambang.basri@gdn-commerce.com,1972-06-24,+62822994946190,"Apt. 364 Jl. Hayamwuruk No. 41, Madiun, JB 67620",2021-12-14
+06304896,Rosa,Fachri,Government Consultant,11,rosa.fachri@gdn-commerce.com,1975-01-02,+62812258435481,"Suite 252 Jl. Gatot Soebroto No. 71, Landak, SR 37276",2021-02-17
+06301672,Vanya,Pranata,Farming Coordinator,4,vanya.pranata@gdn-commerce.com,1981-09-26,+62880778882024,"Jl. Juanda No. 50, Gunung Kidul, KI 14928",2017-03-02
+06306774,Aditya,Rusmana,Consulting Supervisor,9,aditya.rusmana@gdn-commerce.com,1970-07-16,+62837118384962,"Apt. 898 Jl. Hayamwuruk No. 79, Halmahera Barat, AC 73076",2017-04-16
+06307908,Ahmad,Haryanto,Marketing Designer,10,ahmad.haryanto@gdn-commerce.com,1997-02-19,+62891537462061,"Suite 913 Jl. Gajahmada No. 16, Sumba Tengah, RI 37092",2017-10-18
+06309456,Dimas,Sapta,Investor Design Coordinator,8,dimas.sapta@gdn-commerce.com,1999-12-10,+62811508634569,"Suite 980 Jl. Gatot Soebroto No. 75, Kampar, JT 03792",2018-03-07
+06309037,Sandi,Jayadinata,Banking Officer,11,sandi.jayadinata@gdn-commerce.com,1987-09-05,+62869906613041,"Apt. 140 Jl. Diponegoro No. 55, Subang, JB 36274",2020-03-16
+06305368,Indra,Idris,Principal Hospitality Specialist,11,indra.idris@gdn-commerce.com,1995-07-12,+62824603680389,"Jl. MH. Thamrin No. 83, Salatiga, SB 97471",2017-05-15
+06306755,Dion,Yulianto,Manufacturing Executive,12,dion.yulianto@gdn-commerce.com,1987-12-03,+62869103081186,"Jl. Juanda No. 58, Kolaka Utara, MA 92229",2019-06-16
+06301572,Andi,Fauzi,Marketing Liaison,5,andi.fauzi@gdn-commerce.com,1996-02-15,+62883834227176,"Jl. Kartini No. 87, Kolaka, KI 99354",2017-04-25
+06304791,Aji,Winarta,Administration Facilitator,9,aji.winarta@gdn-commerce.com,1989-02-23,+62887147251047,"Jl. Jend. Sudirman No. 38, Boalemo, YO 24489",2021-05-26
+06309929,Lely,Nurdiansyah,Global Strategist,11,lely.nurdiansyah@gdn-commerce.com,1976-07-15,+62871068021895,"Jl. Rasuna Said No. 29, Ogan Komering Ulu, GO 28999",2020-11-23
+06308032,Rudi,Gozali,Farming Liaison,7,rudi.gozali@gdn-commerce.com,2003-03-03,+62862279702272,"Jl. Jend. Sudirman No. 18, Pangkajene Dan Kepulauan, KU 79115",2020-12-22
+06307099,Dion,Jayadi,Accounting Executive,6,dion.jayadi@gdn-commerce.com,1982-11-05,+62828637225841,"Suite 158 Jl. Diponegoro No. 24, Penajam Paser Utara, JI 70822",2021-01-05
+06301823,Noval,Nasrudin,Future Manufacturing Developer,12,noval.nasrudin@gdn-commerce.com,1977-05-24,+62872682006296,"Apt. 141 Jl. Gatot Soebroto No. 77, Cimahi, PA 19704",2019-09-21
+06308251,Diah,Nurdiansyah,Legacy Manufacturing Director,4,diah.nurdiansyah@gdn-commerce.com,1981-10-03,+62832785762369,"Jl. Ahmad Yani No. 55, Sleman, ST 51002",2017-09-30
+06306564,Oki,Mardianto,Internal Consulting Specialist,11,oki.mardianto@gdn-commerce.com,1984-03-17,+62828893397184,"Jl. Juanda No. 41, Pangandaran, KU 24034",2019-05-08
+06307099,Kartini,Ilham,International Government Engineer,8,kartini.ilham@gdn-commerce.com,1988-05-22,+62842285328176,"Jl. Gatot Soebroto No. 70, Lahat, SG 72101",2021-06-01
+06307941,Victor,Mardiansyah,Global Design Consultant,8,victor.mardiansyah@gdn-commerce.com,2000-11-16,+62864729021484,"Jl. Kartini No. 15, Aceh Barat Daya, RI 73849",2019-07-18
+06302241,Rosa,Fachri,Advertising Architect,5,rosa.fachri@gdn-commerce.com,1976-08-23,+62841650965325,"Jl. Diponegoro No. 63, Sintang, RI 55667",2017-05-12
+06306473,Gugun,Yudhanto,Internal Mining Analyst,8,gugun.yudhanto@gdn-commerce.com,1998-03-01,+62818297791219,"Jl. Gatot Soebroto No. 51, Barito Selatan, YO 48548",2018-05-04
+06309050,Toni,Bimantara,Legal Developer,12,toni.bimantara@gdn-commerce.com,1979-06-07,+62857838539335,"Apt. 787 Jl. Jend. Sudirman No. 79, Bone Bolango, YO 59477",2016-07-06
+06302174,Vicky,Alamsyah,Legacy Real-Estate Liaison,9,vicky.alamsyah@gdn-commerce.com,1990-09-21,+62815764086969,"Jl. Jend. Sudirman No. 69, Bangka Barat, BE 20415",2020-05-29
+06308346,Rosa,Winarta,District Advertising Designer,11,rosa.winarta@gdn-commerce.com,1978-04-10,+62865774305987,"Apt. 502 Jl. Rasuna Said No. 22, Banda Aceh, AC 64075",2018-04-12
+06307691,Wendy,Qodir,Banking Strategist,12,wendy.qodir@gdn-commerce.com,1984-05-23,+62829024562253,"Jl. Gajahmada No. 47, Nias Selatan, KB 68355",2016-12-25
+06300691,Vira,Dzulfikar,Design Orchestrator,9,vira.dzulfikar@gdn-commerce.com,1989-05-19,+62830851442339,"Apt. 904 Jl. Juanda No. 16, Banda Aceh, KB 89461",2018-02-20
+06308146,Gugun,Erlangga,Lead Retail Engineer,8,gugun.erlangga@gdn-commerce.com,1999-06-09,+62880751362153,"Suite 186 Jl. Jend. Sudirman No. 40, Tanjung Balai, LA 23151",2017-03-16
+06304599,Yudhistira,Oktavian,Internal Mining Producer,10,yudhistira.oktavian@gdn-commerce.com,1988-07-05,+62859664902400,"Apt. 102 Jl. Hayamwuruk No. 11, Siak, JA 42357",2020-09-09
+06308024,Anton,Darmawan,International Retail Administrator,5,anton.darmawan@gdn-commerce.com,1987-04-30,+62850407701643,"Jl. MH. Thamrin No. 68, Depok, KB 58865",2021-10-04
+06302477,Dina,Thamrin,Product Advertising Consultant,7,dina.thamrin@gdn-commerce.com,2003-12-27,+62861139147455,"Suite 199 Jl. Hayamwuruk No. 24, Kepahiang, BB 36575",2016-03-06
+06304711,Arif,Triwijaya,Regional Consulting Engineer,12,arif.triwijaya@gdn-commerce.com,1998-05-24,+62840732341443,"Jl. Ahmad Yani No. 25, Purwakarta, SL 13606",2016-09-05
+06303622,Raditya,Haryanto,Manufacturing Agent,8,raditya.haryanto@gdn-commerce.com,1972-12-17,+62810389886663,"Jl. Gatot Soebroto No. 52, Sekadau, BA 53169",2017-08-16
+06306005,Ferdian,Triwijaya,Mining Strategist,8,ferdian.triwijaya@gdn-commerce.com,1979-02-11,+62836824200662,"Jl. Diponegoro No. 14, Madiun, BA 36683",2016-09-12
+06304638,Tito,Iswanto,Product Banking Designer,13,tito.iswanto@gdn-commerce.com,1983-01-02,+62858091483034,"Jl. Ahmad Yani No. 44, Tanah Bumbu, SB 34305",2019-04-26
+06304382,Yudhistira,Junaedi,Internal Agent,13,yudhistira.junaedi@gdn-commerce.com,1988-05-25,+62848178691559,"Apt. 735 Jl. Diponegoro No. 90, Sleman, JI 62330",2018-03-09
+06309555,Udin,Haryanto,Investor Legal Strategist,10,udin.haryanto@gdn-commerce.com,1992-12-18,+62886574641489,"Jl. Rasuna Said No. 73, Samarinda, KS 37459",2021-06-11
+06304979,Beni,Pranata,Advertising Agent,5,beni.pranata@gdn-commerce.com,1975-01-09,+62861635433691,"Suite 821 Jl. Jend. Sudirman No. 85, Hulu Sungai Selatan, SS 51653",2017-01-25
+06301034,Dimas,Yudhistira,Retail Agent,11,dimas.yudhistira@gdn-commerce.com,1970-12-31,+62828502969292,"Jl. Diponegoro No. 12, Pringsewu, LA 38835",2018-10-27
+06309952,David,Ferdian,Technology Specialist,9,david.ferdian@gdn-commerce.com,1998-08-26,+62813771233236,"Jl. Diponegoro No. 93, Pelalawan, JI 35889",2019-05-27
+06304509,Oki,Gautama,Principal Engineer,5,oki.gautama@gdn-commerce.com,1979-08-10,+62825040009537,"Suite 750 Jl. MH. Thamrin No. 10, Sumba Barat, SR 60378",2020-07-17
+06309941,Anton,Yudhiswara,Forward Education Director,12,anton.yudhiswara@gdn-commerce.com,1977-11-27,+62860057862956,"Jl. Jend. Sudirman No. 17, Purwakarta, BE 95705",2016-11-25
+06303380,Olivia,Sanjaya,Education Facilitator,11,olivia.sanjaya@gdn-commerce.com,1998-02-20,+62816592684667,"Jl. Ahmad Yani No. 22, Kotawaringin Timur, BE 95565",2021-10-31
+06303308,Vivi,Atmadja,Central Advertising Associate,4,vivi.atmadja@gdn-commerce.com,1974-07-29,+62815374891558,"Jl. Kartini No. 67, Ternate, NB 94022",2016-04-20
+06305068,Edwin,Ardianto,Principal Hospitality Engineer,5,edwin.ardianto@gdn-commerce.com,1994-02-13,+62862542824447,"Apt. 245 Jl. Jend. Sudirman No. 92, Tabanan, RI 43809",2021-12-20
+06300867,Okta,Waluyo,Human Legal Designer,6,okta.waluyo@gdn-commerce.com,1984-01-01,+62828085700235,"Apt. 982 Jl. Juanda No. 17, Nias, KR 39229",2019-03-21
+06305789,Tri,Idris,Regional Director,7,tri.idris@gdn-commerce.com,2001-04-10,+62893827875031,"Suite 694 Jl. MH. Thamrin No. 20, Bekasi, SU 50146",2016-06-30
+06309964,Wahyu,Erlangga,International Strategist,12,wahyu.erlangga@gdn-commerce.com,1984-12-18,+62871364408958,"Jl. Jend. Sudirman No. 35, Pesisir Selatan, NU 80857",2021-08-15
+06306665,Sandi,Utama,Dynamic Banking Developer,5,sandi.utama@gdn-commerce.com,1992-08-10,+62861751596055,"Jl. Jend. Sudirman No. 38, Gianyar, NB 80919",2020-08-26
+06308596,Choirul,Zaini,Future Legal Consultant,8,choirul.zaini@gdn-commerce.com,1999-01-28,+62837939693906,"Suite 544 Jl. Jend. Sudirman No. 99, Bangka Selatan, SU 68240",2021-01-18
+06305602,Prima,Ilham,Government Analyst,4,prima.ilham@gdn-commerce.com,1995-12-29,+62834179609490,"Jl. Hayamwuruk No. 79, Bulukumba, JA 23594",2020-01-24
+06309298,Pandu,Fauzi,Design Liaison,4,pandu.fauzi@gdn-commerce.com,1998-11-24,+62879569484543,"Jl. Diponegoro No. 86, Aceh Jaya, YO 78669",2016-10-31
+06302002,Prima,Junaedi,Advertising Coordinator,5,prima.junaedi@gdn-commerce.com,1972-06-25,+62891690245891,"Jl. Gajahmada No. 85, Garut, SR 37526",2019-06-14
+06301309,Roni,Erlangga,Senior Assistant,13,roni.erlangga@gdn-commerce.com,2002-10-11,+62813609361721,"Suite 531 Jl. Rasuna Said No. 54, Kendal, ML 16427",2016-08-07
+06309742,Raditya,Basri,Central Liaison,6,raditya.basri@gdn-commerce.com,1977-10-19,+62869448637552,"Suite 661 Jl. Gatot Soebroto No. 84, Bengkulu Selatan, SM 66159",2018-04-11
+06302533,Pradipta,Umbara,Construction Coordinator,13,pradipta.umbara@gdn-commerce.com,1982-10-01,+62830283743112,"Apt. 211 Jl. Gatot Soebroto No. 88, Aceh Tengah, SA 32843",2017-05-01
+06304883,Aji,Pribadi,Regional Administration Manager,4,aji.pribadi@gdn-commerce.com,1974-05-25,+62858312909820,"Jl. Jend. Sudirman No. 65, Brebes, SU 42526",2017-05-28
+06300545,Heni,Listiyono,Corporate Specialist,4,heni.listiyono@gdn-commerce.com,2002-12-17,+62873627904917,"Suite 305 Jl. Jend. Sudirman No. 12, Pasaman, NT 48060",2017-07-18
+06300031,Imam,Budiman,Human Technology Executive,6,imam.budiman@gdn-commerce.com,1989-04-29,+62835856198630,"Suite 494 Jl. Jend. Sudirman No. 94, Empat Lawang, JT 29450",2017-09-15
+06302952,Merry,Maulana,Investor Government Producer,10,merry.maulana@gdn-commerce.com,1991-12-16,+62829605205557,"Apt. 489 Jl. Jend. Sudirman No. 43, Badung, LA 82453",2021-01-18
+06302612,Lia,Daniawan,Banking Director,10,lia.daniawan@gdn-commerce.com,1993-03-17,+62834524189036,"Jl. Jend. Sudirman No. 98, Pontianak, SU 26946",2020-01-06
+06308462,Imam,Riansyah,National Community-Services Orchestrator,11,imam.riansyah@gdn-commerce.com,1976-09-24,+62839037900489,"Suite 386 Jl. MH. Thamrin No. 47, Payakumbuh, SN 77378",2019-05-22
+06309756,Mahesa,Ferdian,Human Administration Director,11,mahesa.ferdian@gdn-commerce.com,2000-09-28,+62859391458820,"Apt. 249 Jl. Juanda No. 77, Padang Pariaman, AC 16225",2018-10-05
+06303314,Salim,Nugraha,Administration Analyst,5,salim.nugraha@gdn-commerce.com,1992-09-25,+62812335513220,"Suite 688 Jl. MH. Thamrin No. 26, Tangerang, BA 65422",2018-01-17
+06300483,Rahmat,Handaru,Direct Manufacturing Technician,10,rahmat.handaru@gdn-commerce.com,1991-05-31,+62871767668544,"Jl. Ahmad Yani No. 91, Pandeglang, NU 86764",2020-12-23
+06307305,Iman,Zulfikri,Global Advertising Developer,12,iman.zulfikri@gdn-commerce.com,2002-07-06,+62890179833782,"Jl. MH. Thamrin No. 71, Trenggalek, BB 46279",2017-11-06
+06306419,Rahmat,Mardianto,Consulting Specialist,13,rahmat.mardianto@gdn-commerce.com,1982-09-03,+62880728798798,"Apt. 862 Jl. Rasuna Said No. 33, Manggarai, SG 14806",2017-07-05
+06305943,Wisnu,Januar,Global Accounting Assistant,5,wisnu.januar@gdn-commerce.com,1991-07-14,+62898174840003,"Jl. Kartini No. 87, Bengkulu, GO 32658",2020-12-31
+06309811,Fika,Mardianto,District Marketing Planner,11,fika.mardianto@gdn-commerce.com,1970-01-16,+62847993680591,"Jl. Gatot Soebroto No. 45, Deiyai, JA 37911",2018-10-01
+06307805,Raditya,Listiyono,Central Technology Associate,12,raditya.listiyono@gdn-commerce.com,1981-11-03,+62865192128830,"Apt. 561 Jl. Gajahmada No. 50, Ternate, SU 80387",2019-06-22
+06306440,Arif,Ikhsan,Principal Government Orchestrator,4,arif.ikhsan@gdn-commerce.com,1983-11-06,+62867229152589,"Suite 479 Jl. MH. Thamrin No. 58, Subulussalam, YO 41188",2020-02-20
+06309306,Valentinus,Rusmana,Sales Producer,9,valentinus.rusmana@gdn-commerce.com,1990-02-11,+62886170960134,"Apt. 619 Jl. Gajahmada No. 46, Blora, PP 07476",2018-01-07
+06305173,Yudhistira,Nasrudin,Legacy Manager,13,yudhistira.nasrudin@gdn-commerce.com,1983-02-05,+62882340157634,"Jl. Juanda No. 73, Kaimana, SG 88213",2018-09-13
+06300189,Edwin,Taslim,Retail Consultant,9,edwin.taslim@gdn-commerce.com,1975-11-26,+62884029158696,"Suite 967 Jl. Juanda No. 14, Intan Jaya, GO 28609",2020-01-11
+06305561,Edi,Komarudin,Hospitality Planner,5,edi.komarudin@gdn-commerce.com,1998-03-24,+62890878697455,"Jl. Hayamwuruk No. 51, Sintang, SB 47142",2020-02-01
+06301597,Noval,Suryatama,Chief Analyst,13,noval.suryatama@gdn-commerce.com,1998-05-29,+62871245810181,"Jl. Hayamwuruk No. 17, Barito Utara, MA 89795",2021-02-27
+06301034,Udin,Yulianto,Government Facilitator,8,udin.yulianto@gdn-commerce.com,2001-04-29,+62859070169197,"Jl. Kartini No. 40, Maros, KS 48036",2021-08-07
+06307435,Rahmat,Thamrin,Dynamic Developer,13,rahmat.thamrin@gdn-commerce.com,1976-01-20,+62817384518447,"Jl. Ahmad Yani No. 77, Tebo, MA 72448",2018-09-05
+06308222,Salim,Santoso,Direct Community-Services Liaison,10,salim.santoso@gdn-commerce.com,1987-12-22,+62825053357556,"Jl. Rasuna Said No. 71, Tomohon, ML 76329",2018-03-24
+06308510,Lidya,Utama,Investor Marketing Supervisor,10,lidya.utama@gdn-commerce.com,1974-03-23,+62826511090769,"Jl. Ahmad Yani No. 23, Bolaang Mongondow Selatan, PA 46269",2017-12-04
+06304784,Martin,Hendrawinata,Customer Developer,6,martin.hendrawinata@gdn-commerce.com,1973-11-30,+62887946819484,"Apt. 879 Jl. Juanda No. 19, Kudus, KT 22021",2020-07-10
+06304112,Andi,Utama,Investor Specialist,9,andi.utama@gdn-commerce.com,1986-06-05,+62863263929046,"Suite 306 Jl. Rasuna Said No. 49, Konawe, KA 52206",2019-05-09
+06306005,Yossi,Indragiri,Senior Sales Technician,12,yossi.indragiri@gdn-commerce.com,2002-01-10,+62814206197451,"Apt. 204 Jl. Hayamwuruk No. 24, Singkawang, JB 18035",2019-06-02
+06306747,Arif,Zulfikara,Mining Orchestrator,10,arif.zulfikara@gdn-commerce.com,1988-09-25,+62887567000209,"Apt. 816 Jl. Jend. Sudirman No. 96, Humbang Hasundutan, AC 20105",2016-06-08
+06305797,Kemal,Bintara,Direct Technology Planner,10,kemal.bintara@gdn-commerce.com,1982-09-08,+62849851075348,"Jl. Rasuna Said No. 19, Katingan, KS 38311",2016-09-23
+06305584,Jaya,Hartono,Human Marketing Administrator,10,jaya.hartono@gdn-commerce.com,1973-03-02,+62812749104171,"Apt. 460 Jl. Jend. Sudirman No. 36, Situbondo, SN 56216",2017-09-28
+06303914,Qorri,Jayakusuma,Human Manager,6,qorri.jayakusuma@gdn-commerce.com,1988-09-15,+62845599171544,"Jl. Hayamwuruk No. 70, Agam, GO 78303",2019-07-18
+06309042,Derry,Hartanto,International Administrator,6,derry.hartanto@gdn-commerce.com,1989-02-24,+62823114710925,"Apt. 190 Jl. Hayamwuruk No. 95, Solok, JI 38165",2019-10-16
+06300155,Beni,Idris,Mining Executive,12,beni.idris@gdn-commerce.com,1984-08-23,+62875260196167,"Jl. Gatot Soebroto No. 59, Probolinggo, PA 06691",2017-05-29
+06302371,Dea,Oktara,International Administrator,11,dea.oktara@gdn-commerce.com,1980-04-12,+62897523040969,"Jl. Gajahmada No. 45, Banjar, RI 11002",2020-09-14
+06305521,Ferdian,Gautama,Legacy Administration Orchestrator,12,ferdian.gautama@gdn-commerce.com,2001-02-06,+62831666323084,"Suite 828 Jl. Ahmad Yani No. 68, Jakarta Selatan, SM 18837",2017-05-03
+06303432,Toni,Maulana,Principal Administration Administrator,9,toni.maulana@gdn-commerce.com,1981-08-13,+62859703521181,"Suite 363 Jl. Gatot Soebroto No. 61, Parigi Moutong, SL 21318",2017-05-07
+06308108,Iwan,Januar,Mining Developer,11,iwan.januar@gdn-commerce.com,1982-01-11,+62821525462299,"Suite 398 Jl. Jend. Sudirman No. 90, Banjar Baru, MU 88763",2016-04-15
+06308495,Kemal,Cahyono,Community-Services Analyst,7,kemal.cahyono@gdn-commerce.com,1970-10-23,+62874829936636,"Jl. Diponegoro No. 13, Kotawaringin Barat, KU 45062",2018-09-21
+06306324,Edwin,Pahlevi,Community-Services Developer,7,edwin.pahlevi@gdn-commerce.com,1974-05-28,+62824911967614,"Suite 781 Jl. Gatot Soebroto No. 62, Blora, SG 03727",2019-01-30
+06309306,Setya,Nugraha,Dynamic Consulting Technician,6,setya.nugraha@gdn-commerce.com,1998-02-04,+62831199773290,"Suite 979 Jl. Rasuna Said No. 22, Kepulauan Talaud, JA 03816",2020-11-14
+06301224,Niko,Thamrin,Manufacturing Engineer,8,niko.thamrin@gdn-commerce.com,1983-09-07,+62818626966869,"Jl. Hayamwuruk No. 46, Sekadau, JI 69776",2020-11-27
+06300457,Udin,Satria,Hospitality Strategist,11,udin.satria@gdn-commerce.com,1990-01-27,+62890460154790,"Apt. 902 Jl. Rasuna Said No. 63, Parigi Moutong, SM 50737",2020-04-24
+06307719,Qorri,Daniawan,Product Banking Strategist,10,qorri.daniawan@gdn-commerce.com,2002-08-10,+62877827545940,"Apt. 663 Jl. Gajahmada No. 91, Rokan Hilir, YO 71072",2018-02-27
+06302647,Vivi,Satria,Direct Specialist,4,vivi.satria@gdn-commerce.com,1997-07-16,+62831710066378,"Jl. Rasuna Said No. 82, Aceh Utara, KA 33139",2018-06-16
+06302531,David,Kurnianto,Investor Director,12,david.kurnianto@gdn-commerce.com,1985-02-22,+62879627118731,"Jl. Diponegoro No. 55, Paniai, MU 91774",2020-04-04
+06300607,Edi,Suhendra,Marketing Facilitator,5,edi.suhendra@gdn-commerce.com,1985-05-05,+62889792065815,"Suite 259 Jl. Juanda No. 70, Muara Enim, GO 04419",2019-09-14
+06300083,Wawan,Indragiri,Global Sales Technician,8,wawan.indragiri@gdn-commerce.com,1982-06-14,+62811695877780,"Jl. Gajahmada No. 43, Halmahera Selatan, SR 46170",2018-12-24
+06308270,Niko,Yudhistira,International Director,13,niko.yudhistira@gdn-commerce.com,1982-06-17,+62855150130068,"Apt. 967 Jl. Gatot Soebroto No. 62, Sleman, KU 21003",2019-10-15
+06305086,Danang,Santoso,Lead Coordinator,4,danang.santoso@gdn-commerce.com,1993-04-08,+62819233691012,"Apt. 111 Jl. Gajahmada No. 43, Kepulauan Sula, ML 85295",2019-01-07
+06307511,Wawan,Aristianto,Marketing Liaison,9,wawan.aristianto@gdn-commerce.com,1980-09-25,+62892761692352,"Apt. 472 Jl. Ahmad Yani No. 96, Barito Selatan, PB 92030",2018-09-13
+06308091,Edwin,Haryanto,Customer Marketing Assistant,11,edwin.haryanto@gdn-commerce.com,1983-08-06,+62863853913393,"Jl. Gatot Soebroto No. 13, Manggarai Barat, ML 38090",2019-10-04
+06305548,Qomar,Pradipta,Banking Specialist,13,qomar.pradipta@gdn-commerce.com,1998-02-22,+62852827979738,"Apt. 486 Jl. Jend. Sudirman No. 37, Yahukimo, NU 06538",2017-09-22
+06309039,Umar,Cahyadi,Retail Orchestrator,11,umar.cahyadi@gdn-commerce.com,1985-07-28,+62843899189370,"Suite 848 Jl. Kartini No. 21, Sibolga, KI 18108",2020-08-13
+06302980,Bayu,Mardiansyah,Legal Developer,13,bayu.mardiansyah@gdn-commerce.com,1970-06-10,+62846309615929,"Jl. Jend. Sudirman No. 78, Keerom, NT 59745",2019-04-16
+06303406,Prily,Hartanto,Advertising Analyst,8,prily.hartanto@gdn-commerce.com,1986-01-22,+62858913528044,"Suite 818 Jl. Diponegoro No. 66, Ciamis, JT 09383",2021-09-19
+06307227,Qorri,Listyawan,Forward Administrator,13,qorri.listyawan@gdn-commerce.com,1986-09-06,+62842497499988,"Jl. Diponegoro No. 24, Empat Lawang, MU 40210",2016-01-30
+06301330,Edwin,Rustam,Retail Director,7,edwin.rustam@gdn-commerce.com,1977-12-01,+62896581060698,"Suite 560 Jl. Hayamwuruk No. 78, Bolaang Mongondow Selatan, MA 50028",2017-05-04
+06304608,Ferdian,Umbara,Construction Orchestrator,10,ferdian.umbara@gdn-commerce.com,1991-12-11,+62853559464388,"Apt. 829 Jl. Gatot Soebroto No. 71, Batu Bara, AC 22704",2017-12-09
+06307578,Martin,Hartono,Central Community-Services Officer,9,martin.hartono@gdn-commerce.com,1987-05-16,+62843892409706,"Suite 156 Jl. Kartini No. 65, Baru, NU 76789",2017-08-12
+06301947,Merry,Ismail,Forward Healthcare Executive,7,merry.ismail@gdn-commerce.com,1979-03-26,+62876460966185,"Jl. Juanda No. 63, Puncak Jaya, NT 52695",2016-10-18
+06309058,Desi,Saragih,Senior Design Facilitator,7,desi.saragih@gdn-commerce.com,2000-09-12,+62811686086040,"Suite 502 Jl. Rasuna Said No. 89, Maros, SG 62741",2019-03-22
+06305171,Wisnu,Setiawan,Manufacturing Administrator,13,wisnu.setiawan@gdn-commerce.com,1984-05-07,+62835414769287,"Jl. MH. Thamrin No. 39, Sukabumi, KB 17797",2018-04-16
+06303600,Citra,Unggul,Forward Marketing Architect,10,citra.unggul@gdn-commerce.com,2001-08-29,+62852331961768,"Jl. Ahmad Yani No. 86, Langsa, SM 76677",2020-04-05
+06308140,Ferdian,Aristianto,Farming Engineer,12,ferdian.aristianto@gdn-commerce.com,1977-10-21,+62856495016931,"Jl. Gatot Soebroto No. 37, Surabaya, KB 94806",2016-02-27
+06302487,Victor,Januar,Internal Facilitator,12,victor.januar@gdn-commerce.com,1997-03-11,+62811275511814,"Suite 960 Jl. Gajahmada No. 82, Pariaman, KA 79112",2017-04-11
+06303608,Ruslan,Gondokusumo,Mining Agent,5,ruslan.gondokusumo@gdn-commerce.com,2001-03-11,+62827022794746,"Apt. 925 Jl. MH. Thamrin No. 44, Maros, JT 91189",2021-06-12
+06304748,Gita,Gondokusumo,Technology Orchestrator,10,gita.gondokusumo@gdn-commerce.com,2001-07-19,+62876184017495,"Suite 878 Jl. Kartini No. 68, Aceh Jaya, RI 58279",2019-07-18
+06304735,Imam,Wijaya,International Real-Estate Specialist,12,imam.wijaya@gdn-commerce.com,1974-12-15,+62854745819952,"Apt. 905 Jl. Rasuna Said No. 72, Jepara, NB 73608",2017-09-11
+06301066,Hengky,Gunardi,Dynamic Administrator,4,hengky.gunardi@gdn-commerce.com,1987-10-06,+62870011488916,"Apt. 453 Jl. Jend. Sudirman No. 35, Jakarta Timur, KB 79635",2021-08-28
+06307996,Wisnu,Armansyah,Education Technician,11,wisnu.armansyah@gdn-commerce.com,1972-08-20,+62850901513226,"Jl. MH. Thamrin No. 74, Rembang, JK 57072",2020-12-31
+06309456,Devi,Nugraha,Internal Administrator,5,devi.nugraha@gdn-commerce.com,1983-12-20,+62872892475314,"Apt. 489 Jl. MH. Thamrin No. 80, Padang, JA 75868",2020-02-12
+06304888,Oki,Maulana,Education Agent,13,oki.maulana@gdn-commerce.com,1987-07-18,+62816291639802,"Apt. 429 Jl. Diponegoro No. 34, Buol, SL 72964",2020-11-10
+06303916,Lidya,Candrawijaya,Dynamic Producer,11,lidya.candrawijaya@gdn-commerce.com,1987-02-27,+62817439866551,"Jl. Hayamwuruk No. 61, Kapuas, SS 90811",2018-09-29
+06301301,Pandu,Nugraha,Internal Marketing Architect,7,pandu.nugraha@gdn-commerce.com,1982-08-20,+62839987017656,"Jl. Gatot Soebroto No. 26, Padang, SM 11740",2020-01-12
+06303404,Jaya,Iswanto,Marketing Liaison,8,jaya.iswanto@gdn-commerce.com,1970-09-02,+62889430889224,"Jl. Rasuna Said No. 49, Bantul, SS 69798",2018-07-17
+06308819,Hengky,Rusli,Accounting Liaison,13,hengky.rusli@gdn-commerce.com,1984-12-10,+62859871941007,"Apt. 621 Jl. Kartini No. 31, Belu, AC 29105",2019-12-14
+06301877,Mahesa,Wirawan,Human Healthcare Engineer,10,mahesa.wirawan@gdn-commerce.com,1970-06-11,+62814670999714,"Suite 841 Jl. Gajahmada No. 35, Bengkulu Selatan, GO 82665",2019-05-09
+06301098,Budi,Listiyono,Legacy Farming Architect,6,budi.listiyono@gdn-commerce.com,1974-12-12,+62878126916019,"Jl. MH. Thamrin No. 39, Bengkulu, SB 83586",2021-12-05
+06308809,Lia,Novianto,Education Consultant,12,lia.novianto@gdn-commerce.com,1974-11-20,+62838238874048,"Jl. Hayamwuruk No. 16, Wajo, SN 70519",2019-11-23
+06303328,Sandi,Candrawijaya,Lead Healthcare Supervisor,8,sandi.candrawijaya@gdn-commerce.com,1992-08-26,+62891764458944,"Jl. Juanda No. 63, Pelalawan, JB 02655",2021-08-10
+06300818,Valentinus,Oktavian,Customer Banking Coordinator,8,valentinus.oktavian@gdn-commerce.com,1978-01-28,+62817662025616,"Jl. Kartini No. 61, Temanggung, SA 51407",2020-11-12
+06307299,Agus,Yudhiswara,Legal Representative,8,agus.yudhiswara@gdn-commerce.com,1972-04-24,+62836600565443,"Jl. Rasuna Said No. 54, Tegal, BB 22522",2017-07-13
+06306338,Olivia,Lazuardi,Hospitality Supervisor,5,olivia.lazuardi@gdn-commerce.com,1975-07-25,+62829281040899,"Suite 130 Jl. Gatot Soebroto No. 44, Sigi, JW 24348",2017-03-11
+06303744,Wawan,Kusuma,Principal Developer,6,wawan.kusuma@gdn-commerce.com,1982-10-21,+62858427952639,"Suite 231 Jl. Jend. Sudirman No. 75, Flores Timur, JI 44400",2019-09-21
+06306745,Sigit,Listyawan,Farming Agent,4,sigit.listyawan@gdn-commerce.com,1985-09-27,+62882837521334,"Jl. MH. Thamrin No. 14, Batang, KS 62188",2019-02-02
+06307681,Heni,Komarudin,Dynamic Community-Services Executive,9,heni.komarudin@gdn-commerce.com,1970-10-12,+62821923084545,"Apt. 769 Jl. Diponegoro No. 24, Empat Lawang, NT 93102",2017-08-25
+06302173,Budi,Gautama,Customer Farming Planner,6,budi.gautama@gdn-commerce.com,2003-12-16,+62861500517427,"Jl. Kartini No. 89, Tual, JW 74615",2021-01-28
+06300480,Aji,Wirawan,International Real-Estate Specialist,4,aji.wirawan@gdn-commerce.com,1999-07-07,+62838567039702,"Suite 924 Jl. Gatot Soebroto No. 41, Flores Timur, RI 02196",2017-10-08
+06308216,Heri,Dwiantoro,Marketing Facilitator,12,heri.dwiantoro@gdn-commerce.com,1971-12-11,+62868166397843,"Apt. 549 Jl. Ahmad Yani No. 70, Donggala, AC 33586",2021-08-31
+06309944,Heri,Sapta,Legal Director,11,heri.sapta@gdn-commerce.com,1989-06-27,+62813543998915,"Suite 526 Jl. Hayamwuruk No. 41, Belu, BT 68510",2021-04-22
+06306952,Bima,Oktavian,National Government Designer,12,bima.oktavian@gdn-commerce.com,1987-09-24,+62828013303747,"Apt. 443 Jl. Gatot Soebroto No. 85, Lumajang, MU 40801",2017-03-12
+06306805,Ahmad,Wijanarko,Legacy Design Assistant,4,ahmad.wijanarko@gdn-commerce.com,1984-02-15,+62821048939003,"Suite 366 Jl. Gatot Soebroto No. 37, Tana Toraja, PA 19895",2018-09-30
+06305052,Indra,Kusumawardhana,IT Executive,4,indra.kusumawardhana@gdn-commerce.com,1992-01-15,+62892141963206,"Jl. Jend. Sudirman No. 62, Asahan, PA 80609",2020-03-29
+06304293,Heru,Novianto,Central Education Executive,11,heru.novianto@gdn-commerce.com,1988-07-25,+62894952255303,"Apt. 922 Jl. Rasuna Said No. 85, Wajo, BB 67532",2021-06-04
+06301598,Bagas,Kusumawardhana,Sales Analyst,10,bagas.kusumawardhana@gdn-commerce.com,1987-10-24,+62885968939086,"Jl. Kartini No. 76, Pesisir Selatan, PB 42837",2016-03-31
+06309521,Anton,Idris,Forward Supervisor,7,anton.idris@gdn-commerce.com,1975-04-18,+62854862820398,"Suite 882 Jl. Gajahmada No. 44, Tanjung Jabung Barat, BT 58453",2021-07-20
+06300511,Vira,Yudhistira,Dynamic Consultant,10,vira.yudhistira@gdn-commerce.com,2000-04-23,+62897008952998,"Jl. Jend. Sudirman No. 77, Majene, SU 12070",2021-03-04
+06300033,Vanya,Yudhiswara,Forward Farming Consultant,8,vanya.yudhiswara@gdn-commerce.com,1982-03-14,+62865037918654,"Jl. Rasuna Said No. 97, Bolaang Mongondow, SN 84137",2019-12-17
+06307197,Qorri,Djunaedi,Construction Supervisor,10,qorri.djunaedi@gdn-commerce.com,1986-09-30,+62830501061818,"Jl. Diponegoro No. 11, Parepare, SA 22640",2018-12-19
+06301749,Lia,Rudianto,Marketing Specialist,10,lia.rudianto@gdn-commerce.com,1985-08-12,+62899766622252,"Suite 541 Jl. Hayamwuruk No. 39, Intan Jaya, SG 16850",2019-07-13
+06307387,Lisa,Hermawan,Accounting Developer,13,lisa.hermawan@gdn-commerce.com,1984-10-02,+62894263797192,"Jl. MH. Thamrin No. 21, Karimun, NB 27524",2019-02-25
+06301590,Vanya,Gondokusumo,Technology Administrator,10,vanya.gondokusumo@gdn-commerce.com,1994-08-21,+62826618532499,"Jl. Jend. Sudirman No. 71, Bengkulu Selatan, KA 26731",2018-08-01
+06301715,Qomar,Zulfikara,Real-Estate Coordinator,4,qomar.zulfikara@gdn-commerce.com,2001-02-12,+62824576619387,"Apt. 951 Jl. Gatot Soebroto No. 90, Aceh Jaya, BT 05343",2020-04-08
+06304264,Pandu,Madjid,Customer Farming Analyst,13,pandu.madjid@gdn-commerce.com,1977-11-09,+62820021001537,"Jl. Gajahmada No. 72, Aceh Besar, JI 71515",2019-07-12
+06306566,Indra,Riansyah,Farming Director,8,indra.riansyah@gdn-commerce.com,1975-10-28,+62849219358170,"Jl. Kartini No. 65, Pemalang, MU 29863",2017-07-04
+06303476,Heni,Jayakusuma,Chief IT Designer,6,heni.jayakusuma@gdn-commerce.com,1993-04-19,+62896135155342,"Apt. 365 Jl. Gatot Soebroto No. 44, Katingan, NB 61146",2020-07-23
+06302224,Danang,Gautama,Real-Estate Designer,13,danang.gautama@gdn-commerce.com,1999-12-25,+62882691371760,"Suite 625 Jl. Hayamwuruk No. 58, Bogor, PB 52351",2019-09-25
+06307225,Vicky,Listiyono,National Consulting Technician,6,vicky.listiyono@gdn-commerce.com,1997-05-18,+62827948395362,"Jl. Diponegoro No. 22, Halmahera Utara, PP 27007",2021-03-19
+06302486,Yossi,Maheswara,Chief Marketing Engineer,10,yossi.maheswara@gdn-commerce.com,1978-01-30,+62895293005923,"Jl. MH. Thamrin No. 83, Gayo Lues, SS 40030",2020-11-14
+06301869,Aulia,Haryanto,Human IT Facilitator,8,aulia.haryanto@gdn-commerce.com,1978-04-23,+62811175316871,"Jl. Hayamwuruk No. 52, Bandung, KU 76119",2016-11-26
+06307099,Andi,Ciputra,District Representative,8,andi.ciputra@gdn-commerce.com,1978-08-04,+62854221892861,"Suite 996 Jl. Rasuna Said No. 48, Medan, SG 80094",2019-01-25
+06308922,Galih,Haryanto,Investor Education Specialist,6,galih.haryanto@gdn-commerce.com,1978-03-06,+62845232820534,"Suite 631 Jl. Rasuna Said No. 91, Tebo, AC 70803",2016-04-23
+06309016,Vira,Qodir,Technology Representative,5,vira.qodir@gdn-commerce.com,1982-12-27,+62820652721899,"Suite 701 Jl. Juanda No. 94, Pidie, NU 65801",2017-02-05
+06309899,Yahya,Hendrawinata,IT Administrator,4,yahya.hendrawinata@gdn-commerce.com,1984-06-19,+62835015545025,"Apt. 337 Jl. Juanda No. 89, Padang, SS 33689",2016-06-30
+06304091,Lidya,Riansyah,Retail Strategist,13,lidya.riansyah@gdn-commerce.com,1970-11-25,+62824361601709,"Apt. 603 Jl. MH. Thamrin No. 47, Pontianak, SU 91376",2020-02-27
+06304718,Liana,Haryanto,Manufacturing Developer,10,liana.haryanto@gdn-commerce.com,1997-11-05,+62873345010069,"Apt. 752 Jl. MH. Thamrin No. 19, Mukomuko, JK 80045",2017-08-01
+06307134,Umar,Zulkarnain,District Manufacturing Analyst,10,umar.zulkarnain@gdn-commerce.com,1991-07-05,+62898920817361,"Apt. 777 Jl. MH. Thamrin No. 12, Barru, KR 38931",2019-12-21
+06305937,Kiki,Prawira,Forward Producer,13,kiki.prawira@gdn-commerce.com,1988-02-02,+62861400393534,"Suite 551 Jl. MH. Thamrin No. 98, Supiori, YO 15516",2020-07-23
+06309001,Noval,Budiman,International Healthcare Liaison,10,noval.budiman@gdn-commerce.com,1978-09-20,+62825998821952,"Jl. Jend. Sudirman No. 66, Gayo Lues, KU 85128",2021-04-06
+06304734,Roni,Kurnianto,Chief Retail Planner,6,roni.kurnianto@gdn-commerce.com,1972-10-03,+62864216525733,"Apt. 417 Jl. Gatot Soebroto No. 64, Lebak, KS 42019",2020-02-22
+06300727,Yudha,Pribadi,Corporate Designer,6,yudha.pribadi@gdn-commerce.com,1992-02-19,+62823919613255,"Apt. 116 Jl. Rasuna Said No. 12, Purwakarta, SU 55475",2016-07-14
+06303787,Hamdan,Bimantara,Global Engineer,11,hamdan.bimantara@gdn-commerce.com,2001-12-20,+62890105003567,"Apt. 158 Jl. Hayamwuruk No. 68, Aceh Selatan, SL 75918",2021-06-04
+06304401,Wira,Januar,IT Developer,10,wira.januar@gdn-commerce.com,1990-03-31,+62884182337623,"Suite 746 Jl. Rasuna Said No. 19, Pandeglang, PB 22111",2017-03-07
+06309490,Ahmad,Hermawan,Dynamic Sales Executive,9,ahmad.hermawan@gdn-commerce.com,1970-09-04,+62812254205187,"Suite 619 Jl. Rasuna Said No. 41, Bangka, MU 08285",2017-06-06
+06308319,Rudi,Fachriawan,Chief Administrator,7,rudi.fachriawan@gdn-commerce.com,1986-12-19,+62830377174678,"Jl. Gatot Soebroto No. 44, Sumenep, NB 38727",2020-06-02
+06304481,Anton,Andrianto,Regional Supervisor,8,anton.andrianto@gdn-commerce.com,1995-10-23,+62877713086367,"Jl. Gajahmada No. 69, Brebes, KT 61411",2016-07-17
+06309347,Raditya,Cahyadi,Forward Accounting Administrator,7,raditya.cahyadi@gdn-commerce.com,1997-10-01,+62817546211357,"Suite 337 Jl. Ahmad Yani No. 94, Makassar, PB 25960",2016-11-17
+06300048,Diah,Rianto,Design Consultant,6,diah.rianto@gdn-commerce.com,1972-02-29,+62849390562237,"Jl. Hayamwuruk No. 45, Kepulauan Seribu, ST 39386",2018-10-28
+06305534,Yudha,Mahendra,Lead Officer,12,yudha.mahendra@gdn-commerce.com,1982-04-07,+62820137203478,"Suite 509 Jl. Diponegoro No. 18, Muna, AC 95933",2019-06-02
+06309258,Bagas,Fachriawan,Real-Estate Associate,8,bagas.fachriawan@gdn-commerce.com,1976-09-20,+62819100525366,"Suite 247 Jl. Jend. Sudirman No. 46, Denpasar, ML 16090",2016-12-18
+06300470,Wira,Handaru,Lead Accounting Director,12,wira.handaru@gdn-commerce.com,1990-05-01,+62874612093689,"Suite 240 Jl. Jend. Sudirman No. 39, Barito Timur, SU 62024",2020-04-01
+06301102,Rosa,Maulana,Internal Supervisor,11,rosa.maulana@gdn-commerce.com,1979-11-15,+62837514477573,"Suite 834 Jl. Jend. Sudirman No. 66, Probolinggo, JA 23055",2018-08-21
+06306010,Olivia,Santoso,Human Construction Agent,13,olivia.santoso@gdn-commerce.com,1975-04-17,+62821842787408,"Apt. 278 Jl. Ahmad Yani No. 71, Boven Digoel, KU 25614",2017-06-11
+06308089,Lidya,Oktara,District Consulting Liaison,11,lidya.oktara@gdn-commerce.com,1974-03-02,+62844309631856,"Jl. Juanda No. 88, Nagekeo, PP 83834",2020-01-01
+06302951,Unang,Iswanto,IT Associate,10,unang.iswanto@gdn-commerce.com,2000-04-06,+62884696688511,"Jl. Gatot Soebroto No. 95, Surabaya, ST 48086",2019-04-14
+06307935,Topan,Jayadinata,Forward Construction Representative,8,topan.jayadinata@gdn-commerce.com,1994-06-13,+62899226387810,"Suite 681 Jl. Hayamwuruk No. 23, Muara Enim, PA 84302",2018-02-26
+06301424,Raditya,Fachri,IT Orchestrator,7,raditya.fachri@gdn-commerce.com,1995-08-06,+62856890242073,"Apt. 189 Jl. Gajahmada No. 27, Bontang, KU 64604",2017-01-27
+06303807,Danang,Zulfikara,Global Banking Consultant,9,danang.zulfikara@gdn-commerce.com,1972-12-17,+62849873530025,"Jl. Jend. Sudirman No. 19, Bima, JW 83784",2016-01-01
+06309173,Lely,Wijanarko,Education Designer,12,lely.wijanarko@gdn-commerce.com,1995-05-15,+62831622833007,"Jl. Ahmad Yani No. 79, Kolaka Utara, RI 10962",2018-02-01
+06301270,Yoga,Rianto,District Government Agent,8,yoga.rianto@gdn-commerce.com,1994-05-17,+62843626296344,"Apt. 937 Jl. Rasuna Said No. 95, Batu, MA 02686",2020-12-28
+06308955,Lely,Abdullah,Manufacturing Producer,4,lely.abdullah@gdn-commerce.com,1976-06-27,+62860666130744,"Jl. Jend. Sudirman No. 23, Buleleng, KA 13492",2019-03-03
+06300873,Dion,Yulianto,International Producer,11,dion.yulianto@gdn-commerce.com,1995-12-22,+62835876482852,"Jl. Jend. Sudirman No. 39, Waropen, SB 06333",2016-06-23
+06302438,Jaka,Hadiwijaya,Lead Advertising Architect,9,jaka.hadiwijaya@gdn-commerce.com,1974-10-02,+62879380914664,"Jl. Jend. Sudirman No. 31, Aceh Jaya, SA 98915",2019-05-28
+06306967,Edwin,Madjid,Banking Supervisor,7,edwin.madjid@gdn-commerce.com,1992-12-02,+62815519911575,"Apt. 705 Jl. Gatot Soebroto No. 54, Seruyan, YO 14783",2016-11-14
+06307095,Qorri,Dinata,Retail Planner,5,qorri.dinata@gdn-commerce.com,2002-08-12,+62870989811409,"Jl. Diponegoro No. 38, Buol, KI 04990",2021-05-17
+06305473,Zaenal,Budiman,Design Liaison,6,zaenal.budiman@gdn-commerce.com,1990-08-24,+62877054528630,"Apt. 523 Jl. Gatot Soebroto No. 59, Pariaman, PP 17827",2016-07-14
+06301698,Erika,Idris,National Community-Services Officer,5,erika.idris@gdn-commerce.com,1988-06-19,+62898581626808,"Jl. Ahmad Yani No. 28, Probolinggo, KU 19957",2021-02-09
+06301287,Komar,Riansyah,International Community-Services Producer,11,komar.riansyah@gdn-commerce.com,1975-06-01,+62847487478097,"Jl. Ahmad Yani No. 12, Klungkung, SA 34212",2018-01-08
+06301304,Beni,Unggul,Corporate Supervisor,6,beni.unggul@gdn-commerce.com,1976-11-24,+62887838825661,"Jl. Gajahmada No. 13, Lampung Timur, PB 06693",2018-04-16
+06305655,Dina,Suryatama,Chief Architect,10,dina.suryatama@gdn-commerce.com,1991-11-19,+62839515626538,"Apt. 550 Jl. Kartini No. 30, Muaro Jambi, SU 28072",2017-07-06
+06309792,Yoga,Sugiarto,Advertising Administrator,12,yoga.sugiarto@gdn-commerce.com,1994-11-06,+62844188295187,"Suite 383 Jl. Jend. Sudirman No. 79, Kubu Raya, AC 04327",2017-01-07
+06306794,Tiara,Ferianto,Sales Supervisor,11,tiara.ferianto@gdn-commerce.com,1979-07-27,+62886191627331,"Suite 265 Jl. MH. Thamrin No. 39, Pegunungan Bintang, MU 13586",2021-04-19
+06309088,Kemal,Rustam,Principal Producer,9,kemal.rustam@gdn-commerce.com,1992-08-31,+62832079150451,"Jl. Diponegoro No. 98, Teluk Wondama, KI 06424",2017-11-15
+06301954,Kartini,Rianto,District Engineer,9,kartini.rianto@gdn-commerce.com,1995-01-14,+62837708944087,"Jl. Kartini No. 83, Batu Bara, ST 17784",2016-04-12
+06302659,Udin,Hadiwijaya,Human Community-Services Consultant,8,udin.hadiwijaya@gdn-commerce.com,1979-05-12,+62810826594501,"Jl. Hayamwuruk No. 52, Seram Bagian Timur, SR 82886",2020-03-18
+06307624,Salim,Suhendra,Education Specialist,7,salim.suhendra@gdn-commerce.com,1986-12-04,+62867143070964,"Suite 364 Jl. Diponegoro No. 66, Bengkayang, NT 83613",2019-07-21
+06307538,Putri,Gautama,IT Officer,6,putri.gautama@gdn-commerce.com,1993-11-27,+62851436558543,"Jl. Ahmad Yani No. 54, Sorong, SN 93783",2017-09-26
+06303663,Wisnu,Virgiawan,District Technology Engineer,11,wisnu.virgiawan@gdn-commerce.com,1972-08-24,+62815074876858,"Jl. Rasuna Said No. 38, Mamasa, ML 86734",2020-12-30
+06305193,Tito,Armansyah,Investor Technology Liaison,10,tito.armansyah@gdn-commerce.com,1979-12-24,+62867767965017,"Apt. 808 Jl. Jend. Sudirman No. 25, Tanjung Jabung Timur, MA 88961",2021-07-04
+06300578,Bagus,Bimantara,Advertising Producer,5,bagus.bimantara@gdn-commerce.com,1989-06-03,+62846232109756,"Jl. Gajahmada No. 87, Katingan, KS 38606",2016-11-17
+06309181,Rahmat,Mardianto,National Developer,7,rahmat.mardianto@gdn-commerce.com,1999-01-10,+62851903356978,"Suite 277 Jl. Jend. Sudirman No. 56, Purwakarta, NB 58262",2018-06-09
+06304288,Bima,Mahendra,Principal Manager,4,bima.mahendra@gdn-commerce.com,1986-09-16,+62896099257663,"Suite 795 Jl. Diponegoro No. 37, Mimika, SL 42066",2020-04-02
+06306921,Citra,Santoso,Direct Retail Developer,6,citra.santoso@gdn-commerce.com,1972-12-15,+62882766959930,"Apt. 380 Jl. Diponegoro No. 82, Jember, JK 52879",2019-07-04
+06301400,Dion,Fauzi,Real-Estate Supervisor,12,dion.fauzi@gdn-commerce.com,1995-12-23,+62842718720218,"Jl. Kartini No. 90, Teluk Bintuni, JI 64987",2018-09-23
+06305143,Bima,Zulkarnain,International Director,8,bima.zulkarnain@gdn-commerce.com,1978-05-11,+62887909796085,"Suite 616 Jl. Rasuna Said No. 18, Purworejo, MU 49019",2016-04-26
+06308814,Iman,Pradhana,Real-Estate Analyst,13,iman.pradhana@gdn-commerce.com,1985-12-07,+62899984467297,"Suite 650 Jl. Rasuna Said No. 65, Aceh Jaya, BA 64899",2016-08-14
+06309300,Kartini,Ferdian,Technology Technician,7,kartini.ferdian@gdn-commerce.com,1999-04-26,+62861229882657,"Jl. Jend. Sudirman No. 32, Malinau, JW 46046",2017-02-24
+06305832,Merry,Daniawan,Construction Coordinator,6,merry.daniawan@gdn-commerce.com,1990-11-21,+62824085607085,"Jl. Kartini No. 91, Jakarta Pusat, SA 77575",2017-02-04
+06307569,Pandu,Marzuki,Advertising Designer,4,pandu.marzuki@gdn-commerce.com,2002-10-31,+62816207140648,"Jl. Diponegoro No. 91, Tapanuli Selatan, JB 05845",2020-12-04
+06309691,Topan,Santoso,Manufacturing Director,11,topan.santoso@gdn-commerce.com,1976-08-12,+62883100968408,"Jl. Rasuna Said No. 64, Tual, RI 49301",2016-01-14
+06305072,Iwan,Riyadi,Advertising Officer,11,iwan.riyadi@gdn-commerce.com,1994-03-24,+62832384036154,"Jl. Diponegoro No. 63, Probolinggo, SG 94727",2019-06-28
+06304811,Imam,Daniawan,District Retail Associate,4,imam.daniawan@gdn-commerce.com,1997-02-23,+62825763825544,"Suite 678 Jl. Gatot Soebroto No. 25, Palopo, KA 05497",2021-08-17
+06304070,Anita,Zaenal,Hospitality Analyst,12,anita.zaenal@gdn-commerce.com,1995-09-21,+62820218063058,"Apt. 935 Jl. Gatot Soebroto No. 44, Tuban, NU 20983",2020-01-04
+06307618,Noval,Januar,Direct Education Executive,6,noval.januar@gdn-commerce.com,1976-10-15,+62864832973048,"Jl. Hayamwuruk No. 45, Karimun, MU 40560",2019-03-10
+06302511,Vanya,Prawira,Real-Estate Representative,12,vanya.prawira@gdn-commerce.com,1977-03-04,+62899829198399,"Suite 288 Jl. Rasuna Said No. 47, Mamuju, PB 00466",2018-05-25
+06306092,Muhammad,Kartawijaya,Community-Services Manager,4,muhammad.kartawijaya@gdn-commerce.com,1970-06-21,+62812434947143,"Suite 459 Jl. Gatot Soebroto No. 93, Kuningan, MU 07530",2016-08-19
+06309201,Yudha,Wardhana,Direct Legal Strategist,9,yudha.wardhana@gdn-commerce.com,1996-04-09,+62854162627578,"Suite 103 Jl. Gatot Soebroto No. 12, Sijunjung, SN 83507",2019-10-30
+06308451,David,Oktara,Mining Supervisor,5,david.oktara@gdn-commerce.com,1980-10-25,+62814507790852,"Jl. MH. Thamrin No. 55, Aceh Timur, JI 36250",2020-06-07
+06308720,Bagus,Gozali,Product Director,11,bagus.gozali@gdn-commerce.com,1983-03-23,+62836469056506,"Jl. Hayamwuruk No. 35, Nias, AC 31154",2019-07-16
+06300250,Muhammad,Mardianto,Senior Director,10,muhammad.mardianto@gdn-commerce.com,1985-12-08,+62877069904247,"Suite 212 Jl. Hayamwuruk No. 42, Luwu Timur, SM 64846",2021-12-20
+06303726,Pradipta,Erik,Principal Architect,9,pradipta.erik@gdn-commerce.com,1986-04-18,+62854407383560,"Suite 328 Jl. Gatot Soebroto No. 60, Kolaka Utara, KS 66185",2018-03-20
+06306621,Prily,Handaru,Design Consultant,4,prily.handaru@gdn-commerce.com,1994-07-23,+62872042149922,"Suite 822 Jl. Gajahmada No. 57, Rejang Lebong, JB 11339",2020-07-09
+06300427,Arya,Pradipta,Future Technician,8,arya.pradipta@gdn-commerce.com,1992-11-18,+62837423693652,"Suite 205 Jl. Ahmad Yani No. 68, Magelang, KS 16026",2018-12-27
+06304694,Prily,Hendrawinata,Accounting Developer,5,prily.hendrawinata@gdn-commerce.com,1992-11-04,+62871419515022,"Jl. Jend. Sudirman No. 90, Boalemo, SU 15959",2019-02-21
+06307698,Tri,Cahyadi,National Marketing Administrator,10,tri.cahyadi@gdn-commerce.com,1980-10-21,+62899505913159,"Jl. Jend. Sudirman No. 82, Dumai, GO 91915",2021-02-01
+06308730,Vivi,Pahlevi,Forward Mining Supervisor,12,vivi.pahlevi@gdn-commerce.com,1978-12-19,+62865219327318,"Jl. Hayamwuruk No. 23, Ende, SR 68276",2019-06-03
+06306874,Indah,Candrawijaya,Human Producer,10,indah.candrawijaya@gdn-commerce.com,1979-01-13,+62855570762410,"Apt. 140 Jl. MH. Thamrin No. 10, Tidore Kepulauan, SR 26275",2016-07-06
+06309522,Yudhistira,Mahendra,Corporate Real-Estate Supervisor,8,yudhistira.mahendra@gdn-commerce.com,1997-03-23,+62880581044447,"Jl. Juanda No. 11, Banjar, SS 22111",2019-03-16
+06306548,Aulia,Yudhistira,Customer Executive,12,aulia.yudhistira@gdn-commerce.com,1970-11-15,+62877752281390,"Apt. 880 Jl. Jend. Sudirman No. 17, Aceh Singkil, KA 60491",2019-10-08
+06302456,Edi,Alamsyah,Education Supervisor,9,edi.alamsyah@gdn-commerce.com,2003-05-01,+62889844963149,"Suite 175 Jl. Kartini No. 54, Lampung Tengah, SB 61080",2020-11-15
+06304395,Vicky,Oktara,Senior Technician,12,vicky.oktara@gdn-commerce.com,1987-09-22,+62885478036462,"Apt. 176 Jl. Gajahmada No. 20, Sintang, KI 17272",2021-07-02
+06308927,Zaenal,Jayadi,International Officer,4,zaenal.jayadi@gdn-commerce.com,1977-01-04,+62851267620352,"Jl. Jend. Sudirman No. 23, Sampang, SR 33735",2016-07-28
+06301403,Tiara,Gondokusumo,Global Developer,6,tiara.gondokusumo@gdn-commerce.com,1999-06-02,+62888070176725,"Suite 978 Jl. Jend. Sudirman No. 17, Jakarta Timur, BB 18658",2021-10-22
+06302206,Gugun,Aristianto,Investor Farming Orchestrator,5,gugun.aristianto@gdn-commerce.com,1972-05-14,+62844254541549,"Suite 114 Jl. Diponegoro No. 39, Merangin, BA 02933",2018-03-22
+06306740,Vicky,Darmadi,Lead Retail Associate,5,vicky.darmadi@gdn-commerce.com,1976-05-30,+62896536385544,"Jl. Ahmad Yani No. 50, Maluku Tengah, NU 04893",2021-04-21
+06309585,Chandra,Cahyadi,Senior Farming Designer,8,chandra.cahyadi@gdn-commerce.com,1970-04-24,+62862318570356,"Jl. MH. Thamrin No. 66, Palembang, KA 53180",2021-05-10
+06302637,Vivi,Bintara,Legacy Education Orchestrator,8,vivi.bintara@gdn-commerce.com,2000-06-30,+62818696043826,"Suite 645 Jl. Juanda No. 82, Bandung, PB 77783",2020-12-08
+06306615,Muhammad,Zaenal,Chief Hospitality Analyst,6,muhammad.zaenal@gdn-commerce.com,1970-07-10,+62834136456385,"Apt. 233 Jl. Gajahmada No. 73, Sumbawa, JA 07030",2021-03-05
+06308984,Dea,Wijanarko,Legacy Officer,10,dea.wijanarko@gdn-commerce.com,1999-01-17,+62830753236128,"Jl. Juanda No. 19, Jambi, YO 56547",2016-11-25
+06308365,Bayu,Wicaksono,Product Design Producer,10,bayu.wicaksono@gdn-commerce.com,1984-05-28,+62884335121200,"Jl. Juanda No. 10, Sambas, NT 69357",2016-08-09
+06305733,Wahyu,Nasrudin,Human Legal Strategist,13,wahyu.nasrudin@gdn-commerce.com,2002-12-05,+62820106208911,"Apt. 536 Jl. Diponegoro No. 45, Sumba Barat, JB 56405",2017-11-06
+06307222,Tomi,Ferdian,Central Strategist,8,tomi.ferdian@gdn-commerce.com,1998-12-29,+62891952096318,"Suite 579 Jl. Ahmad Yani No. 42, Kampar, SB 99449",2020-03-04
+06306625,Qomar,Maulana,Central Marketing Technician,12,qomar.maulana@gdn-commerce.com,1996-05-04,+62898067920557,"Apt. 228 Jl. Juanda No. 52, Barito Kuala, SR 22721",2016-01-10
+06300434,Roni,Kartawijaya,Design Architect,6,roni.kartawijaya@gdn-commerce.com,1986-03-13,+62893144735293,"Suite 871 Jl. Gajahmada No. 67, Baubau, BA 66165",2020-02-09
+06309347,Devi,Ikhsan,Hospitality Architect,13,devi.ikhsan@gdn-commerce.com,1981-10-27,+62877920504150,"Suite 979 Jl. Kartini No. 10, Lampung Barat, JA 92661",2017-05-21
+06309741,Iwan,Gunardi,Corporate Representative,12,iwan.gunardi@gdn-commerce.com,1982-06-12,+62826826592670,"Jl. Jend. Sudirman No. 44, Halmahera Barat, SA 74994",2021-07-10
+06303830,Vivi,Bintara,Central Supervisor,6,vivi.bintara@gdn-commerce.com,1997-05-29,+62821521214567,"Jl. Ahmad Yani No. 52, Bima, NT 86023",2018-12-02
+06300668,Merry,Pradipta,Customer Officer,9,merry.pradipta@gdn-commerce.com,1991-01-30,+62869886672401,"Apt. 225 Jl. Gajahmada No. 91, Bogor, ML 31370",2019-06-04
+06300269,Aditya,Cahyono,Chief Assistant,13,aditya.cahyono@gdn-commerce.com,1991-01-22,+62884574470688,"Suite 725 Jl. Kartini No. 58, Luwu, GO 57101",2021-05-07
+06300272,Raditya,Sugiarto,Regional Director,10,raditya.sugiarto@gdn-commerce.com,1996-03-04,+62869438850720,"Jl. Ahmad Yani No. 89, Bulukumba, NT 31886",2017-05-13
+06309376,Indah,Satria,Global Banking Associate,4,indah.satria@gdn-commerce.com,1978-09-05,+62852387181883,"Apt. 468 Jl. Gajahmada No. 58, Mataram, AC 88817",2020-02-08
+06306639,Vanya,Kurniawan,Corporate Healthcare Liaison,5,vanya.kurniawan@gdn-commerce.com,1995-04-27,+62897473420772,"Jl. Jend. Sudirman No. 66, Lumajang, SR 82506",2021-09-08
+06305696,Ahmad,Adriansyah,Hospitality Technician,6,ahmad.adriansyah@gdn-commerce.com,1989-04-18,+62827017738254,"Jl. Hayamwuruk No. 69, Labuhan Batu, JT 92352",2017-02-08
+06301645,Budi,Hermawan,Forward Administration Supervisor,6,budi.hermawan@gdn-commerce.com,2000-01-22,+62882171549397,"Jl. MH. Thamrin No. 67, Kubu Raya, JB 69598",2018-05-20
+06307660,David,Gunardi,Senior Executive,7,david.gunardi@gdn-commerce.com,1977-01-28,+62819802786433,"Jl. Gajahmada No. 58, Salatiga, LA 01300",2016-10-10
+06304966,Vicky,Kusumawardhana,International Retail Producer,11,vicky.kusumawardhana@gdn-commerce.com,1997-12-12,+62895082317485,"Jl. Gajahmada No. 30, Mataram, ML 25878",2021-02-21
+06305799,Wira,Erlangga,Dynamic Advertising Coordinator,11,wira.erlangga@gdn-commerce.com,1971-03-20,+62896713263302,"Jl. Juanda No. 50, Agam, JK 23563",2017-02-14
+06309905,Vanya,Atmadja,Advertising Analyst,12,vanya.atmadja@gdn-commerce.com,1976-10-29,+62850058109670,"Jl. Jend. Sudirman No. 84, Kubu Raya, SG 82208",2021-07-20
+06304991,Pandu,Firmansyah,Marketing Specialist,8,pandu.firmansyah@gdn-commerce.com,1990-04-29,+62829952696111,"Jl. Juanda No. 96, Tana Toraja, JA 34737",2018-04-29
+06305132,Wahyu,Oktara,International Construction Consultant,6,wahyu.oktara@gdn-commerce.com,2000-03-18,+62840116555294,"Jl. Rasuna Said No. 40, Way Kanan, PA 45723",2021-09-28
+06304042,Iman,Jayadi,Healthcare Architect,5,iman.jayadi@gdn-commerce.com,1995-05-04,+62874141494288,"Jl. Juanda No. 73, Metro, KA 64269",2020-05-03
+06301935,Qorri,Firmansyah,Banking Designer,9,qorri.firmansyah@gdn-commerce.com,1985-12-19,+62827294230525,"Jl. Gatot Soebroto No. 63, Lebak, SS 87510",2017-08-05
+06301036,Iwan,Pribadi,Chief Consulting Engineer,9,iwan.pribadi@gdn-commerce.com,1988-07-25,+62864635506914,"Jl. Diponegoro No. 17, Maluku Tengah, SL 07322",2021-05-13
+06301903,Edwin,Rianto,Direct Strategist,6,edwin.rianto@gdn-commerce.com,1979-02-23,+62876822148545,"Suite 622 Jl. Gajahmada No. 56, Aceh Barat Daya, SU 07327",2016-07-26
+06301807,Kiki,Rustam,Education Analyst,9,kiki.rustam@gdn-commerce.com,1978-11-10,+62812366989806,"Suite 278 Jl. Jend. Sudirman No. 52, Depok, JT 25840",2020-07-06
+06300508,Yoga,Jayakusuma,Accounting Engineer,6,yoga.jayakusuma@gdn-commerce.com,1998-06-19,+62862249220578,"Suite 890 Jl. Jend. Sudirman No. 98, Konawe, KB 04028",2018-09-19
+06308065,Toni,Fachri,Corporate Banking Coordinator,9,toni.fachri@gdn-commerce.com,1987-12-28,+62862702493091,"Apt. 544 Jl. Jend. Sudirman No. 33, Berau, SM 50920",2019-04-21
+06304958,Vivi,Erik,Construction Manager,10,vivi.erik@gdn-commerce.com,1980-03-06,+62810756693587,"Apt. 902 Jl. Jend. Sudirman No. 78, Bombana, JB 75515",2019-09-28
+06301115,Gita,Budiman,Principal Advertising Coordinator,5,gita.budiman@gdn-commerce.com,1973-05-12,+62899847851273,"Jl. Diponegoro No. 39, Kepulauan Sula, SL 26799",2017-01-10
+06303911,Tomi,Qodir,Construction Coordinator,6,tomi.qodir@gdn-commerce.com,1991-02-04,+62887897014202,"Jl. Jend. Sudirman No. 13, Tangerang Selatan, AC 47575",2018-11-17
+06309701,Indra,Ilham,Central Healthcare Officer,13,indra.ilham@gdn-commerce.com,1973-06-11,+62874363112940,"Jl. Gajahmada No. 18, Pandeglang, JB 62681",2019-10-31
+06301183,Gugun,Abdullah,Chief Healthcare Agent,12,gugun.abdullah@gdn-commerce.com,1982-12-23,+62866252924926,"Jl. Rasuna Said No. 92, Trenggalek, JI 09719",2017-06-22
+06306709,Adi,Rusli,Legacy Design Specialist,7,adi.rusli@gdn-commerce.com,1996-05-15,+62819682103837,"Jl. Gajahmada No. 36, Ogan Komering Ilir, SU 24339",2018-03-11
+06308284,Niko,Dwiantoro,Central Design Associate,4,niko.dwiantoro@gdn-commerce.com,1997-05-22,+62827741364920,"Jl. Jend. Sudirman No. 29, Balangan, KR 20104",2016-01-18
+06301214,Vicky,Ciputra,Lead Government Administrator,12,vicky.ciputra@gdn-commerce.com,2001-09-23,+62816088870440,"Apt. 195 Jl. Juanda No. 29, Singkawang, KU 38482",2020-08-25
+06300631,Slamet,Zaini,Chief Legal Producer,8,slamet.zaini@gdn-commerce.com,1997-10-15,+62831631912056,"Jl. Kartini No. 72, Tangerang, JT 10147",2016-12-21
+06307725,Choirul,Nainggolan,IT Specialist,6,choirul.nainggolan@gdn-commerce.com,1978-12-25,+62874909986492,"Jl. Gatot Soebroto No. 52, Aceh Tamiang, SS 06631",2017-06-04
+06304073,Dimas,Zaenal,National Construction Manager,10,dimas.zaenal@gdn-commerce.com,2001-01-08,+62836919163362,"Apt. 984 Jl. Hayamwuruk No. 99, Balangan, SL 16363",2017-03-01
+06309103,Dina,Djunaedi,Central Orchestrator,6,dina.djunaedi@gdn-commerce.com,1998-10-07,+62863084089192,"Jl. Rasuna Said No. 99, Kupang, SU 14810",2018-12-08
+06308993,Wawan,Ongky,Chief Legal Supervisor,4,wawan.ongky@gdn-commerce.com,1995-05-25,+62854330370107,"Suite 333 Jl. Kartini No. 47, Karang Asem, PP 04177",2019-08-06
+06307406,Wendy,Mahendra,Banking Technician,7,wendy.mahendra@gdn-commerce.com,1994-03-20,+62819821774337,"Jl. Jend. Sudirman No. 10, Boalemo, KB 17211",2018-02-16
+06300638,Victor,Fachri,Legal Architect,10,victor.fachri@gdn-commerce.com,1980-06-07,+62831749202344,"Apt. 176 Jl. Juanda No. 47, Tangerang, KA 50053",2021-03-15
+06306056,Prima,Erlangga,Healthcare Technician,12,prima.erlangga@gdn-commerce.com,1977-10-31,+62858143953990,"Suite 654 Jl. Rasuna Said No. 25, Toraja Utara, BA 52433",2019-09-02
+06308735,Komar,Wardhana,International Liaison,5,komar.wardhana@gdn-commerce.com,1970-11-29,+62851281533306,"Jl. Gajahmada No. 74, Tana Tidung, KS 41846",2016-01-26
+06308887,Toni,Nasrudin,Investor Manufacturing Assistant,4,toni.nasrudin@gdn-commerce.com,1980-11-09,+62862602292186,"Suite 226 Jl. Gajahmada No. 96, Nias Utara, KU 67259",2018-12-02
+06308587,Derry,Fachriawan,Human Healthcare Assistant,7,derry.fachriawan@gdn-commerce.com,1994-04-13,+62867925198668,"Jl. Ahmad Yani No. 94, Karawang, PA 55325",2020-10-19
+06303700,Derry,Ginting,National Administrator,5,derry.ginting@gdn-commerce.com,1975-07-18,+62874291532885,"Jl. MH. Thamrin No. 89, Kerinci, NU 03091",2018-05-22
+06306300,Dion,Wijanarko,Global Technician,9,dion.wijanarko@gdn-commerce.com,1985-10-17,+62847953442532,"Jl. Ahmad Yani No. 81, Biak Numfor, SM 10068",2018-04-06
+06308654,Agus,Budiarto,Internal Orchestrator,5,agus.budiarto@gdn-commerce.com,1978-07-24,+62890106037808,"Jl. Gajahmada No. 77, Nunukan, KA 48956",2017-05-11
+06302654,Vicky,Atmadja,Accounting Manager,7,vicky.atmadja@gdn-commerce.com,1997-02-01,+62899620154548,"Suite 789 Jl. Jend. Sudirman No. 22, Asahan, SN 60290",2021-09-11
+06300674,Bagus,Budiarto,Community-Services Agent,7,bagus.budiarto@gdn-commerce.com,1978-06-08,+62859678776960,"Jl. Rasuna Said No. 56, Barito Timur, JW 15210",2021-08-12
+06306975,Adi,Thamrin,Regional Administrator,10,adi.thamrin@gdn-commerce.com,1976-05-05,+62866453008153,"Jl. Hayamwuruk No. 27, Kampar, SM 63337",2016-06-23
+06303306,Merry,Umbara,Healthcare Planner,7,merry.umbara@gdn-commerce.com,1993-02-19,+62889286993730,"Jl. Jend. Sudirman No. 52, Lembata, ML 01456",2017-08-14
+06304984,Muhammad,Handaru,Regional Director,8,muhammad.handaru@gdn-commerce.com,1977-04-06,+62850986347289,"Suite 851 Jl. Ahmad Yani No. 60, Batam, KB 03431",2017-05-14
+06307463,Tomi,Nurdiansyah,Global Executive,7,tomi.nurdiansyah@gdn-commerce.com,1995-06-18,+62866491377606,"Jl. Juanda No. 94, Aceh Singkil, SG 87929",2021-03-19
+06307299,Mahesa,Ikhsan,Government Consultant,9,mahesa.ikhsan@gdn-commerce.com,1983-04-15,+62844384400471,"Jl. Hayamwuruk No. 79, Bolaang Mongondow Timur, MA 87248",2021-02-19
+06300638,Anton,Junaedi,Product Agent,8,anton.junaedi@gdn-commerce.com,2003-04-09,+62851381244843,"Apt. 298 Jl. Kartini No. 98, Sumbawa, GO 78490",2021-04-17
+06300891,Arya,Nugraha,Direct Community-Services Producer,13,arya.nugraha@gdn-commerce.com,1988-07-22,+62853702681133,"Jl. Juanda No. 18, Minahasa Selatan, YO 49436",2021-03-30
+06301510,Tomi,Mardianto,Global Specialist,11,tomi.mardianto@gdn-commerce.com,1998-11-02,+62860354199853,"Apt. 538 Jl. Hayamwuruk No. 31, Situbondo, SS 64616",2018-03-04
+06300247,Bagus,Triwijaya,Technology Supervisor,13,bagus.triwijaya@gdn-commerce.com,1978-07-30,+62847158619743,"Jl. Diponegoro No. 93, Wajo, KU 80702",2017-01-05
+06305832,Kartini,Zaini,Construction Developer,7,kartini.zaini@gdn-commerce.com,1971-06-06,+62827583579105,"Jl. Jend. Sudirman No. 39, Sekadau, SU 58008",2020-02-24
+06303312,Aulia,Suryatama,Retail Administrator,5,aulia.suryatama@gdn-commerce.com,1984-07-23,+62843480656822,"Jl. Ahmad Yani No. 90, Purwakarta, NT 96691",2018-11-13
+06301888,Umar,Djunaedi,Global Legal Architect,8,umar.djunaedi@gdn-commerce.com,1998-04-06,+62834583110775,"Jl. Diponegoro No. 34, Konawe Selatan, BE 73666",2016-09-14
+06303318,Vira,Dwiantoro,Administration Agent,8,vira.dwiantoro@gdn-commerce.com,1999-10-15,+62840951436566,"Jl. Gatot Soebroto No. 96, Bukittinggi, GO 73857",2019-11-28
+06303265,Victor,Jayadinata,Legacy Engineer,11,victor.jayadinata@gdn-commerce.com,2001-10-17,+62881812671782,"Apt. 179 Jl. Ahmad Yani No. 55, Situbondo, SG 50936",2021-01-03
+06308056,Iwan,Zulfikri,Administration Coordinator,11,iwan.zulfikri@gdn-commerce.com,1998-05-14,+62864945764720,"Apt. 725 Jl. Rasuna Said No. 85, Sidenreng Rappang, SA 68526",2019-02-11
+06302280,Tomi,Oktavian,Principal Accounting Planner,4,tomi.oktavian@gdn-commerce.com,2003-03-05,+62883837516661,"Apt. 836 Jl. Gatot Soebroto No. 70, Konawe Utara, SU 14202",2020-02-15
+06300369,Agus,Utama,Investor Marketing Assistant,12,agus.utama@gdn-commerce.com,2000-11-01,+62866275090846,"Apt. 422 Jl. Hayamwuruk No. 79, Nias Selatan, SN 54923",2017-04-19
+06304265,Indra,Rusli,Healthcare Administrator,10,indra.rusli@gdn-commerce.com,1983-03-27,+62828892574073,"Jl. Rasuna Said No. 53, Kepulauan Meranti, MA 80848",2018-08-13
+06307078,Okta,Rianto,Farming Orchestrator,7,okta.rianto@gdn-commerce.com,1994-04-26,+62855080114343,"Suite 623 Jl. Jend. Sudirman No. 28, Tual, SR 36825",2019-11-29
+06307745,Bambang,Januar,Human Liaison,4,bambang.januar@gdn-commerce.com,1995-06-20,+62845190582013,"Jl. MH. Thamrin No. 24, Muna, JW 49758",2017-03-21
+06308539,Aji,Indragiri,Forward Facilitator,10,aji.indragiri@gdn-commerce.com,1991-10-25,+62844249425650,"Apt. 711 Jl. Rasuna Said No. 64, Majene, SL 83001",2017-06-04
+06300493,Pradipta,Wirawan,Real-Estate Consultant,10,pradipta.wirawan@gdn-commerce.com,1997-11-01,+62880721178259,"Jl. Ahmad Yani No. 37, Pinrang, BA 62511",2018-07-21
+06305026,Citra,Ismail,Education Architect,12,citra.ismail@gdn-commerce.com,1995-10-28,+62887527838405,"Jl. Gajahmada No. 27, Gorontalo Utara, PB 05133",2017-07-21
+06304847,Vira,Lesmana,Lead Hospitality Agent,13,vira.lesmana@gdn-commerce.com,2002-06-03,+62885095406025,"Apt. 263 Jl. Gajahmada No. 59, Dompu, RI 95207",2019-08-17
+06300598,Putri,Nasrudin,Future Designer,12,putri.nasrudin@gdn-commerce.com,1997-09-06,+62833972564993,"Jl. Gatot Soebroto No. 49, Ogan Komering Ulu Timur, SM 95776",2019-03-16
+06308394,Okta,Setiawan,IT Developer,4,okta.setiawan@gdn-commerce.com,1981-03-06,+62896424731338,"Suite 444 Jl. Kartini No. 37, Buru Selatan, NU 58437",2017-09-02
+06302480,Yoga,Erik,Central Technology Liaison,5,yoga.erik@gdn-commerce.com,1974-12-27,+62834984609921,"Jl. Kartini No. 71, Yalimo, ST 76970",2019-05-17
+06302099,Bagus,Waluyo,Regional Developer,13,bagus.waluyo@gdn-commerce.com,1978-12-15,+62878729889394,"Apt. 231 Jl. Rasuna Said No. 62, Lahat, GO 90344",2017-01-05
+06308089,Edi,Erlangga,Dynamic Associate,4,edi.erlangga@gdn-commerce.com,1999-08-03,+62840284232132,"Jl. Diponegoro No. 17, Karimun, MA 63720",2021-03-18
+06303047,Lidya,Oktara,Investor Administration Architect,10,lidya.oktara@gdn-commerce.com,1970-10-21,+62821623748825,"Jl. Ahmad Yani No. 20, Barito Selatan, JB 20455",2019-02-07
+06309001,Imam,Wijanarko,Construction Manager,10,imam.wijanarko@gdn-commerce.com,1991-06-21,+62823831456661,"Jl. Gatot Soebroto No. 55, Kepulauan Anambas, SR 34156",2016-12-26
+06306529,Raditya,Indrajaya,Product Mining Architect,7,raditya.indrajaya@gdn-commerce.com,1981-04-30,+62841520579333,"Suite 644 Jl. Hayamwuruk No. 53, Tebing Tinggi, JA 40458",2016-10-19
+06308083,Yudha,Ikhsan,Lead Consulting Producer,13,yudha.ikhsan@gdn-commerce.com,1976-07-05,+62824236070600,"Apt. 430 Jl. Diponegoro No. 70, Tarakan, GO 27847",2020-06-03
+06306720,Khrisna,Januar,International Hospitality Specialist,5,khrisna.januar@gdn-commerce.com,1991-08-19,+62828321141961,"Jl. Jend. Sudirman No. 87, Sragen, SG 92534",2018-06-08
+06307473,Vira,Cahyono,Product Hospitality Architect,9,vira.cahyono@gdn-commerce.com,1975-07-10,+62851013985099,"Jl. Rasuna Said No. 84, Nduga, ST 87439",2020-04-09
+06309718,Deni,Bimantara,Administration Associate,6,deni.bimantara@gdn-commerce.com,1971-03-04,+62829754464000,"Jl. Juanda No. 14, Subang, KT 81920",2021-12-15
+06301591,Edwin,Kusuma,District Officer,13,edwin.kusuma@gdn-commerce.com,1990-12-11,+62863289901128,"Apt. 219 Jl. Gatot Soebroto No. 25, Sragen, KI 64718",2018-01-31
+06300235,Vicky,Gunajaya,Chief Planner,13,vicky.gunajaya@gdn-commerce.com,1985-02-20,+62870662185602,"Suite 710 Jl. Ahmad Yani No. 71, Pematang Siantar, BE 59935",2020-04-11
+06306780,Galih,Kurnianto,Farming Facilitator,10,galih.kurnianto@gdn-commerce.com,2002-09-28,+62851994751541,"Apt. 738 Jl. Ahmad Yani No. 82, Kupang, KU 10656",2017-10-28
+06302371,Yoga,Basri,Government Agent,9,yoga.basri@gdn-commerce.com,1979-01-17,+62855533532155,"Apt. 430 Jl. Rasuna Said No. 92, Tomohon, KU 75538",2018-09-03
+06302007,Okta,Maulana,Senior Real-Estate Designer,12,okta.maulana@gdn-commerce.com,2002-03-13,+62875113320269,"Jl. Hayamwuruk No. 61, Poso, JI 47440",2017-07-04
+06307719,Qorri,Alamsyah,Investor Technology Officer,11,qorri.alamsyah@gdn-commerce.com,1991-12-15,+62832098056370,"Suite 267 Jl. Jend. Sudirman No. 70, Labuhan Batu, RI 27521",2018-07-19
+06300193,Endang,Unggul,Education Analyst,10,endang.unggul@gdn-commerce.com,1982-06-23,+62831152851723,"Jl. Gatot Soebroto No. 47, Agam, PP 33375",2018-09-21
+06303864,Aditya,Ciputra,Central Advertising Manager,7,aditya.ciputra@gdn-commerce.com,1979-10-14,+62881202574546,"Jl. Ahmad Yani No. 77, Hulu Sungai Selatan, PB 30126",2018-04-11
+06303263,Noval,Januar,Community-Services Designer,12,noval.januar@gdn-commerce.com,1985-11-04,+62866818594958,"Jl. Hayamwuruk No. 53, Ngada, NT 62741",2020-08-18
+06305281,Ruslan,Rusmana,Dynamic Sales Strategist,12,ruslan.rusmana@gdn-commerce.com,1995-09-03,+62889981150283,"Apt. 326 Jl. Gajahmada No. 88, Bintan, NT 77693",2019-02-23
+06305475,David,Oktara,Marketing Architect,6,david.oktara@gdn-commerce.com,2001-07-02,+62866801254858,"Jl. Diponegoro No. 99, Timor Tengah Utara, KR 54498",2018-08-03
+06304807,Aan,Budiarto,Product Mining Designer,12,aan.budiarto@gdn-commerce.com,2003-08-09,+62837378013648,"Jl. Jend. Sudirman No. 68, Bengkulu, JB 84126",2018-11-02
+06307222,Khrisna,Kusumawardhana,Mining Associate,7,khrisna.kusumawardhana@gdn-commerce.com,1972-01-16,+62848506240365,"Suite 729 Jl. Juanda No. 91, Lumajang, PP 80215",2017-07-11
+06300443,Noval,Oktavian,Real-Estate Developer,12,noval.oktavian@gdn-commerce.com,1990-12-18,+62884842859207,"Jl. Jend. Sudirman No. 41, Balikpapan, BT 56217",2016-06-28
+06307980,Komar,Dzulfikar,National Facilitator,4,komar.dzulfikar@gdn-commerce.com,1985-03-11,+62897630914495,"Apt. 963 Jl. Jend. Sudirman No. 22, Lebong, BB 74476",2018-12-01
+06302910,Roni,Yudhanto,Central Technology Officer,6,roni.yudhanto@gdn-commerce.com,1987-02-12,+62887886438676,"Jl. Rasuna Said No. 85, Lampung Selatan, PP 02435",2016-09-23
+06304296,Bagas,Wirawan,Technology Representative,7,bagas.wirawan@gdn-commerce.com,1970-12-05,+62894380035587,"Suite 427 Jl. Juanda No. 26, Lumajang, MU 29999",2019-04-11
+06306903,Bagus,Suryatama,Global Real-Estate Analyst,6,bagus.suryatama@gdn-commerce.com,1988-05-14,+62861513385510,"Jl. Jend. Sudirman No. 57, Denpasar, RI 59294",2017-05-20
+06306529,Wahyu,Wijanarko,Forward Education Officer,11,wahyu.wijanarko@gdn-commerce.com,1989-09-07,+62894016231509,"Apt. 514 Jl. Rasuna Said No. 95, Buleleng, AC 23641",2017-10-27
+06307239,Diah,Marzuki,Human Marketing Supervisor,6,diah.marzuki@gdn-commerce.com,1996-06-20,+62899834109478,"Apt. 447 Jl. Hayamwuruk No. 70, Surakarta, PB 78701",2018-07-16
+06308963,Yossi,Febriansyah,Customer Administration Director,6,yossi.febriansyah@gdn-commerce.com,1983-08-31,+62856776513832,"Suite 289 Jl. Hayamwuruk No. 45, Aceh Barat, BA 79170",2020-03-25
+06303587,Anita,Ardianto,Senior Supervisor,7,anita.ardianto@gdn-commerce.com,2003-09-06,+62833176294137,"Jl. Juanda No. 24, Kebumen, KB 48127",2021-01-24
+06307756,Jaya,Idris,Sales Officer,13,jaya.idris@gdn-commerce.com,2000-08-04,+62878118348097,"Jl. Kartini No. 55, Banggai, JK 27277",2018-05-06
+06303535,Aditya,Adriansyah,Chief Director,8,aditya.adriansyah@gdn-commerce.com,1995-01-21,+62839849927489,"Apt. 248 Jl. Gatot Soebroto No. 90, Brebes, NB 25019",2020-07-02
+06301795,Rudi,Darmawan,Direct Farming Developer,5,rudi.darmawan@gdn-commerce.com,1987-02-27,+62856147190382,"Suite 715 Jl. MH. Thamrin No. 47, Sigi, PA 14574",2020-08-03
+06309624,Lidya,Yulianto,Real-Estate Liaison,6,lidya.yulianto@gdn-commerce.com,1970-02-10,+62887179513426,"Jl. Ahmad Yani No. 58, Timor Tengah Utara, BB 75316",2017-04-28
+06309210,Heru,Umbara,Legacy Government Administrator,5,heru.umbara@gdn-commerce.com,1979-07-04,+62889316190226,"Suite 330 Jl. Rasuna Said No. 22, Sumba Barat Daya, KI 40612",2016-11-05
+06304791,Heni,Basri,IT Developer,5,heni.basri@gdn-commerce.com,1981-09-03,+62830019954957,"Jl. Diponegoro No. 82, Subulussalam, SN 25443",2021-05-25
+06300792,Prily,Unggul,Manufacturing Liaison,13,prily.unggul@gdn-commerce.com,1987-02-23,+62817705493506,"Jl. Juanda No. 86, Tabanan, JT 72517",2020-08-18
+06302986,Rudi,Yudhiswara,Future Sales Agent,10,rudi.yudhiswara@gdn-commerce.com,1989-04-20,+62831474370724,"Jl. MH. Thamrin No. 64, Puncak Jaya, BE 37453",2020-09-09
+06301058,Desi,Alamsyah,Marketing Consultant,10,desi.alamsyah@gdn-commerce.com,1994-08-10,+62863067606181,"Jl. Diponegoro No. 84, Tual, JT 44048",2021-02-11
+06306900,Jaka,Satria,Healthcare Manager,5,jaka.satria@gdn-commerce.com,1973-03-05,+62882062109679,"Suite 645 Jl. Hayamwuruk No. 94, Tambrauw, SU 29377",2017-03-30
+06300128,Bayu,Kurnianto,Legacy Education Manager,8,bayu.kurnianto@gdn-commerce.com,1978-05-13,+62886312997039,"Suite 733 Jl. Hayamwuruk No. 48, Berau, KB 74344",2021-10-24
+06305993,Heri,Hartanto,Customer Representative,7,heri.hartanto@gdn-commerce.com,1988-10-01,+62890575308329,"Suite 547 Jl. Gatot Soebroto No. 72, Bangka Barat, KA 54090",2018-06-20
+06305074,Lidya,Santoso,Technology Agent,8,lidya.santoso@gdn-commerce.com,1992-12-17,+62836398940952,"Suite 604 Jl. Hayamwuruk No. 41, Samarinda, LA 81007",2020-07-06
+06301332,Aan,Ferdian,Central Legal Engineer,7,aan.ferdian@gdn-commerce.com,1990-11-30,+62864291803318,"Suite 196 Jl. Jend. Sudirman No. 71, Tegal, JB 01283",2017-10-24
+06306983,Pradipta,Jayakusuma,Education Producer,11,pradipta.jayakusuma@gdn-commerce.com,1986-08-31,+62871004104960,"Apt. 646 Jl. Gajahmada No. 29, Tanjung Balai, SR 41138",2019-02-11
+06305905,Iwan,Mardiansyah,Banking Director,4,iwan.mardiansyah@gdn-commerce.com,1970-06-12,+62825546041959,"Jl. MH. Thamrin No. 70, Tapin, KB 60839",2018-01-31
+06302864,Effendi,Bimantara,Community-Services Technician,13,effendi.bimantara@gdn-commerce.com,1980-10-13,+62848352804912,"Suite 198 Jl. Juanda No. 54, Sabu Raijua, KU 87083",2018-04-03
+06302656,Erika,Hendrawinata,Education Developer,4,erika.hendrawinata@gdn-commerce.com,2002-02-05,+62826269402649,"Apt. 577 Jl. Juanda No. 91, Jakarta Utara, NU 33980",2021-11-04
+06306304,Bagus,Candrawijaya,Internal Design Officer,4,bagus.candrawijaya@gdn-commerce.com,1994-09-11,+62852478453616,"Apt. 913 Jl. Gatot Soebroto No. 36, Mesuji, PP 60021",2019-06-24
+06300602,Danang,Januar,Banking Officer,10,danang.januar@gdn-commerce.com,1997-10-26,+62853360781339,"Apt. 928 Jl. Gatot Soebroto No. 36, Mesuji, BE 11645",2017-04-05
+06301871,Tiara,Gozali,Regional Real-Estate Specialist,13,tiara.gozali@gdn-commerce.com,1996-03-04,+62851750935497,"Apt. 515 Jl. Ahmad Yani No. 69, Kotamobagu, LA 85062",2021-02-01
+06306112,Zaenal,Wicaksono,National Farming Officer,8,zaenal.wicaksono@gdn-commerce.com,1996-10-21,+62816034808933,"Suite 132 Jl. Diponegoro No. 84, Lubuklinggau, NT 81897",2020-06-12
+06302979,Arif,Rudianto,Lead Mining Supervisor,13,arif.rudianto@gdn-commerce.com,1974-09-14,+62874153519159,"Apt. 808 Jl. Hayamwuruk No. 34, Mappi, KS 41294",2020-08-09
+06300318,Noval,Saputra,Marketing Coordinator,4,noval.saputra@gdn-commerce.com,1988-10-15,+62814453802067,"Jl. Kartini No. 17, Nunukan, BE 35793",2016-05-04
+06300393,Putri,Nurdiansyah,National Advertising Specialist,5,putri.nurdiansyah@gdn-commerce.com,2002-04-28,+62828135940292,"Jl. Kartini No. 75, Sikka, KI 49421",2018-07-09
+06306104,Anton,Januar,Retail Officer,9,anton.januar@gdn-commerce.com,1985-08-27,+62891635500406,"Suite 677 Jl. Diponegoro No. 58, Jakarta Pusat, SA 83335",2020-01-23
+06306786,Erika,Rianto,Dynamic Planner,12,erika.rianto@gdn-commerce.com,1980-01-11,+62841103640277,"Apt. 195 Jl. Gajahmada No. 18, Kudus, MA 49675",2019-04-14
+06300289,Yossi,Wirawan,Human Engineer,13,yossi.wirawan@gdn-commerce.com,1973-02-11,+62854230656334,"Jl. Jend. Sudirman No. 38, Lombok Tengah, LA 47703",2020-06-24
+06306484,Lia,Hermawan,Retail Executive,8,lia.hermawan@gdn-commerce.com,1993-05-23,+62838452476961,"Suite 912 Jl. Rasuna Said No. 82, Nagekeo, KS 53001",2017-08-31
+06301053,David,Kurniadi,Real-Estate Director,6,david.kurniadi@gdn-commerce.com,1988-10-26,+62811649577630,"Jl. Diponegoro No. 21, Tanggamus, ST 85722",2021-07-08
+06304940,Galih,Virgiawan,Marketing Administrator,7,galih.virgiawan@gdn-commerce.com,1983-07-09,+62833082517194,"Suite 117 Jl. Gatot Soebroto No. 96, Wonosobo, RI 19851",2016-08-29
+06302930,Fika,Thamrin,Chief Government Engineer,11,fika.thamrin@gdn-commerce.com,1977-10-01,+62841245747468,"Jl. Gajahmada No. 83, Binjai, KR 68656",2020-04-18
+06309020,Arya,Saputra,International Architect,9,arya.saputra@gdn-commerce.com,1976-04-12,+62821022082195,"Suite 748 Jl. Gatot Soebroto No. 83, Ketapang, KA 54973",2020-11-04
+06302182,Ahmad,Indragiri,Marketing Orchestrator,5,ahmad.indragiri@gdn-commerce.com,1982-08-19,+62853317410054,"Suite 545 Jl. Jend. Sudirman No. 29, Magetan, YO 52489",2019-06-07
+06303626,Tri,Nurdiansyah,Real-Estate Planner,8,tri.nurdiansyah@gdn-commerce.com,2001-07-11,+62822200896966,"Jl. Gatot Soebroto No. 34, Belitung, SR 40295",2018-05-07
+06309451,Victor,Waluyo,Internal Legal Assistant,7,victor.waluyo@gdn-commerce.com,1983-01-18,+62888131992215,"Suite 322 Jl. Kartini No. 56, Sleman, SB 95301",2021-01-23
+06307867,Diah,Jayakusuma,Senior Representative,7,diah.jayakusuma@gdn-commerce.com,1977-07-05,+62810301433141,"Jl. Gajahmada No. 54, Pagar Alam, MA 88997",2019-12-30
+06301274,Bagas,Kusumawardhana,Education Supervisor,7,bagas.kusumawardhana@gdn-commerce.com,1981-03-06,+62875614163670,"Jl. MH. Thamrin No. 32, Cilegon, JI 30372",2017-07-28
+06303853,Agus,Dzulfikar,National Healthcare Agent,5,agus.dzulfikar@gdn-commerce.com,1994-12-06,+62872447262986,"Jl. Jend. Sudirman No. 62, Buton, KB 13983",2017-12-14
+06300136,Iman,Gunardi,Legacy Advertising Orchestrator,12,iman.gunardi@gdn-commerce.com,1990-03-17,+62857068108069,"Jl. Hayamwuruk No. 40, Ogan Komering Ilir, NU 86219",2016-02-14
+06302943,Edi,Rianto,Mining Supervisor,10,edi.rianto@gdn-commerce.com,1985-01-30,+62819815433629,"Suite 763 Jl. Kartini No. 60, Merangin, RI 86276",2021-07-23
+06305216,Aji,Dinata,National Engineer,11,aji.dinata@gdn-commerce.com,2003-06-08,+62892759015083,"Apt. 452 Jl. Juanda No. 53, Banggai, JB 05850",2021-08-07
+06300252,Kiki,Lesmana,National Marketing Associate,7,kiki.lesmana@gdn-commerce.com,1976-11-02,+62874562128668,"Jl. Juanda No. 56, Pesawaran, SN 47264",2021-01-30
+06303702,Aditya,Kurniawan,Human Designer,7,aditya.kurniawan@gdn-commerce.com,1976-09-09,+62822028352493,"Jl. Gatot Soebroto No. 94, Kepulauan Aru, RI 51698",2019-09-07
+06307939,Yudi,Fachriawan,Mining Engineer,5,yudi.fachriawan@gdn-commerce.com,2001-09-19,+62835315244312,"Jl. Gajahmada No. 42, Balikpapan, KR 48770",2018-09-28
+06306044,Sigit,Komarudin,Chief Technician,13,sigit.komarudin@gdn-commerce.com,1979-03-14,+62834082132733,"Jl. Jend. Sudirman No. 62, Hulu Sungai Tengah, LA 93323",2021-08-04
+06303863,Wisnu,Atmadja,Central Government Producer,8,wisnu.atmadja@gdn-commerce.com,2000-12-03,+62865009205279,"Jl. Rasuna Said No. 77, Bolaang Mongondow Utara, SM 70733",2020-04-12
+06307243,Devi,Rusmana,Community-Services Officer,7,devi.rusmana@gdn-commerce.com,1982-02-10,+62868494265309,"Jl. Jend. Sudirman No. 84, Ogan Komering Ilir, KU 25586",2021-07-06
+06307261,Erika,Ismail,Dynamic Manufacturing Strategist,11,erika.ismail@gdn-commerce.com,1973-11-26,+62824605115199,"Jl. Diponegoro No. 16, Minahasa Utara, MA 32929",2017-04-20
+06305611,Nina,Ginting,Direct Manager,4,nina.ginting@gdn-commerce.com,1979-11-04,+62814828869768,"Apt. 763 Jl. Kartini No. 52, Solok, BA 87787",2020-12-06
+06300508,Hamdan,Unggul,Legacy Advertising Associate,13,hamdan.unggul@gdn-commerce.com,1974-01-19,+62864870247386,"Jl. Diponegoro No. 39, Wajo, KR 36093",2017-08-04
+06301808,Toni,Ilham,Banking Administrator,11,toni.ilham@gdn-commerce.com,1980-08-13,+62826673995875,"Suite 625 Jl. MH. Thamrin No. 50, Pemalang, JI 14228",2017-06-04
+06304000,Imam,Indrajaya,Legacy Design Associate,11,imam.indrajaya@gdn-commerce.com,1998-08-29,+62831926034288,"Apt. 102 Jl. Diponegoro No. 41, Gorontalo Utara, NT 90152",2019-02-02
+06305486,Effendi,Pradhana,Global Sales Technician,5,effendi.pradhana@gdn-commerce.com,1976-02-15,+62836250341250,"Apt. 371 Jl. Gajahmada No. 74, Sleman, KI 68836",2021-08-12
+06307997,Arya,Jayadi,Customer Engineer,9,arya.jayadi@gdn-commerce.com,2003-07-11,+62878557757235,"Jl. Gajahmada No. 22, Palopo, NT 51332",2017-12-17
+06300997,Vivi,Zulfikara,IT Engineer,13,vivi.zulfikara@gdn-commerce.com,2001-06-16,+62811143689306,"Jl. Hayamwuruk No. 27, Pangkal Pinang, LA 94595",2017-12-30
+06309685,Arya,Cahyadi,Design Director,13,arya.cahyadi@gdn-commerce.com,2002-05-15,+62877943023133,"Suite 298 Jl. Rasuna Said No. 65, Majalengka, KS 51459",2019-03-24
+06308206,Vicky,Nasrudin,Regional Technology Officer,4,vicky.nasrudin@gdn-commerce.com,1999-03-02,+62834419194280,"Suite 388 Jl. Ahmad Yani No. 86, Belitung, JB 43943",2018-02-12
+06300231,Popi,Dwiantoro,Mining Manager,7,popi.dwiantoro@gdn-commerce.com,1970-06-23,+62854272794937,"Jl. Rasuna Said No. 91, Tapanuli Selatan, JK 30595",2016-07-26
+06302922,Heni,Aristianto,Banking Representative,5,heni.aristianto@gdn-commerce.com,1984-06-02,+62824287031153,"Jl. Juanda No. 78, Deli Serdang, MU 20916",2019-06-02
+06300841,Pandu,Cahyadi,Central Retail Coordinator,12,pandu.cahyadi@gdn-commerce.com,1977-10-21,+62892611384648,"Apt. 528 Jl. Gajahmada No. 33, Ogan Ilir, SR 26788",2018-10-18
+06309045,Arif,Haryanto,International Manufacturing Agent,6,arif.haryanto@gdn-commerce.com,1994-07-03,+62883620701136,"Suite 637 Jl. Gajahmada No. 12, Bangka Tengah, SS 07132",2016-03-08
+06309480,Ahmad,Budiarto,Legal Strategist,4,ahmad.budiarto@gdn-commerce.com,1989-05-30,+62835350136510,"Jl. Hayamwuruk No. 83, Simalungun, AC 72590",2016-10-27
+06300031,Nina,Marzuki,Mining Architect,10,nina.marzuki@gdn-commerce.com,1978-06-10,+62858013665214,"Apt. 421 Jl. Hayamwuruk No. 99, Jakarta Timur, GO 09048",2019-09-29
+06306733,Bambang,Pradipta,Legacy Officer,11,bambang.pradipta@gdn-commerce.com,1983-07-14,+62831402690089,"Jl. Ahmad Yani No. 20, Kulon Progo, BA 34000",2018-09-17
+06300566,Oki,Jayadi,Government Technician,5,oki.jayadi@gdn-commerce.com,1994-11-29,+62843731104403,"Apt. 265 Jl. Gajahmada No. 77, Sumba Barat Daya, JB 16847",2019-11-21
+06301942,Ahmad,Sugiarto,Lead Agent,7,ahmad.sugiarto@gdn-commerce.com,1976-04-03,+62850323622697,"Suite 411 Jl. Gatot Soebroto No. 89, Pegunungan Bintang, PB 37625",2016-12-03
+06301215,Kartini,Pradhana,Technology Engineer,9,kartini.pradhana@gdn-commerce.com,2001-12-06,+62844584946825,"Suite 817 Jl. Juanda No. 50, Bengkulu, SS 92545",2021-02-10
+06300677,Wira,Ongky,Lead Developer,11,wira.ongky@gdn-commerce.com,1989-03-16,+62860550534154,"Apt. 738 Jl. Gatot Soebroto No. 38, Banggai Kepulauan, KA 24197",2018-01-16
+06302475,Lisa,Utama,Design Specialist,13,lisa.utama@gdn-commerce.com,1985-04-07,+62840772810691,"Suite 211 Jl. Jend. Sudirman No. 89, Magetan, YO 62827",2019-10-08
+06303854,Heri,Winarta,Retail Administrator,7,heri.winarta@gdn-commerce.com,1974-07-28,+62852761509437,"Jl. Ahmad Yani No. 64, Minahasa Utara, JB 16748",2016-03-17
+06307723,Hengky,Unggul,Future Officer,9,hengky.unggul@gdn-commerce.com,1987-05-10,+62835863660606,"Apt. 881 Jl. Hayamwuruk No. 33, Sukabumi, MU 27864",2020-10-14
+06307780,Indra,Ginting,Advertising Director,6,indra.ginting@gdn-commerce.com,2000-03-22,+62814692028711,"Apt. 472 Jl. Ahmad Yani No. 30, Magelang, BE 06765",2016-03-27
+06307904,Jaya,Fauzi,Mining Developer,13,jaya.fauzi@gdn-commerce.com,1984-11-04,+62854700452789,"Jl. Gajahmada No. 24, Hulu Sungai Selatan, PB 46456",2021-12-20
+06300545,Wahyu,Yudhistira,Senior Officer,7,wahyu.yudhistira@gdn-commerce.com,1992-01-06,+62832942642336,"Jl. Juanda No. 66, Takalar, SG 41966",2019-09-29
+06305676,Bambang,Nainggolan,Investor Education Representative,11,bambang.nainggolan@gdn-commerce.com,1976-05-06,+62821439315098,"Jl. Hayamwuruk No. 55, Hulu Sungai Tengah, GO 12193",2018-06-12
+06304504,Diah,Ismail,Administration Designer,12,diah.ismail@gdn-commerce.com,1990-07-23,+62890904712195,"Jl. Rasuna Said No. 72, Bolaang Mongondow Utara, ST 47053",2018-03-22
+06307846,Pandu,Ferdian,Community-Services Analyst,9,pandu.ferdian@gdn-commerce.com,2003-08-09,+62890547993604,"Jl. Juanda No. 59, Indragiri Hulu, SR 20282",2016-08-17
+06301899,Hengky,Riyadi,National Consultant,11,hengky.riyadi@gdn-commerce.com,1979-09-12,+62834261295501,"Jl. Kartini No. 11, Pagar Alam, SA 61659",2018-07-24
+06302872,Ahmad,Unggul,Direct Mining Coordinator,13,ahmad.unggul@gdn-commerce.com,1996-10-20,+62851202935514,"Apt. 530 Jl. Jend. Sudirman No. 53, Cilegon, SR 78659",2018-07-26
+06307315,Toni,Candrawijaya,Global Banking Administrator,5,toni.candrawijaya@gdn-commerce.com,1994-10-28,+62853755204562,"Jl. Kartini No. 15, Supiori, SN 35662",2016-07-26
+06302410,Anton,Sugianto,Customer Supervisor,10,anton.sugianto@gdn-commerce.com,1995-11-29,+62864773878716,"Apt. 676 Jl. Diponegoro No. 21, Bengkulu Tengah, JW 21818",2021-01-11
+06306195,Pandu,Cahyadi,Dynamic Retail Architect,12,pandu.cahyadi@gdn-commerce.com,1977-05-31,+62892186963306,"Suite 211 Jl. MH. Thamrin No. 71, Luwu, JB 48734",2016-06-25
+06303536,Wira,Kusuma,Healthcare Producer,7,wira.kusuma@gdn-commerce.com,1983-05-29,+62879936230086,"Suite 642 Jl. Ahmad Yani No. 43, Halmahera Selatan, BE 53471",2016-05-26
+06308237,Hengky,Yudhiswara,Community-Services Coordinator,9,hengky.yudhiswara@gdn-commerce.com,1976-05-03,+62872625097329,"Jl. Rasuna Said No. 64, Ketapang, SB 21131",2020-05-12
+06303260,Dimas,Saragih,Central Liaison,9,dimas.saragih@gdn-commerce.com,1979-10-29,+62899514858561,"Suite 605 Jl. Hayamwuruk No. 82, Banyuwangi, KS 26155",2021-06-23
+06309681,Imam,Utama,Central Design Supervisor,6,imam.utama@gdn-commerce.com,1985-06-30,+62893358341581,"Jl. Juanda No. 87, Hulu Sungai Selatan, SU 83725",2018-08-10
+06305367,Tiara,Abdullah,Consulting Administrator,12,tiara.abdullah@gdn-commerce.com,1990-09-13,+62864053843034,"Suite 534 Jl. Kartini No. 86, Polewali Mandar, KB 01893",2016-12-16
+06300935,Sigit,Winardi,District Analyst,9,sigit.winardi@gdn-commerce.com,1987-03-23,+62896726345622,"Apt. 875 Jl. Kartini No. 90, Simalungun, BB 52481",2018-02-15
+06301166,Choirul,Wicaksono,Corporate Legal Orchestrator,6,choirul.wicaksono@gdn-commerce.com,1978-11-18,+62862563309094,"Suite 856 Jl. Gajahmada No. 91, Sumbawa, SU 51881",2016-04-19
+06309857,Budi,Novianto,Marketing Specialist,11,budi.novianto@gdn-commerce.com,1985-09-29,+62817242024549,"Apt. 392 Jl. Juanda No. 72, Siau Tagulandang Biaro, KT 34512",2018-11-18
+06305909,Prily,Ginanjar,International Banking Producer,12,prily.ginanjar@gdn-commerce.com,1981-12-24,+62893027914879,"Jl. Rasuna Said No. 22, Jakarta Barat, KI 65239",2020-06-19
+06309538,Aulia,Abdullah,Lead Manufacturing Representative,12,aulia.abdullah@gdn-commerce.com,1991-02-25,+62819560821308,"Jl. MH. Thamrin No. 53, Tanjung Jabung Timur, NB 60109",2016-08-17
+06305324,Salim,Rustam,Forward Manufacturing Representative,13,salim.rustam@gdn-commerce.com,2003-06-23,+62872501501685,"Apt. 266 Jl. Kartini No. 70, Padangsidimpuan, RI 92428",2020-03-30
+06302600,Aditya,Ferdian,Direct Coordinator,13,aditya.ferdian@gdn-commerce.com,1976-07-14,+62895523293683,"Suite 105 Jl. MH. Thamrin No. 51, Lima Puluh Kota, KU 28406",2021-09-14
+06303935,Gita,Kurniadi,National Officer,9,gita.kurniadi@gdn-commerce.com,2002-10-08,+62835660626977,"Apt. 416 Jl. Jend. Sudirman No. 44, Sikka, KA 77584",2019-08-29
+06302635,Budi,Lesmana,Direct Farming Specialist,8,budi.lesmana@gdn-commerce.com,1995-06-16,+62820939942473,"Jl. Gajahmada No. 66, Aceh Timur, BE 37906",2017-02-12
+06303561,Kartini,Yudhistira,Internal Legal Agent,5,kartini.yudhistira@gdn-commerce.com,2003-10-03,+62830545977825,"Apt. 512 Jl. Ahmad Yani No. 41, Bandung Barat, YO 63618",2019-06-21
+06309220,Raditya,Triwijaya,Construction Representative,11,raditya.triwijaya@gdn-commerce.com,1991-08-01,+62870821677974,"Jl. Diponegoro No. 53, Palu, SA 43396",2018-09-17
+06304168,Zaenal,Sugiarto,Design Liaison,8,zaenal.sugiarto@gdn-commerce.com,1998-02-25,+62827506299772,"Jl. Gajahmada No. 26, Bireuen, SA 22748",2020-02-10
+06302568,Roni,Nasrudin,Lead Consultant,12,roni.nasrudin@gdn-commerce.com,1974-05-29,+62858557256998,"Apt. 390 Jl. Hayamwuruk No. 94, Klungkung, SA 63311",2020-11-01
+06308021,Andi,Marzuki,Banking Officer,12,andi.marzuki@gdn-commerce.com,1971-10-13,+62886040259443,"Jl. Juanda No. 78, Bojonegoro, MU 76428",2020-04-15
+06308809,Bayu,Winarta,National Farming Specialist,13,bayu.winarta@gdn-commerce.com,2002-07-24,+62870434115081,"Suite 770 Jl. Diponegoro No. 62, Batu, KB 66143",2018-04-08
+06304204,Effendi,Setiawan,Senior Healthcare Assistant,8,effendi.setiawan@gdn-commerce.com,1975-07-17,+62860915518591,"Apt. 877 Jl. Gatot Soebroto No. 88, Bojonegoro, AC 40460",2020-05-19
+06307210,Wendy,Kurniadi,Central Farming Developer,6,wendy.kurniadi@gdn-commerce.com,1977-05-07,+62859263282101,"Suite 736 Jl. Jend. Sudirman No. 26, Sinjai, MA 85389",2019-04-30
+06301905,Raditya,Wirawan,Internal Assistant,8,raditya.wirawan@gdn-commerce.com,1984-04-28,+62822767049488,"Suite 984 Jl. Diponegoro No. 76, Raja Ampat, JB 98161",2020-08-04
+06300892,Yudhistira,Indragiri,Corporate Education Director,11,yudhistira.indragiri@gdn-commerce.com,1978-08-02,+62896785448027,"Suite 465 Jl. Gatot Soebroto No. 41, Grobogan, PA 24573",2019-03-30
+06308006,Vira,Fachriawan,Healthcare Planner,9,vira.fachriawan@gdn-commerce.com,1981-06-05,+62876508663928,"Jl. Hayamwuruk No. 23, Rote Ndao, KS 99471",2019-10-04
+06305966,Prima,Armansyah,Healthcare Developer,4,prima.armansyah@gdn-commerce.com,1983-10-21,+62885639679713,"Jl. Jend. Sudirman No. 33, Puncak Jaya, PP 60760",2019-08-05
+06307290,Erika,Nababan,Lead Government Engineer,9,erika.nababan@gdn-commerce.com,1987-05-11,+62836766522098,"Apt. 162 Jl. Juanda No. 79, Luwu Timur, KI 59946",2018-08-03
+06308690,Tiara,Winarta,Community-Services Manager,11,tiara.winarta@gdn-commerce.com,1984-02-18,+62845287103260,"Apt. 702 Jl. Ahmad Yani No. 92, Denpasar, YO 79125",2016-03-29
+06309735,Umar,Wijanarko,Marketing Director,12,umar.wijanarko@gdn-commerce.com,1977-12-04,+62844438952089,"Apt. 705 Jl. Diponegoro No. 69, Nagan Raya, KI 77369",2021-05-29
+06308080,Qomar,Jayadinata,Human Mining Coordinator,7,qomar.jayadinata@gdn-commerce.com,1972-10-13,+62821571633138,"Apt. 417 Jl. Hayamwuruk No. 68, Sorong Selatan, YO 28453",2017-04-15
+06306947,Sandi,Yudhistira,National Banking Director,9,sandi.yudhistira@gdn-commerce.com,1999-08-11,+62890602775245,"Jl. Hayamwuruk No. 73, Tomohon, JK 62096",2018-07-03
+06309935,Vira,Gozali,Principal Legal Manager,7,vira.gozali@gdn-commerce.com,1972-09-20,+62826616269993,"Jl. Rasuna Said No. 76, Pesawaran, LA 50308",2019-09-01
+06303365,Qomar,Zulfikara,International Administration Officer,4,qomar.zulfikara@gdn-commerce.com,1981-07-01,+62890114735099,"Suite 859 Jl. Rasuna Said No. 71, Sidoarjo, LA 45858",2019-01-29
+06301946,Indah,Mahendra,Marketing Executive,13,indah.mahendra@gdn-commerce.com,1978-07-14,+62850327770054,"Jl. Diponegoro No. 85, Bangka Selatan, BT 52411",2019-07-04
+06301826,Prima,Dzulfikar,Banking Producer,12,prima.dzulfikar@gdn-commerce.com,1986-11-10,+62844646788762,"Jl. Diponegoro No. 48, Metro, JI 51289",2019-02-27
+06307168,Lely,Gunajaya,Legacy Legal Technician,10,lely.gunajaya@gdn-commerce.com,1974-02-25,+62893262550789,"Jl. Gatot Soebroto No. 58, Lombok Tengah, MU 92385",2020-03-29
+06308071,Sigit,Kurnianto,International Community-Services Officer,10,sigit.kurnianto@gdn-commerce.com,1993-04-21,+62889679871590,"Jl. Ahmad Yani No. 63, Yahukimo, KI 42547",2016-11-04
+06305293,Wahyu,Armansyah,Forward Coordinator,6,wahyu.armansyah@gdn-commerce.com,1986-03-12,+62890264563066,"Jl. MH. Thamrin No. 51, Yalimo, AC 00128",2017-04-29
+06306874,Iwan,Idris,International Community-Services Orchestrator,8,iwan.idris@gdn-commerce.com,1979-12-22,+62845414278162,"Jl. Hayamwuruk No. 37, Bangka Tengah, NU 27968",2018-06-22
+06306371,Sandi,Prawira,Community-Services Associate,9,sandi.prawira@gdn-commerce.com,2002-01-04,+62867249991784,"Suite 300 Jl. Rasuna Said No. 41, Sorong Selatan, NU 80439",2021-05-22
+06308637,Rosa,Fachriawan,Senior Assistant,11,rosa.fachriawan@gdn-commerce.com,1999-11-07,+62837076863531,"Jl. Ahmad Yani No. 23, Kutai Timur, ST 07149",2019-06-10
+06309425,Deni,Djunaedi,Global Marketing Planner,10,deni.djunaedi@gdn-commerce.com,1982-04-09,+62819577807484,"Jl. Ahmad Yani No. 51, Buru, SN 73586",2018-05-17
+06307095,Muhammad,Zulfikri,National Mining Liaison,9,muhammad.zulfikri@gdn-commerce.com,1990-05-15,+62852783731371,"Suite 856 Jl. Juanda No. 32, Seram Bagian Barat, MA 31602",2016-03-08
+06303270,Toni,Hartono,Farming Planner,9,toni.hartono@gdn-commerce.com,1988-08-03,+62864153285872,"Apt. 734 Jl. Gajahmada No. 19, Kerinci, BA 24711",2019-05-07
+06309546,Yossi,Saputra,Legacy IT Planner,7,yossi.saputra@gdn-commerce.com,1980-01-03,+62871230491452,"Suite 335 Jl. Kartini No. 90, Samosir, SL 16273",2016-11-28
+06306071,Vivi,Indrajaya,Regional Representative,8,vivi.indrajaya@gdn-commerce.com,1986-02-14,+62810389820719,"Apt. 856 Jl. Hayamwuruk No. 26, Sidenreng Rappang, JT 93458",2017-05-16
+06300617,Victor,Oktavian,National Marketing Coordinator,4,victor.oktavian@gdn-commerce.com,1988-02-08,+62835993467802,"Jl. MH. Thamrin No. 45, Waropen, JB 09968",2019-06-27
+06307698,Bima,Kusuma,Construction Designer,9,bima.kusuma@gdn-commerce.com,1994-02-10,+62847052494190,"Jl. Kartini No. 72, Jakarta Pusat, JB 68754",2016-12-18
+06300982,Prima,Idris,District Coordinator,11,prima.idris@gdn-commerce.com,1979-11-01,+62829797225406,"Jl. Juanda No. 34, Maluku Tenggara, KA 01004",2016-08-29
+06308687,Imam,Kusumawardhana,Global Legal Facilitator,9,imam.kusumawardhana@gdn-commerce.com,1976-09-13,+62876599173109,"Jl. MH. Thamrin No. 20, Ngawi, PB 16060",2016-01-09
+06305987,Nisa,Rusli,Regional Hospitality Engineer,5,nisa.rusli@gdn-commerce.com,2002-09-23,+62849929953761,"Jl. Juanda No. 46, Bulungan, NT 99403",2017-10-22
+06301853,Dina,Fauzi,Sales Executive,9,dina.fauzi@gdn-commerce.com,1996-09-12,+62849658157162,"Suite 621 Jl. Ahmad Yani No. 82, Malang, MA 87908",2021-01-18
+06305838,Budi,Daniawan,Legal Officer,4,budi.daniawan@gdn-commerce.com,1996-05-05,+62817969040041,"Jl. Diponegoro No. 47, Palu, KB 56325",2018-05-12
+06303057,Diah,Dwiantoro,Dynamic Education Coordinator,8,diah.dwiantoro@gdn-commerce.com,1970-05-27,+62876548161144,"Suite 677 Jl. Diponegoro No. 62, Minahasa Tenggara, SB 58778",2020-01-14
+06303480,Rosa,Umbara,Farming Director,11,rosa.umbara@gdn-commerce.com,1973-06-02,+62858361902784,"Apt. 583 Jl. Diponegoro No. 54, Kotawaringin Barat, SU 74113",2020-11-12
+06307723,Endang,Ginting,Product Specialist,11,endang.ginting@gdn-commerce.com,1970-10-26,+62821693231877,"Suite 332 Jl. Rasuna Said No. 56, Boalemo, BB 90955",2020-08-21
+06302640,Adi,Rustam,Design Supervisor,4,adi.rustam@gdn-commerce.com,1997-02-22,+62882540261177,"Jl. Jend. Sudirman No. 31, Bengkulu Selatan, NU 64956",2020-06-06
+06305289,Diah,Lesmana,Sales Analyst,10,diah.lesmana@gdn-commerce.com,1988-03-12,+62834068029632,"Suite 569 Jl. Jend. Sudirman No. 83, Palu, SN 49568",2020-10-04
+06300239,Vira,Gautama,Principal Assistant,13,vira.gautama@gdn-commerce.com,1987-03-12,+62887344648519,"Apt. 885 Jl. Gatot Soebroto No. 21, Sintang, KR 23777",2020-10-21
+06300041,Salim,Ikhsan,Retail Architect,11,salim.ikhsan@gdn-commerce.com,1987-10-06,+62867585374232,"Jl. Jend. Sudirman No. 30, Aceh Selatan, JA 70264",2016-10-14
+06308359,Aditya,Prawira,Human Advertising Liaison,5,aditya.prawira@gdn-commerce.com,1978-10-13,+62897705121723,"Apt. 997 Jl. Juanda No. 35, Solok Selatan, KI 61343",2020-11-16
+06302048,Heri,Hartanto,Marketing Representative,5,heri.hartanto@gdn-commerce.com,1981-03-18,+62876479808997,"Apt. 460 Jl. Jend. Sudirman No. 12, Pandeglang, KR 00265",2018-07-31
+06304452,Bagas,Riansyah,Government Administrator,4,bagas.riansyah@gdn-commerce.com,1992-08-07,+62852630576363,"Suite 898 Jl. Gajahmada No. 97, Aceh Tenggara, SA 29654",2016-06-23
+06308031,Aulia,Candrawijaya,Human Marketing Producer,9,aulia.candrawijaya@gdn-commerce.com,1988-11-07,+62893298759060,"Jl. Hayamwuruk No. 35, Sumba Barat, SU 50390",2020-02-07
+06304612,Yudha,Nugraha,Marketing Director,4,yudha.nugraha@gdn-commerce.com,1985-03-13,+62821844806674,"Jl. MH. Thamrin No. 83, Tidore Kepulauan, NT 89804",2016-10-12
+06303134,Anton,Sugianto,Farming Developer,5,anton.sugianto@gdn-commerce.com,1989-04-18,+62865299405770,"Apt. 655 Jl. Ahmad Yani No. 71, Nagekeo, KT 05067",2021-12-14
+06301101,Agus,Pradipta,Retail Associate,10,agus.pradipta@gdn-commerce.com,1981-01-16,+62840251659170,"Jl. Kartini No. 46, Kaur, SU 49199",2016-10-04
+06301777,Arya,Lazuardi,Healthcare Architect,12,arya.lazuardi@gdn-commerce.com,1988-06-17,+62849421198691,"Jl. Ahmad Yani No. 80, Purworejo, GO 82916",2020-07-04
+06308222,Slamet,Zulkarnain,Accounting Analyst,11,slamet.zulkarnain@gdn-commerce.com,1995-03-01,+62826328138498,"Jl. Jend. Sudirman No. 16, Sikka, JW 40316",2019-10-25
+06306745,Wawan,Gunajaya,Mining Engineer,9,wawan.gunajaya@gdn-commerce.com,1982-12-27,+62877455018381,"Suite 719 Jl. Hayamwuruk No. 99, Deli Serdang, GO 81012",2018-10-13
+06302441,Vanya,Erlangga,Product Manufacturing Coordinator,13,vanya.erlangga@gdn-commerce.com,1992-10-31,+62835608906988,"Suite 983 Jl. Ahmad Yani No. 82, Simeulue, PB 36950",2018-07-15
+06302077,Anton,Fachri,Direct Manufacturing Analyst,7,anton.fachri@gdn-commerce.com,1999-01-30,+62878565635440,"Suite 486 Jl. Gatot Soebroto No. 43, Manado, SS 05329",2019-03-27
+06301493,Aditya,Ginanjar,Dynamic Supervisor,4,aditya.ginanjar@gdn-commerce.com,2000-12-29,+62898484445214,"Apt. 743 Jl. Rasuna Said No. 76, Simeulue, JA 39315",2021-07-20
+06303929,Adi,Winarta,Legacy Community-Services Strategist,13,adi.winarta@gdn-commerce.com,1973-12-10,+62848220736165,"Jl. Gatot Soebroto No. 79, Tanjung Pinang, KI 71577",2020-11-08
+06302595,Tito,Ferianto,Retail Officer,8,tito.ferianto@gdn-commerce.com,1971-06-25,+62887307531158,"Jl. Hayamwuruk No. 99, Lumajang, JK 62972",2018-03-31
+06308725,Wendy,Lazuardi,Direct Community-Services Representative,11,wendy.lazuardi@gdn-commerce.com,2002-06-30,+62890740261365,"Suite 813 Jl. Diponegoro No. 29, Banyumas, MA 38437",2016-05-27
+06307448,Pandu,Santoso,Direct Sales Technician,12,pandu.santoso@gdn-commerce.com,1979-10-03,+62876055139554,"Jl. Rasuna Said No. 42, Temanggung, JW 62349",2016-02-06
+06300680,Yudha,Indrajaya,Consulting Representative,4,yudha.indrajaya@gdn-commerce.com,1980-11-20,+62863981778895,"Apt. 899 Jl. Rasuna Said No. 67, Timor Tengah Selatan, SM 14866",2020-05-13
+06301161,Nina,Sanjaya,Construction Agent,10,nina.sanjaya@gdn-commerce.com,1996-10-21,+62863164643600,"Suite 995 Jl. Jend. Sudirman No. 25, Nias, KT 67669",2018-11-19
+06302363,Rahmat,Indragiri,Internal Mining Engineer,5,rahmat.indragiri@gdn-commerce.com,1992-05-28,+62824690001174,"Apt. 767 Jl. Kartini No. 80, Kepulauan Selayar, NU 20917",2016-12-24
+06304430,Ruslan,Ginting,Future Manager,4,ruslan.ginting@gdn-commerce.com,1978-10-24,+62871103489801,"Suite 362 Jl. Gatot Soebroto No. 22, Deiyai, ST 41656",2017-05-14
+06304237,Bagus,Ciputra,Principal Mining Supervisor,6,bagus.ciputra@gdn-commerce.com,1988-11-26,+62831184493973,"Apt. 310 Jl. Kartini No. 52, Balangan, JK 05372",2018-12-15
+06304435,Sigit,Iswanto,Human Advertising Developer,8,sigit.iswanto@gdn-commerce.com,1991-05-25,+62852542093282,"Suite 357 Jl. Jend. Sudirman No. 62, Lampung Selatan, YO 67413",2019-12-15
+06305695,Edi,Pribadi,Corporate Assistant,7,edi.pribadi@gdn-commerce.com,1973-12-23,+62833460768145,"Jl. Hayamwuruk No. 48, Penajam Paser Utara, KS 26298",2016-03-27
+06303828,Dion,Ardianto,Senior Education Representative,13,dion.ardianto@gdn-commerce.com,1976-12-12,+62813322508874,"Jl. Diponegoro No. 10, Deli Serdang, KS 34970",2020-08-06
+06309500,Topan,Djunaedi,Real-Estate Strategist,5,topan.djunaedi@gdn-commerce.com,1989-07-17,+62863077750120,"Jl. Rasuna Said No. 90, Luwu Utara, JK 47684",2021-05-12
+06308313,Setya,Firmansyah,Education Architect,13,setya.firmansyah@gdn-commerce.com,1975-06-30,+62860325887119,"Apt. 986 Jl. Diponegoro No. 41, Palangka Raya, NU 93600",2020-07-16
+06307414,Beni,Gautama,Senior Executive,13,beni.gautama@gdn-commerce.com,2000-04-09,+62820875641277,"Jl. Diponegoro No. 60, Raja Ampat, SB 73513",2016-03-23
+06302954,Devi,Rusmana,Global Retail Manager,9,devi.rusmana@gdn-commerce.com,1985-03-25,+62840287284326,"Apt. 776 Jl. Juanda No. 77, Kerinci, KU 77324",2021-04-13
+06300571,Effendi,Kusumawardhana,Regional Architect,12,effendi.kusumawardhana@gdn-commerce.com,1985-01-18,+62893624643015,"Apt. 488 Jl. Gajahmada No. 89, Lanny Jaya, PB 01546",2016-04-03
